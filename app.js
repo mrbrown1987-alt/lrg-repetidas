@@ -377,6 +377,7 @@
         desc: r.desc || '',
         price: (typeof r.price === 'number') ? r.price : null,
         priceBase: (typeof r.priceBase === 'number') ? r.priceBase : null,
+        rotation: (r.rotation === 'cw' || r.rotation === 'ccw') ? r.rotation : null,
         key: r.key || (serie + '-' + number + '-' + (r.finish || 'none'))
       };
     });
@@ -548,18 +549,23 @@
     lbClose.focus();
   }
   function showLightboxCard(c) {
-    lbCard.classList.remove('is-landscape');
+    var rot = (c.rotation === 'cw' || c.rotation === 'ccw') ? c.rotation : '';
+    lbCard.classList.remove('is-landscape', 'rotate-cw', 'rotate-ccw');
+    if (rot === 'cw') lbCard.classList.add('is-landscape', 'rotate-cw');
+    else if (rot === 'ccw') lbCard.classList.add('is-landscape', 'rotate-ccw');
     lbImg.hidden = false;
     lbPlaceholder.hidden = true;
     lbImg.onload = function () {
       lbImg.hidden = false;
       lbPlaceholder.hidden = true;
-      lbCard.classList.toggle('is-landscape', lbImg.naturalWidth > lbImg.naturalHeight);
+      if (!rot) {
+        lbCard.classList.toggle('is-landscape', lbImg.naturalWidth > lbImg.naturalHeight * 1.05);
+      }
     };
     lbImg.onerror = function () {
       lbImg.hidden = true;
       lbPlaceholder.hidden = false;
-      lbCard.classList.remove('is-landscape');
+      lbCard.classList.remove('is-landscape', 'rotate-cw', 'rotate-ccw');
     };
     lbImg.src = IMG_DIR + (c.file || '');
     lbImg.alt = c.name || '';

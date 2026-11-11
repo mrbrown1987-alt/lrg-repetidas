@@ -971,6 +971,13 @@ body.select-mode .card .card-media::after{
     repeating-linear-gradient(135deg, var(--pink) 0px, var(--pink) 2px, var(--pink-light) 2px, var(--pink-light) 14px);
   overflow:hidden;
 }
+.lb-rotator{
+  width:100%;
+  height:100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
 .lb-media img{
   width:100%; height:100%;
   object-fit:contain;
@@ -1000,6 +1007,38 @@ body.select-mode .card .card-media::after{
   border-left:0;
   border-top:1.5px solid rgba(21,21,27,.14);
   padding:16px 20px;
+}
+.lb-card.is-landscape .lb-rotator{
+  width:100%;
+  height:auto;
+}
+.lb-card.is-landscape .lb-rotator img{
+  width:100%;
+  height:auto;
+  max-height:70vh;
+  object-fit:contain;
+}
+
+/* Landscape cards stored vertically: rotate the image upright in a wide frame */
+.lb-card.is-landscape.rotate-cw .lb-media,
+.lb-card.is-landscape.rotate-ccw .lb-media{
+  height:70vh;
+}
+.lb-card.is-landscape.rotate-cw .lb-rotator,
+.lb-card.is-landscape.rotate-ccw .lb-rotator{
+  width:auto;
+  height:100%;
+  aspect-ratio:71 / 100;
+  flex:0 0 auto;
+}
+.lb-card.is-landscape.rotate-cw .lb-rotator{ transform:rotate(90deg); }
+.lb-card.is-landscape.rotate-ccw .lb-rotator{ transform:rotate(-90deg); }
+.lb-card.is-landscape.rotate-cw .lb-rotator img,
+.lb-card.is-landscape.rotate-ccw .lb-rotator img{
+  width:100%;
+  height:100%;
+  max-height:none;
+  object-fit:contain;
 }
 .lb-placeholder{
   position:absolute; inset:0;

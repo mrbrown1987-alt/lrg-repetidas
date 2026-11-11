@@ -10,8 +10,9 @@ Web estática (HTML/CSS/JS, sin build ni dependencias) con un **catálogo solo d
 - **Título y marco negros** por defecto; al seleccionar una carta se añade un **anillo metálico** plateado o dorado según el acabado, con globo **GOLD/SILVER**. Las Dreamcast llevan imagen genérica (logo sobre fondo blanco) y globo DREAMCAST hasta que hagas las fotos.
 - **Globo de precio** arriba a la derecha de cada carta: precio final en **$**, convertido desde € (×1,10) y redondeado hacia arriba a múltiplos de 5.
 - **Tema**: catálogo normal en negro/gris, con las pestañas de serie en rosa; el modo **Seleccionar cartas** y la vista **Selected** recuperan el rosa.
+- **Orientación**: TC Manager marca 400 cartas apaisadas en `orientation.js`; 197 están en esta lista. El zoom las gira (`cw`/`ccw`) y las muestra en horizontal; el catálogo las mantiene verticales, como la app original.
 - **Filtros**: serie (Todas / Serie 1 / 2 / 3 / **Dreamcast**), acabado (Todos / Oro / Plata), buscador y columnas.
-- **Selección del visitante**: pulsa **Seleccionar cartas** y haz clic en las cartas para añadirlas; vuelve a pulsar el botón para terminar. Sin ese modo, al pulsar una carta se abre el **zoom** de la imagen (si la imagen es apaisada, se muestra en formato ancho). Vista **Selected** con total, última seleccionada primero, vaciar y exportar CSV/ZIP.
+- **Selección del visitante**: pulsa **Seleccionar cartas** y haz clic en las cartas para añadirlas; vuelve a pulsar el botón para terminar. Sin ese modo, al pulsar una carta se abre el **zoom** de la imagen; las cartas apaisadas etiquetadas en TC Manager se giran 90° y se muestran en formato ancho. Vista **Selected** con total, última seleccionada primero, vaciar y exportar CSV/ZIP.
 - **Solicitar precios**: formulario con email + Instagram o Reddit + comprobación humana. Envía el CSV de la selección a tu email vía **FormSubmit** (el email va en el action del formulario oculto; no se muestra en la interfaz).
 - **Vista iPhone**: `preview-iphone.html`, un marco de iPhone con la web dentro (enlace en el pie).
 - **Sin logo** dentro de la web.
