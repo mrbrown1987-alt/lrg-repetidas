@@ -290,6 +290,7 @@
   var lbClose = $('lbClose');
   var lbPrev = $('lbPrev');
   var lbNext = $('lbNext');
+  var lbCard = document.querySelector('.lb-card');
 
   /* ---------------- state ---------------- */
   var cards = [];
@@ -549,10 +550,19 @@
     lbClose.focus();
   }
   function showLightboxCard(c) {
+    lbCard.classList.remove('is-landscape');
     lbImg.hidden = false;
     lbPlaceholder.hidden = true;
-    lbImg.onload = function () { lbImg.hidden = false; lbPlaceholder.hidden = true; };
-    lbImg.onerror = function () { lbImg.hidden = true; lbPlaceholder.hidden = false; };
+    lbImg.onload = function () {
+      lbImg.hidden = false;
+      lbPlaceholder.hidden = true;
+      lbCard.classList.toggle('is-landscape', lbImg.naturalWidth > lbImg.naturalHeight);
+    };
+    lbImg.onerror = function () {
+      lbImg.hidden = true;
+      lbPlaceholder.hidden = false;
+      lbCard.classList.remove('is-landscape');
+    };
     lbImg.src = IMG_DIR + (c.file || '');
     lbImg.alt = c.name || '';
     lbSerie.textContent = serieLabel(c.serie);
