@@ -54,7 +54,6 @@
       selNumber: 'Number',
       selName: 'Name (A–Z)',
       requestPrices: '✉ Request prices',
-      exportZip: '⬇ Export list + images (.zip)',
       exportCsv: 'Export list (.csv)',
       clearAll: 'Clear all',
       backToCatalog: '← Back to catalog',
@@ -77,10 +76,6 @@
       confirmClearTitle: 'Clear all selected cards?',
       confirmClearBody: 'This will remove every card from your selected list. This cannot be undone.',
       cancel: 'Cancel',
-      preparing: 'Preparing export…',
-      progress: 'Downloading images… {n}/{total}',
-      exportDone: 'Exported {n} cards.',
-      exportError: 'Export failed. The site needs to be served over http(s) for image downloads.',
       csvDone: 'List exported.',
       noSelection: 'Select some cards first.',
       cleared: 'Selection cleared.',
@@ -140,7 +135,6 @@
       selNumber: 'Número',
       selName: 'Nombre (A–Z)',
       requestPrices: '✉ Solicitar precios',
-      exportZip: '⬇ Exportar lista + imágenes (.zip)',
       exportCsv: 'Exportar lista (.csv)',
       clearAll: 'Vaciar todo',
       backToCatalog: '← Volver al catálogo',
@@ -163,10 +157,6 @@
       confirmClearTitle: '¿Vaciar todas las seleccionadas?',
       confirmClearBody: 'Se quitarán todas las cartas de tu lista. No se puede deshacer.',
       cancel: 'Cancelar',
-      preparing: 'Preparando exportación…',
-      progress: 'Descargando imágenes… {n}/{total}',
-      exportDone: 'Exportadas {n} cartas.',
-      exportError: 'Error al exportar. La web debe servirse por http(s) para descargar las imágenes.',
       csvDone: 'Lista exportada.',
       noSelection: 'Selecciona alguna carta primero.',
       cleared: 'Selección vaciada.',
@@ -235,7 +225,6 @@
   var selectedTotal = $('selectedTotal');
   var selectedSub = $('selectedSub');
   var requestPricesBtn = $('requestPricesBtn');
-  var exportZipBtn = $('exportZipBtn');
   var exportCsvBtn = $('exportCsvBtn');
   var clearSelectedBtn = $('clearSelectedBtn');
   var backToCatalog = $('backToCatalog');
@@ -747,146 +736,6 @@
     setTimeout(function () { URL.revokeObjectURL(url); }, 15000);
   }
 
-  var CRC_TABLE = (function () {
-    var table = new Uint32Array(256);
-    for (var n = 0; n < 256; n++) {
-      var c = n;
-      for (var k = 0; k < 8; k++) c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
-      table[n] = c >>> 0;
-    }
-    return table;
-  })();
-  function crc32(u8) {
-    var c = 0xFFFFFFFF;
-    for (var i = 0; i < u8.length; i++) c = CRC_TABLE[(c ^ u8[i]) & 0xFF] ^ (c >>> 8);
-    return (c ^ 0xFFFFFFFF) >>> 0;
-  }
-  function makeZip(files) {
-    var enc = new TextEncoder();
-    var d = new Date();
-    var dosTime = ((d.getHours() << 11) | (d.getMinutes() << 5) | (d.getSeconds() >> 1)) & 0xFFFF;
-    var dosDate = (((d.getFullYear() - 1980) << 9) | ((d.getMonth() + 1) << 5) | d.getDate()) & 0xFFFF;
-    var localParts = [];
-    var centralParts = [];
-    var offset = 0;
-    files.forEach(function (f) {
-      var nameBytes = enc.encode(f.name);
-      var data = f.data;
-      var crc = crc32(data);
-      var size = data.length;
-
-      var lh = new Uint8Array(30 + nameBytes.length);
-      var dv = new DataView(lh.buffer);
-      dv.setUint32(0, 0x04034b50, true);
-      dv.setUint16(4, 20, true);
-      dv.setUint16(6, 0x0800, true);
-      dv.setUint16(8, 0, true);
-      dv.setUint16(10, dosTime, true);
-      dv.setUint16(12, dosDate, true);
-      dv.setUint32(14, crc, true);
-      dv.setUint32(18, size, true);
-      dv.setUint32(22, size, true);
-      dv.setUint16(26, nameBytes.length, true);
-      dv.setUint16(28, 0, true);
-      lh.set(nameBytes, 30);
-      localParts.push(lh, data);
-
-      var cd = new Uint8Array(46 + nameBytes.length);
-      var cv = new DataView(cd.buffer);
-      cv.setUint32(0, 0x02014b50, true);
-      cv.setUint16(4, 20, true);
-      cv.setUint16(6, 20, true);
-      cv.setUint16(8, 0x0800, true);
-      cv.setUint16(10, 0, true);
-      cv.setUint16(12, dosTime, true);
-      cv.setUint16(14, dosDate, true);
-      cv.setUint32(16, crc, true);
-      cv.setUint32(20, size, true);
-      cv.setUint32(24, size, true);
-      cv.setUint16(28, nameBytes.length, true);
-      cv.setUint16(30, 0, true);
-      cv.setUint16(32, 0, true);
-      cv.setUint16(34, 0, true);
-      cv.setUint16(36, 0, true);
-      cv.setUint32(38, 0, true);
-      cv.setUint32(42, offset, true);
-      cd.set(nameBytes, 46);
-      centralParts.push(cd);
-
-      offset += lh.length + data.length;
-    });
-    var centralSize = centralParts.reduce(function (a, b) { return a + b.length; }, 0);
-    var eocd = new Uint8Array(22);
-    var ev = new DataView(eocd.buffer);
-    ev.setUint32(0, 0x06054b50, true);
-    ev.setUint16(4, 0, true);
-    ev.setUint16(6, 0, true);
-    ev.setUint16(8, files.length, true);
-    ev.setUint16(10, files.length, true);
-    ev.setUint32(12, centralSize, true);
-    ev.setUint32(16, offset, true);
-    ev.setUint16(20, 0, true);
-    return new Blob(localParts.concat(centralParts, [eocd]), { type: 'application/zip' });
-  }
-  function pool(items, limit, fn) {
-    var idx = 0;
-    function next() {
-      if (idx >= items.length) return Promise.resolve();
-      var item = items[idx++];
-      return Promise.resolve(fn(item)).then(next);
-    }
-    var workers = [];
-    for (var i = 0; i < Math.min(limit, items.length); i++) workers.push(next());
-    return Promise.all(workers);
-  }
-  function fetchCardImage(card) {
-    if (!card.file) return Promise.resolve(null);
-    return fetch(IMG_DIR + card.file)
-      .then(function (res) { return res.ok ? res.blob().then(function (b) { return { blob: b, filename: card.file }; }) : null; })
-      .catch(function () { return null; });
-  }
-  function exportReadme(list) {
-    return [
-      'LRG Duplicates — selected cards',
-      'Exported: ' + new Date().toISOString(),
-      'Cards: ' + list.length,
-      '',
-      'This ZIP contains:',
-      '  cards.csv  — the list of selected cards',
-      '  images/    — one image per selected card',
-      '',
-      'Generated by the LRG Duplicates website.'
-    ].join('\r\n');
-  }
-  async function exportZip() {
-    var list = getCartInOrder();
-    if (!list.length) { showToast(t('noSelection')); return; }
-    if (location.protocol === 'file:') { showToast(t('exportError')); return; }
-    showToast(t('preparing'), true);
-    var enc = new TextEncoder();
-    var files = [];
-    files.push({ name: 'cards.csv', data: enc.encode('\ufeff' + buildCSV(list)) });
-    files.push({ name: 'README.txt', data: enc.encode(exportReadme(list)) });
-    var done = 0;
-    var failed = 0;
-    await pool(list, 6, async function (card) {
-      var got = await fetchCardImage(card);
-      if (got) {
-        files.push({ name: 'images/' + got.filename, data: new Uint8Array(await got.blob.arrayBuffer()) });
-      } else {
-        failed++;
-      }
-      done++;
-      showToast(t('progress', { n: done, total: list.length }), true);
-    });
-    try {
-      var zip = makeZip(files);
-      downloadBlob(zip, 'lrg-duplicates-' + dateStamp() + '.zip');
-      showToast(t('exportDone', { n: fmtNum(list.length - failed) }));
-    } catch (e) {
-      showToast(t('exportError'));
-    }
-  }
   function exportCsv() {
     var list = getCartInOrder();
     if (!list.length) { showToast(t('noSelection')); return; }
@@ -1055,7 +904,6 @@
     selectedTitle.textContent = t('selectedTitle');
     selectedSub.textContent = t('selectedSub');
     requestPricesBtn.textContent = t('requestPrices');
-    exportZipBtn.textContent = t('exportZip');
     exportCsvBtn.textContent = t('exportCsv');
     clearSelectedBtn.textContent = t('clearAll');
     backToCatalog.textContent = t('backToCatalog');
@@ -1251,7 +1099,6 @@
     emptyBrowseBtn.addEventListener('click', function () { goToView('catalog', true); });
 
     requestPricesBtn.addEventListener('click', openEmailModal);
-    exportZipBtn.addEventListener('click', exportZip);
     exportCsvBtn.addEventListener('click', exportCsv);
     clearSelectedBtn.addEventListener('click', function () {
       askConfirm(t('confirmClearTitle'), t('confirmClearBody'), t('clearAll'), function () {

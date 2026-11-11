@@ -12,14 +12,14 @@ Web estática (HTML/CSS/JS, sin build ni dependencias) con un **catálogo solo d
 - **Tema**: catálogo normal en negro/gris, con las pestañas de serie en rosa; el modo **Seleccionar cartas** y la vista **Selected** recuperan el rosa.
 - **Orientación**: TC Manager marca 400 cartas apaisadas en `orientation.js`; 197 están en esta lista. El zoom las gira (`cw`/`ccw`) y las muestra en horizontal; el catálogo las mantiene verticales, como la app original.
 - **Filtros**: serie (Todas / Serie 1 / 2 / 3 / **Dreamcast**), acabado (Todos / Oro / Plata), buscador y columnas.
-- **Selección del visitante**: pulsa **Seleccionar cartas** y haz clic en las cartas para añadirlas; vuelve a pulsar el botón para terminar. Sin ese modo, al pulsar una carta se abre el **zoom** de la imagen; las cartas apaisadas etiquetadas en TC Manager se giran 90° y se muestran en formato ancho. Vista **Selected** con total, última seleccionada primero, vaciar y exportar CSV/ZIP.
+- **Selección del visitante**: pulsa **Seleccionar cartas** y haz clic en las cartas para añadirlas; vuelve a pulsar el botón para terminar. Sin ese modo, al pulsar una carta se abre el **zoom** de la imagen; las cartas apaisadas etiquetadas en TC Manager se giran 90° y se muestran en formato ancho. Vista **Selected** con total, última seleccionada primero, vaciar y exportar CSV.
 - **Solicitar precios**: formulario con email + Instagram o Reddit + comprobación humana. Envía el CSV de la selección a tu email vía **FormSubmit** (el email va en el action del formulario oculto; no se muestra en la interfaz).
 - **Vista iPhone**: `preview-iphone.html`, un marco de iPhone con la web dentro (enlace en el pie).
 - **Sin logo** dentro de la web.
 
 ## Ver en local
 
-Sirve la carpeta por HTTP (necesario para probar la exportación de imágenes y el envío de emails):
+Sirve la carpeta por HTTP (necesario para probar la exportación CSV y el envío de emails):
 
 ```bash
 cd lrg-repetidas
@@ -28,7 +28,7 @@ python3 -m http.server 8000
 
 Abre <http://localhost:8000>. También puedes doble clic en `serve.command`.
 
-> El catálogo y las imágenes funcionan abriendo `index.html` directamente; la exportación y el envío de email necesitan `http(s)`.
+> El catálogo y las imágenes funcionan abriendo `index.html` directamente; la exportación CSV y el envío de email necesitan `http(s)`.
 
 ## Publicar en GitHub Pages
 
