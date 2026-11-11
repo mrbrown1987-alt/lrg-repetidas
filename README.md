@@ -9,8 +9,8 @@ Web estática (HTML/CSS/JS, sin build ni dependencias) con un **catálogo solo d
 - **Una entrada por carta y acabado**: si una carta existe en oro y plata, aparecen las dos; si hay varias unidades del mismo color, solo una.
 - **Título rosa clásico** y **marco metálico grueso** alrededor de la carta: plateado o dorado según el acabado, con globo **GOLD/SILVER**. Las Dreamcast llevan imagen genérica (logo sobre fondo blanco) y globo DREAMCAST hasta que hagas las fotos.
 - **Globo de precio** arriba a la derecha de cada carta: precio final en **$**, convertido desde € (×1,10) y redondeado hacia arriba a múltiplos de 5.
-- **Filtros**: serie (Todas / Serie 1 / 2 / 3 / **Dreamcast**), acabado (Todos / Oro / Plata), buscador, orden y columnas.
-- **Selección del visitante**: haz clic en una carta para añadirla y vuelve a pulsarla para quitarla. Vista **Selected** con total, orden **última seleccionada primero**, vaciar y exportar CSV/ZIP.
+- **Filtros**: serie (Todas / Serie 1 / 2 / 3 / **Dreamcast**), acabado (Todos / Oro / Plata), buscador y columnas.
+- **Selección del visitante**: pulsa **Seleccionar cartas** y haz clic en las cartas para añadirlas; vuelve a pulsar el botón para terminar. Sin ese modo, al pulsar una carta se abre el **zoom** de la imagen. Vista **Selected** con total, última seleccionada primero, vaciar y exportar CSV/ZIP.
 - **Solicitar precios**: formulario con email + Instagram o Reddit + comprobación humana. Envía el CSV de la selección a tu email vía **FormSubmit** (el email va en el action del formulario oculto; no se muestra en la interfaz).
 - **Vista iPhone**: `preview-iphone.html`, un marco de iPhone con la web dentro (enlace en el pie).
 - **Sin logo** dentro de la web.

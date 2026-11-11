@@ -59,7 +59,7 @@
       clearAll: 'Clear all',
       backToCatalog: '← Back to catalog',
       emptySelTitle: 'No cards selected yet',
-      emptySelText: 'Go to the catalog and click the ＋ on the cards you want to ask about.',
+      emptySelText: 'Go to the catalog, press “Select cards” and click the ones you want to ask about.',
       browseCatalog: 'Browse catalog',
       viewBack: 'View back',
       viewFront: 'View front',
@@ -145,7 +145,7 @@
       clearAll: 'Vaciar todo',
       backToCatalog: '← Volver al catálogo',
       emptySelTitle: 'Aún no hay cartas seleccionadas',
-      emptySelText: 'Ve al catálogo y pulsa ＋ en las cartas que quieras consultar.',
+      emptySelText: 'Ve al catálogo, pulsa “Seleccionar cartas” y haz clic en las que quieras consultar.',
       browseCatalog: 'Ver catálogo',
       viewBack: 'Ver dorso',
       viewFront: 'Ver anverso',
@@ -275,6 +275,21 @@
   var labelReqReddit = $('labelReqReddit');
   var labelReqPuzzle = $('labelReqPuzzle');
   var toast = $('toast');
+  var selectModeBtn = $('selectModeBtn');
+  var selectModeLabel = $('selectModeLabel');
+  var lightbox = $('lightbox');
+  var lbImg = $('lbImg');
+  var lbPlaceholder = $('lbPlaceholder');
+  var lbNoImage = $('lbNoImage');
+  var lbSerie = $('lbSerie');
+  var lbNumber = $('lbNumber');
+  var lbName = $('lbName');
+  var lbRarity = $('lbRarity');
+  var lbDesc = $('lbDesc');
+  var lbPrice = $('lbPrice');
+  var lbClose = $('lbClose');
+  var lbPrev = $('lbPrev');
+  var lbNext = $('lbNext');
 
   /* ---------------- state ---------------- */
   var cards = [];
@@ -291,6 +306,8 @@
   var lastStamp = 0;
   var emailPuzzle = { a: 0, b: 0 };
   var emailBusy = false;
+  var selectionMode = false;
+  var lbIndex = -1;
   var toastTimer = null;
   var confirmAction = null;
 
@@ -508,6 +525,55 @@
     });
   }
 
+  /* ---------------- selection mode + zoom ---------------- */
+  function setSelectionMode(on) {
+    selectionMode = !!on;
+    document.body.classList.toggle('select-mode', selectionMode);
+    if (selectModeBtn) {
+      selectModeBtn.classList.toggle('active', selectionMode);
+      selectModeBtn.setAttribute('aria-pressed', selectionMode ? 'true' : 'false');
+    }
+    if (selectModeLabel) selectModeLabel.textContent = t(selectionMode ? 'doneSelecting' : 'selectCards');
+  }
+
+  function openLightbox(key) {
+    var idx = -1;
+    for (var i = 0; i < catalogList.length; i++) {
+      if (catalogList[i].key === key) { idx = i; break; }
+    }
+    if (idx < 0) return;
+    lbIndex = idx;
+    showLightboxCard(catalogList[idx]);
+    lightbox.hidden = false;
+    document.body.classList.add('lb-open');
+    lbClose.focus();
+  }
+  function showLightboxCard(c) {
+    lbImg.hidden = false;
+    lbPlaceholder.hidden = true;
+    lbImg.onload = function () { lbImg.hidden = false; lbPlaceholder.hidden = true; };
+    lbImg.onerror = function () { lbImg.hidden = true; lbPlaceholder.hidden = false; };
+    lbImg.src = IMG_DIR + (c.file || '');
+    lbImg.alt = c.name || '';
+    lbSerie.textContent = serieLabel(c.serie);
+    lbNumber.textContent = displayNumber(c);
+    lbName.textContent = c.name || '';
+    lbRarity.textContent = c.rarity || '';
+    lbDesc.textContent = c.desc || '';
+    lbPrice.textContent = (c.price != null) ? '$' + c.price : '';
+    lbNoImage.textContent = t('noImage');
+  }
+  function closeLightbox() {
+    lightbox.hidden = true;
+    document.body.classList.remove('lb-open');
+    lbIndex = -1;
+  }
+  function lbStep(delta) {
+    if (!catalogList.length || lbIndex < 0) return;
+    lbIndex = (lbIndex + delta + catalogList.length) % catalogList.length;
+    showLightboxCard(catalogList[lbIndex]);
+  }
+
   function pageNumbers(cur, total) {
     var out = [];
     var add = function (n) { if (out.indexOf(n) === -1) out.push(n); };
@@ -600,6 +666,10 @@
 
   /* ---------------- navigation ---------------- */
   function goToView(v, updateHash) {
+    if (v !== 'catalog') {
+      setSelectionMode(false);
+      if (!lightbox.hidden) closeLightbox();
+    }
     view = v;
     document.body.classList.toggle('selected-mode', v === 'selected');
     catalogView.hidden = v !== 'catalog';
@@ -966,6 +1036,8 @@
     searchInput.placeholder = t('searchPlaceholder');
     searchClear.setAttribute('aria-label', t('clearSearch'));
     selectPageBtn.textContent = t('selectPage');
+    if (selectModeLabel) selectModeLabel.textContent = t(selectionMode ? 'doneSelecting' : 'selectCards');
+    if (lbNoImage) lbNoImage.textContent = t('noImage');
     clearSelBtn.textContent = t('clear');
     viewSelectedBtn.textContent = t('viewSelected');
     selectedTitle.textContent = t('selectedTitle');
@@ -1087,20 +1159,45 @@
     pagination.addEventListener('click', onPageClick);
     paginationTop.addEventListener('click', onPageClick);
 
+    selectModeBtn.addEventListener('click', function () {
+      setSelectionMode(!selectionMode);
+    });
+
     cardGrid.addEventListener('click', function (e) {
       var cardEl = e.target.closest('.card');
       if (!cardEl) return;
       e.preventDefault();
-      toggleSelected(cardEl.getAttribute('data-key'));
-      refreshCatalogSelectionDOM();
+      if (selectionMode) {
+        toggleSelected(cardEl.getAttribute('data-key'));
+        refreshCatalogSelectionDOM();
+      } else {
+        openLightbox(cardEl.getAttribute('data-key'));
+      }
     });
     cardGrid.addEventListener('keydown', function (e) {
       if (e.key !== 'Enter' && e.key !== ' ') return;
       var cardEl = e.target.closest('.card');
       if (!cardEl) return;
       e.preventDefault();
-      toggleSelected(cardEl.getAttribute('data-key'));
-      refreshCatalogSelectionDOM();
+      if (selectionMode) {
+        toggleSelected(cardEl.getAttribute('data-key'));
+        refreshCatalogSelectionDOM();
+      } else {
+        openLightbox(cardEl.getAttribute('data-key'));
+      }
+    });
+
+    lbClose.addEventListener('click', closeLightbox);
+    lbPrev.addEventListener('click', function (e) { e.stopPropagation(); lbStep(-1); });
+    lbNext.addEventListener('click', function (e) { e.stopPropagation(); lbStep(1); });
+    lightbox.addEventListener('click', function (e) {
+      if (e.target === lightbox) closeLightbox();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (lightbox.hidden) return;
+      if (e.key === 'Escape') { e.preventDefault(); closeLightbox(); }
+      else if (e.key === 'ArrowLeft') { e.preventDefault(); lbStep(-1); }
+      else if (e.key === 'ArrowRight') { e.preventDefault(); lbStep(1); }
     });
 
     selectedGrid.addEventListener('click', function (e) {

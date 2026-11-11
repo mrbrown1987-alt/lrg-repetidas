@@ -282,6 +282,25 @@ main{
   flex-wrap:wrap;
   margin-top:12px;
 }
+.select-mode-btn{
+  margin-left:auto;
+  display:inline-flex;
+  align-items:center;
+  gap:7px;
+  border:1.5px solid var(--pink);
+  background:var(--panel);
+  color:var(--pink-deep);
+  font-weight:800;
+  font-size:13px;
+  padding:10px 16px;
+  border-radius:999px;
+  cursor:pointer;
+  white-space:nowrap;
+  transition:background .15s ease,color .15s ease,border-color .15s ease;
+}
+.select-mode-btn:hover{ background:var(--pink); color:#fff; }
+.select-mode-btn.active{ background:var(--pink-deep); border-color:var(--pink-deep); color:#fff; }
+.select-mode-btn svg{ flex:0 0 auto; }
 .control{ display:flex; flex-direction:column; gap:5px; }
 .control > label,
 .control-label{
@@ -609,6 +628,29 @@ body.select-mode .card-toggle{ opacity:1; transform:none; }
   border-bottom-color:rgba(0,0,0,.65);
   text-shadow:0 1px 0 rgba(0,0,0,.5);
 }
+
+/* Black title bars by default; pink while selection mode is active */
+.card-name-bar,
+.card-name-bar.finish-gold,
+.card-name-bar.finish-silver,
+.card-name-bar.finish-dreamcast{
+  background:#15151b;
+  background-image:none;
+  color:#fff;
+  border:1.5px solid #15151b;
+  text-shadow:none;
+}
+body.select-mode .card-name-bar,
+body.select-mode .card-name-bar.finish-gold,
+body.select-mode .card-name-bar.finish-silver,
+body.select-mode .card-name-bar.finish-dreamcast{
+  background:var(--pink);
+  background-image:none;
+  color:#fff;
+  border-color:var(--pink);
+  text-shadow:none;
+}
+body.select-mode .card{ cursor:crosshair; }
 
 /* ---------------- pagination ---------------- */
 .pagination{
@@ -1007,6 +1049,15 @@ body.select-mode .card .card-media::after{
   min-height:20px;
 }
 .lb-actions{ margin-top:auto; padding-top:14px; }
+.lb-price{
+  display:inline-block;
+  font-family:var(--font-mono);
+  font-size:28px;
+  font-weight:800;
+  letter-spacing:.01em;
+  color:var(--pink-deep);
+}
+body.lb-open{ overflow:hidden; }
 .lb-add-btn{
   width:100%;
   border:1.5px solid var(--pink);
