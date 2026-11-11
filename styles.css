@@ -383,6 +383,11 @@ main{
   align-items:center;
   gap:8px;
 }
+.results-row .pagination{
+  margin:0;
+  flex:1 1 auto;
+  justify-content:center;
+}
 .results-summary{
   margin:0;
   font-size:12.5px;
