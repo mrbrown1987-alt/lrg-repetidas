@@ -285,8 +285,6 @@
   var lbNumber = $('lbNumber');
   var lbName = $('lbName');
   var lbRarity = $('lbRarity');
-  var lbDesc = $('lbDesc');
-  var lbPrice = $('lbPrice');
   var lbClose = $('lbClose');
   var lbPrev = $('lbPrev');
   var lbNext = $('lbNext');
@@ -569,8 +567,6 @@
     lbNumber.textContent = displayNumber(c);
     lbName.textContent = c.name || '';
     lbRarity.textContent = c.rarity || '';
-    lbDesc.textContent = c.desc || '';
-    lbPrice.textContent = (c.price != null) ? '$' + c.price : '';
     lbNoImage.textContent = t('noImage');
   }
   function closeLightbox() {
