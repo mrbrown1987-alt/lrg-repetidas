@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LRG Duplicates · Limited Run Games</title>
+<meta name="description" content="Catalog of duplicate Limited Run Games trading cards, with gold and silver finishes. Request prices by email.">
+<link rel="stylesheet" href="vendor/fonts.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="#catalog" aria-label="LRG Duplicates home">
+      <span class="brand-title" id="brandTitle">LRG Duplicates</span>
+    </a>
+
+    <nav class="view-nav" aria-label="Views">
+      <button class="nav-btn active" id="navCatalog" type="button"><span id="navCatalogLabel">Catalog</span></button>
+      <button class="nav-btn" id="navSelected" type="button">
+        <span id="navSelectedLabel">Selected</span> <span class="nav-count" id="navSelectedCount">0</span>
+      </button>
+    </nav>
+
+    <div class="header-tools">
+      <button class="lang-btn" id="langBtn" type="button" aria-haspopup="listbox" aria-expanded="false">
+        <span id="langLabel">EN</span><span class="chev">▾</span>
+      </button>
+      <div class="lang-menu" id="langMenu" hidden role="listbox">
+        <button type="button" class="lang-option" data-lang="en">English</button>
+        <button type="button" class="lang-option" data-lang="es">Español</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <!-- ======================= CATALOG (duplicates only) ======================= -->
+  <section id="catalogView" class="view">
+    <div class="toolbar">
+      <div class="toolbar-line toolbar-line-top">
+        <div class="series-tabs" id="seriesTabs" role="tablist" aria-label="Filter by series"></div>
+        <div class="finish-filter" id="finishFilter" role="group" aria-label="Filter by finish"></div>
+      </div>
+
+      <div class="controls-row">
+        <div class="search-box" id="searchBox">
+          <svg class="search-ico" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <circle cx="7" cy="7" r="5.5" stroke="currentColor" stroke-width="1.5"/>
+            <path d="M11.4 11.4L14.5 14.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          <input type="search" id="searchInput" autocomplete="off" spellcheck="false" placeholder="Search by name or number…">
+          <button class="search-clear" id="searchClear" type="button" hidden aria-label="Clear search">
+            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" aria-hidden="true">
+              <path d="M1 1l8 8M9 1l-8 8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="results-row">
+        <p class="results-summary" id="resultsSummary"></p>
+        <div class="control control-cols">
+          <span class="control-label" id="perRowLabel">Per row</span>
+          <div class="cols-toggle" id="colsToggle" role="group" aria-label="Cards per row">
+            <button type="button" class="col-btn" data-cols="3">3</button>
+            <button type="button" class="col-btn" data-cols="4">4</button>
+            <button type="button" class="col-btn active" data-cols="5">5</button>
+            <button type="button" class="col-btn" data-cols="6">6</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="pagination pagination-top" id="paginationTop" hidden></div>
+    <div class="grid cols-5" id="cardGrid"></div>
+    <p class="empty-state" id="emptyState" hidden>No cards match that search.</p>
+    <div class="pagination" id="pagination" hidden></div>
+
+    <div class="select-bar" id="selectBar">
+      <div class="select-bar-left">
+        <span class="select-bar-count" id="selectBarCount">0 selected</span>
+        <button class="ghost-btn" id="selectPageBtn" type="button">Select page</button>
+        <button class="ghost-btn" id="clearSelBtn" type="button">Clear</button>
+      </div>
+      <div class="select-bar-right">
+        <button class="primary-btn small" id="viewSelectedBtn" type="button">View selected →</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======================= SELECTED (visitor's selection) ======================= -->
+  <section id="selectedView" class="view" hidden>
+    <div class="selected-head">
+      <div class="selected-title-wrap">
+        <button class="link-btn" id="backToCatalog" type="button">← Back to catalog</button>
+        <h2 class="selected-title"><span id="selectedTitle">Selected cards</span> <span class="total-badge" id="selectedTotal">0</span></h2>
+        <p class="selected-sub" id="selectedSub">Cards you are interested in, most recently selected first.</p>
+      </div>
+      <div class="selected-actions">
+        <button class="primary-btn request-btn" id="requestPricesBtn" type="button">✉ Request prices</button>
+        <button class="secondary-btn" id="exportZipBtn" type="button">⬇ Export list + images (.zip)</button>
+        <button class="secondary-btn" id="exportCsvBtn" type="button">Export list (.csv)</button>
+        <button class="danger-btn" id="clearSelectedBtn" type="button">Clear all</button>
+      </div>
+    </div>
+
+    <div class="grid cols-5" id="selectedGrid"></div>
+    <div class="empty-state selected-empty" id="selectedEmpty" hidden>
+      <p class="empty-title" id="emptySelTitle">No cards selected yet</p>
+      <p class="empty-text" id="emptySelText">Go to the catalog and click the ＋ on the cards you want to ask about.</p>
+      <button class="primary-btn" id="emptyBrowseBtn" type="button">Browse catalog</button>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p id="footerText">Unofficial fan collection · Limited Run Games is a trademark of its respective owners.</p>
+  <p class="footer-preview-link"><a href="preview-iphone.html" target="_blank" rel="noopener" id="mobilePreviewLink">📱 iPhone preview</a></p>
+</footer>
+
+<!-- ======================= CONFIRM ======================= -->
+<div class="modal" id="confirmModal" hidden>
+  <div class="modal-card">
+    <h2 class="modal-title" id="confirmTitle">Clear all selected cards?</h2>
+    <p class="modal-body" id="confirmBody">This will remove every card from your selected list.</p>
+    <div class="modal-actions">
+      <button class="ghost-btn" id="confirmCancel" type="button">Cancel</button>
+      <button class="danger-btn" id="confirmOk" type="button">Clear all</button>
+    </div>
+  </div>
+</div>
+
+<!-- ======================= PRICE REQUEST ======================= -->
+<div class="modal" id="emailModal" hidden>
+  <div class="modal-card email-card">
+    <button class="modal-close" id="emailClose" type="button" aria-label="Close">×</button>
+    <h2 class="modal-title" id="emailTitle">Request prices</h2>
+    <p class="modal-body" id="emailIntro">Send me your selection and I will reply with prices. Your email is only used to answer you.</p>
+    <form id="emailForm" novalidate>
+      <label class="field">
+        <span class="field-label" id="labelReqEmail">Your email *</span>
+        <input type="email" id="reqEmail" autocomplete="email" required>
+        <span class="field-error" id="errEmail"></span>
+      </label>
+
+      <div class="field-row">
+        <label class="field">
+          <span class="field-label" id="labelReqInstagram">Instagram (optional)</span>
+          <input type="text" id="reqInstagram" autocomplete="off" placeholder="@you or profile URL">
+        </label>
+        <label class="field">
+          <span class="field-label" id="labelReqReddit">Reddit (optional)</span>
+          <input type="text" id="reqReddit" autocomplete="off" placeholder="u/you or profile URL">
+        </label>
+      </div>
+      <p class="field-hint" id="profileHint">Give at least one: Instagram or Reddit.</p>
+
+      <label class="field">
+        <span class="field-label" id="labelReqPuzzle">Human check: 3 + 4 = ?</span>
+        <input type="number" id="reqPuzzle" inputmode="numeric" required>
+        <span class="field-error" id="errPuzzle"></span>
+      </label>
+
+      <input type="text" id="reqCompany" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+      <p class="field-error" id="errForm"></p>
+      <div class="modal-actions">
+        <button type="button" class="ghost-btn" id="emailCancel">Cancel</button>
+        <button type="submit" class="primary-btn" id="emailSend">Send request</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="toast" id="toast" hidden></div>
+
+<!-- FormSubmit: envío con formulario nativo (sin CORS) -->
+<form id="fsForm" method="POST" action="" target="fsTarget" hidden>
+  <input type="hidden" name="email" value="">
+  <input type="hidden" name="instagram" value="">
+  <input type="hidden" name="reddit" value="">
+  <input type="hidden" name="cards" value="">
+  <input type="hidden" name="count" value="">
+  <input type="hidden" name="_subject" value="">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_template" value="table">
+</form>
+<iframe name="fsTarget" id="fsTarget" hidden title="FormSubmit"></iframe>
+
+<script src="config.js"></script>
+<script src="duplicates_data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

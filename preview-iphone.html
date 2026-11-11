@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>LRG Duplicates · iPhone preview</title>
+<style>
+  :root{
+    /* iPhone 17 Pro Max logical screen */
+    --screen-w: 440px;
+    --screen-h: 956px;
+    --bezel: 11px;
+    --radius: 54px;
+    --scale: 0.9;
+  }
+  *{ box-sizing:border-box; }
+  html,body{
+    margin:0; min-height:100%;
+    background:#16161a;
+    color:#e9e9ee;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  body{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:22px;
+    padding:34px 16px;
+    overflow:hidden;
+  }
+  .caption{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:6px;
+    text-align:center;
+  }
+  .caption strong{
+    font-size:13px;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    color:#b9b9c4;
+    font-weight:700;
+  }
+  .caption a{
+    color:#ff7aa8;
+    font-size:12px;
+    text-decoration:underline;
+    text-underline-offset:3px;
+  }
+  .phone{
+    position:relative;
+    width:calc(var(--screen-w) + var(--bezel)*2);
+    height:calc(var(--screen-h) + var(--bezel)*2);
+    background:#000;
+    border-radius:calc(var(--radius) + var(--bezel));
+    box-shadow:0 0 0 2px #2a2a30, 0 40px 80px -20px rgba(0,0,0,.8);
+    transform:scale(var(--scale));
+    flex:none;
+  }
+  .screen{
+    position:absolute;
+    inset:var(--bezel);
+    border-radius:var(--radius);
+    overflow:hidden;
+    background:#fff;
+  }
+  .screen iframe{
+    display:block; width:100%; height:100%;
+    border:0; background:#fff;
+  }
+
+  /* Dynamic Island */
+  .island{
+    position:absolute; top:12px; left:50%; transform:translateX(-50%);
+    width:126px; height:36px; border-radius:20px; background:#000;
+    z-index:30; pointer-events:none;
+  }
+
+  /* iOS status bar: mix-blend-mode difference keeps it readable on light/dark */
+  .statusbar{
+    position:absolute; top:0; left:0; right:0; height:54px; z-index:20;
+    display:flex; align-items:center; justify-content:space-between;
+    padding:0 30px;
+    color:#fff;
+    mix-blend-mode:difference;
+    pointer-events:none;
+    font-size:15px; font-weight:600;
+  }
+  .statusbar .time{ padding-top:2px; }
+  .statusbar .right{ display:flex; align-items:center; gap:7px; padding-top:2px; }
+  .statusbar svg{ display:block; }
+
+  /* home indicator */
+  .homebar{
+    position:absolute; bottom:9px; left:50%; transform:translateX(-50%);
+    width:134px; height:5px; border-radius:3px; background:rgba(0,0,0,.85);
+    z-index:20; pointer-events:none;
+  }
+</style>
+</head>
+<body>
+  <div class="caption">
+    <strong>LRG Duplicates · iPhone preview</strong>
+    <a href="index.html" target="_blank" rel="noopener">Abrir la web completa ↗</a>
+  </div>
+
+  <div class="phone">
+    <div class="screen">
+      <iframe id="app" src="index.html?preview=iphone" title="LRG Duplicates"></iframe>
+      <div class="statusbar">
+        <span class="time" id="clock">09:41</span>
+        <span class="right">
+          <svg width="18" height="12" viewBox="0 0 18 12"><path d="M1 11V9M4 11V6M7 11V4M10 11V2M13 11V5M16 11V8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+          <svg width="16" height="12" viewBox="0 0 16 12"><path d="M1 4.5A9 9 0 0 1 15 4.5M2.6 7.2A6.5 6.5 0 0 1 13.4 7.2M4.3 9.7A4 4 0 0 1 11.7 9.7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" fill="none"/></svg>
+          <svg width="26" height="12" viewBox="0 0 26 12"><rect x="1" y="1" width="21" height="10" rx="3" stroke="currentColor" stroke-width="1.3" fill="none"/><rect x="23.5" y="4" width="1.8" height="4" rx="1" fill="currentColor"/><rect x="3" y="3" width="16" height="6" rx="1.5" fill="currentColor"/></svg>
+        </span>
+      </div>
+      <div class="island"></div>
+      <div class="homebar"></div>
+    </div>
+  </div>
+
+<script>
+  function tick(){
+    var d = new Date();
+    document.getElementById('clock').textContent =
+      String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0');
+  }
+  tick(); setInterval(tick, 30000);
+</script>
+</body>
+</html>

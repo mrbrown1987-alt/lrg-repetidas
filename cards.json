@@ -1,0 +1,9820 @@
+[
+  {
+    "serie": 1,
+    "number": "1",
+    "name": "Dariusburst CS",
+    "imgId": "001",
+    "filenameBase": "001_S1"
+  },
+  {
+    "serie": 1,
+    "number": "2",
+    "name": "Dariusburst CS",
+    "imgId": "002",
+    "filenameBase": "002_S1"
+  },
+  {
+    "serie": 1,
+    "number": "3",
+    "name": "Furi",
+    "imgId": "003",
+    "filenameBase": "003_S1"
+  },
+  {
+    "serie": 1,
+    "number": "4",
+    "name": "Furi",
+    "imgId": "004",
+    "filenameBase": "004_S1"
+  },
+  {
+    "serie": 1,
+    "number": "5",
+    "name": "Bard's Gold",
+    "imgId": "005",
+    "filenameBase": "005_S1"
+  },
+  {
+    "serie": 1,
+    "number": "6",
+    "name": "Bard's Gold",
+    "imgId": "006",
+    "filenameBase": "006_S1"
+  },
+  {
+    "serie": 1,
+    "number": "7",
+    "name": "The Bunker",
+    "imgId": "007",
+    "filenameBase": "007_S1"
+  },
+  {
+    "serie": 1,
+    "number": "8",
+    "name": "The Bunker",
+    "imgId": "008",
+    "filenameBase": "008_S1"
+  },
+  {
+    "serie": 1,
+    "number": "9",
+    "name": "Lili",
+    "imgId": "009",
+    "filenameBase": "009_S1"
+  },
+  {
+    "serie": 1,
+    "number": "10",
+    "name": "Lili",
+    "imgId": "010",
+    "filenameBase": "010_S1"
+  },
+  {
+    "serie": 1,
+    "number": "11",
+    "name": "RIVE",
+    "imgId": "011",
+    "filenameBase": "011_S1"
+  },
+  {
+    "serie": 1,
+    "number": "12",
+    "name": "RIVE",
+    "imgId": "012",
+    "filenameBase": "012_S1"
+  },
+  {
+    "serie": 1,
+    "number": "13",
+    "name": "Plague Road",
+    "imgId": "013",
+    "filenameBase": "013_S1"
+  },
+  {
+    "serie": 1,
+    "number": "14",
+    "name": "Plague Road",
+    "imgId": "014",
+    "filenameBase": "014_S1"
+  },
+  {
+    "serie": 1,
+    "number": "15",
+    "name": "Oceanhorn",
+    "imgId": "015",
+    "filenameBase": "015_S1"
+  },
+  {
+    "serie": 1,
+    "number": "16",
+    "name": "Oceanhorn",
+    "imgId": "016",
+    "filenameBase": "016_S1"
+  },
+  {
+    "serie": 1,
+    "number": "17",
+    "name": "Drive! Drive! Drive!",
+    "imgId": "017",
+    "filenameBase": "017_S1"
+  },
+  {
+    "serie": 1,
+    "number": "18",
+    "name": "Drive! Drive! Drive!",
+    "imgId": "018",
+    "filenameBase": "018_S1"
+  },
+  {
+    "serie": 1,
+    "number": "19",
+    "name": "Night Trap",
+    "imgId": "019",
+    "filenameBase": "019_S1"
+  },
+  {
+    "serie": 1,
+    "number": "20",
+    "name": "Night Trap",
+    "imgId": "020",
+    "filenameBase": "020_S1"
+  },
+  {
+    "serie": 1,
+    "number": "21",
+    "name": "N++",
+    "imgId": "021",
+    "filenameBase": "021_S1"
+  },
+  {
+    "serie": 1,
+    "number": "22",
+    "name": "N++",
+    "imgId": "022",
+    "filenameBase": "022_S1"
+  },
+  {
+    "serie": 1,
+    "number": "23",
+    "name": "NeuroVoider",
+    "imgId": "023",
+    "filenameBase": "023_S1"
+  },
+  {
+    "serie": 1,
+    "number": "24",
+    "name": "NeuroVoider",
+    "imgId": "024",
+    "filenameBase": "024_S1"
+  },
+  {
+    "serie": 1,
+    "number": "25",
+    "name": "Wonder Boy",
+    "imgId": "025",
+    "filenameBase": "025_S1"
+  },
+  {
+    "serie": 1,
+    "number": "26",
+    "name": "Wonder Boy",
+    "imgId": "026",
+    "filenameBase": "026_S1"
+  },
+  {
+    "serie": 1,
+    "number": "27",
+    "name": "LawBreakers",
+    "imgId": "027",
+    "filenameBase": "027_S1"
+  },
+  {
+    "serie": 1,
+    "number": "28",
+    "name": "LawBreakers",
+    "imgId": "028",
+    "filenameBase": "028_S1"
+  },
+  {
+    "serie": 1,
+    "number": "29",
+    "name": "SteamWorld Dig",
+    "imgId": "029",
+    "filenameBase": "029_S1"
+  },
+  {
+    "serie": 1,
+    "number": "30",
+    "name": "SteamWorld Dig",
+    "imgId": "030",
+    "filenameBase": "030_S1"
+  },
+  {
+    "serie": 1,
+    "number": "31",
+    "name": "SteamWorld Heist",
+    "imgId": "031",
+    "filenameBase": "031_S1"
+  },
+  {
+    "serie": 1,
+    "number": "32",
+    "name": "SteamWorld Heist",
+    "imgId": "032",
+    "filenameBase": "032_S1"
+  },
+  {
+    "serie": 1,
+    "number": "33",
+    "name": "The Flame in the Flood",
+    "imgId": "033",
+    "filenameBase": "033_S1"
+  },
+  {
+    "serie": 1,
+    "number": "34",
+    "name": "The Flame in the Flood",
+    "imgId": "034",
+    "filenameBase": "034_S1"
+  },
+  {
+    "serie": 1,
+    "number": "35",
+    "name": "Asdivine Hearts",
+    "imgId": "035",
+    "filenameBase": "035_S1"
+  },
+  {
+    "serie": 1,
+    "number": "36",
+    "name": "Asdivine Hearts",
+    "imgId": "036",
+    "filenameBase": "036_S1"
+  },
+  {
+    "serie": 1,
+    "number": "37",
+    "name": "Claire Extended Cut",
+    "imgId": "037",
+    "filenameBase": "037_S1"
+  },
+  {
+    "serie": 1,
+    "number": "38",
+    "name": "Claire Extended Cut",
+    "imgId": "038",
+    "filenameBase": "038_S1"
+  },
+  {
+    "serie": 1,
+    "number": "39",
+    "name": "La Mulana",
+    "imgId": "039",
+    "filenameBase": "039_S1"
+  },
+  {
+    "serie": 1,
+    "number": "40",
+    "name": "La Mulana",
+    "imgId": "040",
+    "filenameBase": "040_S1"
+  },
+  {
+    "serie": 1,
+    "number": "41",
+    "name": "Nex Machina",
+    "imgId": "041",
+    "filenameBase": "041_S1"
+  },
+  {
+    "serie": 1,
+    "number": "42",
+    "name": "Nex Machina",
+    "imgId": "042",
+    "filenameBase": "042_S1"
+  },
+  {
+    "serie": 1,
+    "number": "43",
+    "name": "Nex Machina",
+    "imgId": "043",
+    "filenameBase": "043_S1"
+  },
+  {
+    "serie": 1,
+    "number": "44",
+    "name": "Rabi-Ribi",
+    "imgId": "044",
+    "filenameBase": "044_S1"
+  },
+  {
+    "serie": 1,
+    "number": "45",
+    "name": "Rabi-Ribi",
+    "imgId": "045",
+    "filenameBase": "045_S1"
+  },
+  {
+    "serie": 1,
+    "number": "46",
+    "name": "Sky Force Anniversary",
+    "imgId": "046",
+    "filenameBase": "046_S1"
+  },
+  {
+    "serie": 1,
+    "number": "47",
+    "name": "Sky Force Anniversary",
+    "imgId": "047",
+    "filenameBase": "047_S1"
+  },
+  {
+    "serie": 1,
+    "number": "48",
+    "name": "Read Only Memories",
+    "imgId": "048",
+    "filenameBase": "048_S1"
+  },
+  {
+    "serie": 1,
+    "number": "49",
+    "name": "Read Only Memories",
+    "imgId": "049",
+    "filenameBase": "049_S1"
+  },
+  {
+    "serie": 1,
+    "number": "50",
+    "name": "Read Only Memories",
+    "imgId": "050",
+    "filenameBase": "050_S1"
+  },
+  {
+    "serie": 1,
+    "number": "51",
+    "name": "Jotun",
+    "imgId": "051",
+    "filenameBase": "051_S1"
+  },
+  {
+    "serie": 1,
+    "number": "52",
+    "name": "Jotun",
+    "imgId": "052",
+    "filenameBase": "052_S1"
+  },
+  {
+    "serie": 1,
+    "number": "53",
+    "name": "Ys Origin",
+    "imgId": "053",
+    "filenameBase": "053_S1"
+  },
+  {
+    "serie": 1,
+    "number": "54",
+    "name": "Ys Origin",
+    "imgId": "054",
+    "filenameBase": "054_S1"
+  },
+  {
+    "serie": 1,
+    "number": "55",
+    "name": "Ys Origin",
+    "imgId": "055",
+    "filenameBase": "055_S1"
+  },
+  {
+    "serie": 1,
+    "number": "56",
+    "name": "Fallen Legion",
+    "imgId": "056",
+    "filenameBase": "056_S1"
+  },
+  {
+    "serie": 1,
+    "number": "57",
+    "name": "Fallen Legion",
+    "imgId": "057",
+    "filenameBase": "057_S1"
+  },
+  {
+    "serie": 1,
+    "number": "58",
+    "name": "Caladrius Blaze",
+    "imgId": "058",
+    "filenameBase": "058_S1"
+  },
+  {
+    "serie": 1,
+    "number": "59",
+    "name": "Caladrius Blaze",
+    "imgId": "059",
+    "filenameBase": "059_S1"
+  },
+  {
+    "serie": 1,
+    "number": "60",
+    "name": "Caladrius Blaze",
+    "imgId": "060",
+    "filenameBase": "060_S1"
+  },
+  {
+    "serie": 1,
+    "number": "61",
+    "name": "River City Melee",
+    "imgId": "061",
+    "filenameBase": "061_S1"
+  },
+  {
+    "serie": 1,
+    "number": "62",
+    "name": "River City Melee",
+    "imgId": "062",
+    "filenameBase": "062_S1"
+  },
+  {
+    "serie": 1,
+    "number": "63",
+    "name": "Skullgirls 2nd Encore",
+    "imgId": "063",
+    "filenameBase": "063_S1"
+  },
+  {
+    "serie": 1,
+    "number": "64",
+    "name": "Skullgirls 2nd Encore",
+    "imgId": "064",
+    "filenameBase": "064_S1"
+  },
+  {
+    "serie": 1,
+    "number": "65",
+    "name": "The BIT.TRIP",
+    "imgId": "065",
+    "filenameBase": "065_S1"
+  },
+  {
+    "serie": 1,
+    "number": "66",
+    "name": "The BIT.TRIP",
+    "imgId": "066",
+    "filenameBase": "066_S1"
+  },
+  {
+    "serie": 1,
+    "number": "67",
+    "name": "Tharsis",
+    "imgId": "067",
+    "filenameBase": "067_S1"
+  },
+  {
+    "serie": 1,
+    "number": "68",
+    "name": "Tharsis",
+    "imgId": "068",
+    "filenameBase": "068_S1"
+  },
+  {
+    "serie": 1,
+    "number": "69",
+    "name": "Hue",
+    "imgId": "069",
+    "filenameBase": "069_S1"
+  },
+  {
+    "serie": 1,
+    "number": "70",
+    "name": "Hue",
+    "imgId": "070",
+    "filenameBase": "070_S1"
+  },
+  {
+    "serie": 1,
+    "number": "71",
+    "name": "Hue",
+    "imgId": "071",
+    "filenameBase": "071_S1"
+  },
+  {
+    "serie": 1,
+    "number": "72",
+    "name": "Flinthook",
+    "imgId": "072",
+    "filenameBase": "072_S1"
+  },
+  {
+    "serie": 1,
+    "number": "73",
+    "name": "Flinthook",
+    "imgId": "073",
+    "filenameBase": "073_S1"
+  },
+  {
+    "serie": 1,
+    "number": "74",
+    "name": "Chariot",
+    "imgId": "074",
+    "filenameBase": "074_S1"
+  },
+  {
+    "serie": 1,
+    "number": "75",
+    "name": "Chariot",
+    "imgId": "075",
+    "filenameBase": "075_S1"
+  },
+  {
+    "serie": 1,
+    "number": "76",
+    "name": "Windjammers",
+    "imgId": "076",
+    "filenameBase": "076_S1"
+  },
+  {
+    "serie": 1,
+    "number": "77",
+    "name": "Windjammers",
+    "imgId": "077",
+    "filenameBase": "077_S1"
+  },
+  {
+    "serie": 1,
+    "number": "78",
+    "name": "Home",
+    "imgId": "078",
+    "filenameBase": "078_S1"
+  },
+  {
+    "serie": 1,
+    "number": "79",
+    "name": "Home",
+    "imgId": "079",
+    "filenameBase": "079_S1"
+  },
+  {
+    "serie": 1,
+    "number": "80",
+    "name": "Croixleur Sigma",
+    "imgId": "080",
+    "filenameBase": "080_S1"
+  },
+  {
+    "serie": 1,
+    "number": "81",
+    "name": "Croixleur Sigma",
+    "imgId": "081",
+    "filenameBase": "081_S1"
+  },
+  {
+    "serie": 1,
+    "number": "82",
+    "name": "Saturday Morning RPG",
+    "imgId": "082",
+    "filenameBase": "082_S1"
+  },
+  {
+    "serie": 1,
+    "number": "83",
+    "name": "Breach & Clear",
+    "imgId": "083",
+    "filenameBase": "083_S1"
+  },
+  {
+    "serie": 1,
+    "number": "84",
+    "name": "Senko no Ronde 2",
+    "imgId": "084",
+    "filenameBase": "084_S1"
+  },
+  {
+    "serie": 1,
+    "number": "85",
+    "name": "Senko no Ronde 2",
+    "imgId": "085",
+    "filenameBase": "085_S1"
+  },
+  {
+    "serie": 1,
+    "number": "86",
+    "name": "Ys Origin",
+    "imgId": "086",
+    "filenameBase": "086_S1"
+  },
+  {
+    "serie": 1,
+    "number": "87",
+    "name": "Night Trap",
+    "imgId": "087",
+    "filenameBase": "087_S1"
+  },
+  {
+    "serie": 1,
+    "number": "88",
+    "name": "Night Trap",
+    "imgId": "088",
+    "filenameBase": "088_S1"
+  },
+  {
+    "serie": 1,
+    "number": "89",
+    "name": "Breach & Clear: Deadline",
+    "imgId": "089",
+    "filenameBase": "089_S1"
+  },
+  {
+    "serie": 1,
+    "number": "90",
+    "name": "Curses N' Chaos",
+    "imgId": "090",
+    "filenameBase": "090_S1"
+  },
+  {
+    "serie": 1,
+    "number": "91",
+    "name": "Dear Esther",
+    "imgId": "091",
+    "filenameBase": "091_S1"
+  },
+  {
+    "serie": 1,
+    "number": "92",
+    "name": "Broken Age",
+    "imgId": "092",
+    "filenameBase": "092_S1"
+  },
+  {
+    "serie": 1,
+    "number": "93",
+    "name": "Deemo",
+    "imgId": "093",
+    "filenameBase": "093_S1"
+  },
+  {
+    "serie": 1,
+    "number": "94",
+    "name": "Flinthook",
+    "imgId": "094",
+    "filenameBase": "094_S1"
+  },
+  {
+    "serie": 1,
+    "number": "95",
+    "name": "Mitsurugi Kamui Hikae",
+    "imgId": "095",
+    "filenameBase": "095_S1"
+  },
+  {
+    "serie": 1,
+    "number": "96",
+    "name": "Nova-111",
+    "imgId": "096",
+    "filenameBase": "096_S1"
+  },
+  {
+    "serie": 1,
+    "number": "97",
+    "name": "Pang Adventures",
+    "imgId": "097",
+    "filenameBase": "097_S1"
+  },
+  {
+    "serie": 1,
+    "number": "98",
+    "name": "Mutant Mudds Deluxe",
+    "imgId": "098",
+    "filenameBase": "098_S1"
+  },
+  {
+    "serie": 1,
+    "number": "99",
+    "name": "Mutant Mudds Super Challenge",
+    "imgId": "099",
+    "filenameBase": "099_S1"
+  },
+  {
+    "serie": 1,
+    "number": "100",
+    "name": "Limited Run Games Autograph Card",
+    "imgId": "100",
+    "filenameBase": "100_S1"
+  },
+  {
+    "serie": 1,
+    "number": "101",
+    "name": "Risk of Rain",
+    "imgId": "101",
+    "filenameBase": "101_S1"
+  },
+  {
+    "serie": 1,
+    "number": "102",
+    "name": "Absolute Drift",
+    "imgId": "102",
+    "filenameBase": "102_S1"
+  },
+  {
+    "serie": 1,
+    "number": "103",
+    "name": "Absolute Drift",
+    "imgId": "103",
+    "filenameBase": "103_S1"
+  },
+  {
+    "serie": 1,
+    "number": "104",
+    "name": "Nurse Love Addiction",
+    "imgId": "104",
+    "filenameBase": "104_S1"
+  },
+  {
+    "serie": 1,
+    "number": "105",
+    "name": "Nurse Love Addiction",
+    "imgId": "105",
+    "filenameBase": "105_S1"
+  },
+  {
+    "serie": 1,
+    "number": "106",
+    "name": "Rock Boshers DX",
+    "imgId": "106",
+    "filenameBase": "106_S1"
+  },
+  {
+    "serie": 1,
+    "number": "107",
+    "name": "Rock Boshers DX",
+    "imgId": "107",
+    "filenameBase": "107_S1"
+  },
+  {
+    "serie": 1,
+    "number": "108",
+    "name": "CRAWL",
+    "imgId": "108",
+    "filenameBase": "108_S1"
+  },
+  {
+    "serie": 1,
+    "number": "109",
+    "name": "CRAWL",
+    "imgId": "109",
+    "filenameBase": "109_S1"
+  },
+  {
+    "serie": 1,
+    "number": "110",
+    "name": "Hover",
+    "imgId": "110",
+    "filenameBase": "110_S1"
+  },
+  {
+    "serie": 1,
+    "number": "111",
+    "name": "Hover",
+    "imgId": "111",
+    "filenameBase": "111_S1"
+  },
+  {
+    "serie": 1,
+    "number": "112",
+    "name": "Forma.8",
+    "imgId": "112",
+    "filenameBase": "112_S1"
+  },
+  {
+    "serie": 1,
+    "number": "113",
+    "name": "Forma.8",
+    "imgId": "113",
+    "filenameBase": "113_S1"
+  },
+  {
+    "serie": 1,
+    "number": "114",
+    "name": "Aaero",
+    "imgId": "114",
+    "filenameBase": "114_S1"
+  },
+  {
+    "serie": 1,
+    "number": "115",
+    "name": "Aaero",
+    "imgId": "115",
+    "filenameBase": "115_S1"
+  },
+  {
+    "serie": 1,
+    "number": "116",
+    "name": "The Future Unfolding",
+    "imgId": "116",
+    "filenameBase": "116_S1"
+  },
+  {
+    "serie": 1,
+    "number": "117",
+    "name": "The Future Unfolding",
+    "imgId": "117",
+    "filenameBase": "117_S1"
+  },
+  {
+    "serie": 1,
+    "number": "118",
+    "name": "Windjammers",
+    "imgId": "118",
+    "filenameBase": "118_S1"
+  },
+  {
+    "serie": 1,
+    "number": "119",
+    "name": "Senko no Ronde 2",
+    "imgId": "119",
+    "filenameBase": "119_S1"
+  },
+  {
+    "serie": 1,
+    "number": "120",
+    "name": "Senko no Ronde 2",
+    "imgId": "120",
+    "filenameBase": "120_S1"
+  },
+  {
+    "serie": 1,
+    "number": "121",
+    "name": "Stikbold",
+    "imgId": "121",
+    "filenameBase": "121_S1"
+  },
+  {
+    "serie": 1,
+    "number": "122",
+    "name": "Stikbold",
+    "imgId": "122",
+    "filenameBase": "122_S1"
+  },
+  {
+    "serie": 1,
+    "number": "123",
+    "name": "Splasher",
+    "imgId": "123",
+    "filenameBase": "123_S1"
+  },
+  {
+    "serie": 1,
+    "number": "124",
+    "name": "Splasher",
+    "imgId": "124",
+    "filenameBase": "124_S1"
+  },
+  {
+    "serie": 1,
+    "number": "125",
+    "name": "Kill the Bad Guy",
+    "imgId": "125",
+    "filenameBase": "125_S1"
+  },
+  {
+    "serie": 1,
+    "number": "126",
+    "name": "Kill the Bad Guy",
+    "imgId": "126",
+    "filenameBase": "126_S1"
+  },
+  {
+    "serie": 1,
+    "number": "127",
+    "name": "Rabi-Ribi",
+    "imgId": "127",
+    "filenameBase": "127_S1"
+  },
+  {
+    "serie": 1,
+    "number": "128",
+    "name": "Rabi-Ribi",
+    "imgId": "128",
+    "filenameBase": "128_S1"
+  },
+  {
+    "serie": 1,
+    "number": "129",
+    "name": "Sky Force Anniversary",
+    "imgId": "129",
+    "filenameBase": "129_S1"
+  },
+  {
+    "serie": 1,
+    "number": "130",
+    "name": "Nex Machina",
+    "imgId": "130",
+    "filenameBase": "130_S1"
+  },
+  {
+    "serie": 1,
+    "number": "131",
+    "name": "Rabi-Ribi CE",
+    "imgId": "131",
+    "filenameBase": "131_S1"
+  },
+  {
+    "serie": 1,
+    "number": "132",
+    "name": "Rabi-Ribi CE",
+    "imgId": "132",
+    "filenameBase": "132_S1"
+  },
+  {
+    "serie": 1,
+    "number": "133",
+    "name": "Rabi-Ribi CE",
+    "imgId": "133",
+    "filenameBase": "133_S1"
+  },
+  {
+    "serie": 1,
+    "number": "134",
+    "name": "River City Melee",
+    "imgId": "134",
+    "filenameBase": "134_S1"
+  },
+  {
+    "serie": 1,
+    "number": "135",
+    "name": "Double Dragon IV",
+    "imgId": "135",
+    "filenameBase": "135_S1"
+  },
+  {
+    "serie": 1,
+    "number": "136",
+    "name": "Double Dragon IV",
+    "imgId": "136",
+    "filenameBase": "136_S1"
+  },
+  {
+    "serie": 1,
+    "number": "137",
+    "name": "Mecho Tales",
+    "imgId": "137",
+    "filenameBase": "137_S1"
+  },
+  {
+    "serie": 1,
+    "number": "138",
+    "name": "Mecho Tales",
+    "imgId": "138",
+    "filenameBase": "138_S1"
+  },
+  {
+    "serie": 1,
+    "number": "139",
+    "name": "Mecho Tales",
+    "imgId": "139",
+    "filenameBase": "139_S1"
+  },
+  {
+    "serie": 1,
+    "number": "140",
+    "name": "Mecho Tales",
+    "imgId": "140",
+    "filenameBase": "140_S1"
+  },
+  {
+    "serie": 1,
+    "number": "141",
+    "name": "Yesterday Origins",
+    "imgId": "141",
+    "filenameBase": "141_S1"
+  },
+  {
+    "serie": 1,
+    "number": "142",
+    "name": "Yesterday Origins",
+    "imgId": "142",
+    "filenameBase": "142_S1"
+  },
+  {
+    "serie": 1,
+    "number": "143",
+    "name": "Super GunWorld 2",
+    "imgId": "143",
+    "filenameBase": "143_S1"
+  },
+  {
+    "serie": 1,
+    "number": "144",
+    "name": "Super GunWorld 2",
+    "imgId": "144",
+    "filenameBase": "144_S1"
+  },
+  {
+    "serie": 1,
+    "number": "145",
+    "name": "Pixel Gear",
+    "imgId": "145",
+    "filenameBase": "145_S1"
+  },
+  {
+    "serie": 1,
+    "number": "146",
+    "name": "Pixel Gear",
+    "imgId": "146",
+    "filenameBase": "146_S1"
+  },
+  {
+    "serie": 1,
+    "number": "147",
+    "name": "Layers of Fear",
+    "imgId": "147",
+    "filenameBase": "147_S1"
+  },
+  {
+    "serie": 1,
+    "number": "148",
+    "name": "Layers of Fear",
+    "imgId": "148",
+    "filenameBase": "148_S1"
+  },
+  {
+    "serie": 1,
+    "number": "149",
+    "name": "Layers of Fear",
+    "imgId": "149",
+    "filenameBase": "149_S1"
+  },
+  {
+    "serie": 1,
+    "number": "150",
+    "name": "Organ Trail",
+    "imgId": "150",
+    "filenameBase": "150_S1"
+  },
+  {
+    "serie": 1,
+    "number": "151",
+    "name": "Organ Trail",
+    "imgId": "151",
+    "filenameBase": "151_S1"
+  },
+  {
+    "serie": 1,
+    "number": "152",
+    "name": "Siralim",
+    "imgId": "152",
+    "filenameBase": "152_S1"
+  },
+  {
+    "serie": 1,
+    "number": "153",
+    "name": "Siralim",
+    "imgId": "153",
+    "filenameBase": "153_S1"
+  },
+  {
+    "serie": 1,
+    "number": "154",
+    "name": "Siralim 2",
+    "imgId": "154",
+    "filenameBase": "154_S1"
+  },
+  {
+    "serie": 1,
+    "number": "155",
+    "name": "Siralim 2",
+    "imgId": "155",
+    "filenameBase": "155_S1"
+  },
+  {
+    "serie": 1,
+    "number": "156",
+    "name": "Revenant Saga",
+    "imgId": "156",
+    "filenameBase": "156_S1"
+  },
+  {
+    "serie": 1,
+    "number": "157",
+    "name": "Revenant Saga",
+    "imgId": "157",
+    "filenameBase": "157_S1"
+  },
+  {
+    "serie": 1,
+    "number": "158",
+    "name": "Ys Origin",
+    "imgId": "158",
+    "filenameBase": "158_S1"
+  },
+  {
+    "serie": 1,
+    "number": "159",
+    "name": "Lethal League",
+    "imgId": "159",
+    "filenameBase": "159_S1"
+  },
+  {
+    "serie": 1,
+    "number": "160",
+    "name": "Proteus",
+    "imgId": "160",
+    "filenameBase": "160_S1"
+  },
+  {
+    "serie": 1,
+    "number": "161",
+    "name": "Proteus",
+    "imgId": "161",
+    "filenameBase": "161_S1"
+  },
+  {
+    "serie": 1,
+    "number": "162",
+    "name": "Thimbleweed Park",
+    "imgId": "162",
+    "filenameBase": "162_S1"
+  },
+  {
+    "serie": 1,
+    "number": "163",
+    "name": "Thimbleweed Park",
+    "imgId": "163",
+    "filenameBase": "163_S1"
+  },
+  {
+    "serie": 1,
+    "number": "164",
+    "name": "Iron Crypticle",
+    "imgId": "164",
+    "filenameBase": "164_S1"
+  },
+  {
+    "serie": 1,
+    "number": "165",
+    "name": "Iron Crypticle",
+    "imgId": "165",
+    "filenameBase": "165_S1"
+  },
+  {
+    "serie": 1,
+    "number": "166",
+    "name": "Lethal League",
+    "imgId": "166",
+    "filenameBase": "166_S1"
+  },
+  {
+    "serie": 1,
+    "number": "167",
+    "name": "Lethal League",
+    "imgId": "167",
+    "filenameBase": "167_S1"
+  },
+  {
+    "serie": 1,
+    "number": "168",
+    "name": "Metronomicon",
+    "imgId": "168",
+    "filenameBase": "168_S1"
+  },
+  {
+    "serie": 1,
+    "number": "169",
+    "name": "Metronomicon",
+    "imgId": "169",
+    "filenameBase": "169_S1"
+  },
+  {
+    "serie": 1,
+    "number": "170",
+    "name": "Windjammers",
+    "imgId": "170",
+    "filenameBase": "170_S1"
+  },
+  {
+    "serie": 1,
+    "number": "171",
+    "name": "Windjammers",
+    "imgId": "171",
+    "filenameBase": "171_S1"
+  },
+  {
+    "serie": 1,
+    "number": "172",
+    "name": "Super GunWorld 2",
+    "imgId": "172",
+    "filenameBase": "172_S1"
+  },
+  {
+    "serie": 1,
+    "number": "173",
+    "name": "Super GunWorld 2",
+    "imgId": "173",
+    "filenameBase": "173_S1"
+  },
+  {
+    "serie": 1,
+    "number": "174",
+    "name": "Super GunWorld 2",
+    "imgId": "174",
+    "filenameBase": "174_S1"
+  },
+  {
+    "serie": 1,
+    "number": "175",
+    "name": "Screencheat",
+    "imgId": "175",
+    "filenameBase": "175_S1"
+  },
+  {
+    "serie": 1,
+    "number": "176",
+    "name": "Screencheat",
+    "imgId": "176",
+    "filenameBase": "176_S1"
+  },
+  {
+    "serie": 1,
+    "number": "177",
+    "name": "Screencheat",
+    "imgId": "177",
+    "filenameBase": "177_S1"
+  },
+  {
+    "serie": 1,
+    "number": "178",
+    "name": "Screencheat",
+    "imgId": "178",
+    "filenameBase": "178_S1"
+  },
+  {
+    "serie": 1,
+    "number": "179",
+    "name": "Munch's Oddysee",
+    "imgId": "179",
+    "filenameBase": "179_S1"
+  },
+  {
+    "serie": 1,
+    "number": "180",
+    "name": "Munch's Oddysee",
+    "imgId": "180",
+    "filenameBase": "180_S1"
+  },
+  {
+    "serie": 1,
+    "number": "181",
+    "name": "Munch's Oddysee",
+    "imgId": "181",
+    "filenameBase": "181_S1"
+  },
+  {
+    "serie": 1,
+    "number": "182",
+    "name": "Munch's Oddysee",
+    "imgId": "182",
+    "filenameBase": "182_S1"
+  },
+  {
+    "serie": 1,
+    "number": "183",
+    "name": "Mercenary Kings",
+    "imgId": "183",
+    "filenameBase": "183_S1"
+  },
+  {
+    "serie": 1,
+    "number": "184",
+    "name": "Mercenary Kings",
+    "imgId": "184",
+    "filenameBase": "184_S1"
+  },
+  {
+    "serie": 1,
+    "number": "185",
+    "name": "Factotum-90",
+    "imgId": "185",
+    "filenameBase": "185_S1"
+  },
+  {
+    "serie": 1,
+    "number": "186",
+    "name": "Factotum-90",
+    "imgId": "186",
+    "filenameBase": "186_S1"
+  },
+  {
+    "serie": 1,
+    "number": "187",
+    "name": "Factotum-90",
+    "imgId": "187",
+    "filenameBase": "187_S1"
+  },
+  {
+    "serie": 1,
+    "number": "188",
+    "name": "Senko no Ronde 2",
+    "imgId": "188",
+    "filenameBase": "188_S1"
+  },
+  {
+    "serie": 1,
+    "number": "189",
+    "name": "Thumper",
+    "imgId": "189",
+    "filenameBase": "189_S1"
+  },
+  {
+    "serie": 1,
+    "number": "190",
+    "name": "Thumper",
+    "imgId": "190",
+    "filenameBase": "190_S1"
+  },
+  {
+    "serie": 1,
+    "number": "191",
+    "name": "Volume",
+    "imgId": "191",
+    "filenameBase": "191_S1"
+  },
+  {
+    "serie": 1,
+    "number": "192",
+    "name": "Volume",
+    "imgId": "192",
+    "filenameBase": "192_S1"
+  },
+  {
+    "serie": 1,
+    "number": "193",
+    "name": "Magicka 2",
+    "imgId": "193",
+    "filenameBase": "193_S1"
+  },
+  {
+    "serie": 1,
+    "number": "194",
+    "name": "Magicka 2",
+    "imgId": "194",
+    "filenameBase": "194_S1"
+  },
+  {
+    "serie": 1,
+    "number": "195",
+    "name": "Saturday Morning RPG",
+    "imgId": "195",
+    "filenameBase": "195_S1"
+  },
+  {
+    "serie": 1,
+    "number": "196",
+    "name": "Saturday Morning RPG",
+    "imgId": "196",
+    "filenameBase": "196_S1"
+  },
+  {
+    "serie": 1,
+    "number": "197",
+    "name": "Saturday Morning RPG",
+    "imgId": "197",
+    "filenameBase": "197_S1"
+  },
+  {
+    "serie": 1,
+    "number": "198",
+    "name": "Another World",
+    "imgId": "198",
+    "filenameBase": "198_S1"
+  },
+  {
+    "serie": 1,
+    "number": "199",
+    "name": "Another World",
+    "imgId": "199",
+    "filenameBase": "199_S1"
+  },
+  {
+    "serie": 1,
+    "number": "200",
+    "name": "Another World",
+    "imgId": "200",
+    "filenameBase": "200_S1"
+  },
+  {
+    "serie": 1,
+    "number": "201",
+    "name": "Thimbleweed Park",
+    "imgId": "201",
+    "filenameBase": "201_S1"
+  },
+  {
+    "serie": 1,
+    "number": "202",
+    "name": "Thimbleweed Park",
+    "imgId": "202",
+    "filenameBase": "202_S1"
+  },
+  {
+    "serie": 1,
+    "number": "203",
+    "name": "Night Trap",
+    "imgId": "203",
+    "filenameBase": "203_S1"
+  },
+  {
+    "serie": 1,
+    "number": "204",
+    "name": "Night Trap",
+    "imgId": "204",
+    "filenameBase": "204_S1"
+  },
+  {
+    "serie": 1,
+    "number": "205",
+    "name": "Antiquia Lost",
+    "imgId": "205",
+    "filenameBase": "205_S1"
+  },
+  {
+    "serie": 1,
+    "number": "206",
+    "name": "Antiquia Lost",
+    "imgId": "206",
+    "filenameBase": "206_S1"
+  },
+  {
+    "serie": 1,
+    "number": "207",
+    "name": "Nurse Love Addiction",
+    "imgId": "207",
+    "filenameBase": "207_S1"
+  },
+  {
+    "serie": 1,
+    "number": "208",
+    "name": "Nurse Love Addiction",
+    "imgId": "208",
+    "filenameBase": "208_S1"
+  },
+  {
+    "serie": 1,
+    "number": "209",
+    "name": "Super Hydorah",
+    "imgId": "209",
+    "filenameBase": "209_S1"
+  },
+  {
+    "serie": 1,
+    "number": "210",
+    "name": "Super Hydorah",
+    "imgId": "210",
+    "filenameBase": "210_S1"
+  },
+  {
+    "serie": 1,
+    "number": "211",
+    "name": "Kero Blaster",
+    "imgId": "211",
+    "filenameBase": "211_S1"
+  },
+  {
+    "serie": 1,
+    "number": "212",
+    "name": "Kero Blaster",
+    "imgId": "212",
+    "filenameBase": "212_S1"
+  },
+  {
+    "serie": 1,
+    "number": "213",
+    "name": "Ace of Seafood",
+    "imgId": "213",
+    "filenameBase": "213_S1"
+  },
+  {
+    "serie": 1,
+    "number": "214",
+    "name": "Ace of Seafood",
+    "imgId": "214",
+    "filenameBase": "214_S1"
+  },
+  {
+    "serie": 1,
+    "number": "215",
+    "name": "Momodora",
+    "imgId": "215",
+    "filenameBase": "215_S1"
+  },
+  {
+    "serie": 1,
+    "number": "216",
+    "name": "Momodora",
+    "imgId": "216",
+    "filenameBase": "216_S1"
+  },
+  {
+    "serie": 1,
+    "number": "217",
+    "name": "Typoman",
+    "imgId": "217",
+    "filenameBase": "217_S1"
+  },
+  {
+    "serie": 1,
+    "number": "218",
+    "name": "Typoman",
+    "imgId": "218",
+    "filenameBase": "218_S1"
+  },
+  {
+    "serie": 1,
+    "number": "219",
+    "name": "YIIK",
+    "imgId": "219",
+    "filenameBase": "219_S1"
+  },
+  {
+    "serie": 1,
+    "number": "220",
+    "name": "YIIK",
+    "imgId": "220",
+    "filenameBase": "220_S1"
+  },
+  {
+    "serie": 1,
+    "number": "221",
+    "name": "Mercenary Kings",
+    "imgId": "221",
+    "filenameBase": "221_S1"
+  },
+  {
+    "serie": 1,
+    "number": "222",
+    "name": "Cosmic Star Heroine",
+    "imgId": "222",
+    "filenameBase": "222_S1"
+  },
+  {
+    "serie": 1,
+    "number": "223",
+    "name": "Cosmic Star Heroine",
+    "imgId": "223",
+    "filenameBase": "223_S1"
+  },
+  {
+    "serie": 1,
+    "number": "224",
+    "name": "Cosmic Star Heroine",
+    "imgId": "224",
+    "filenameBase": "224_S1"
+  },
+  {
+    "serie": 1,
+    "number": "225",
+    "name": "Cosmic Star Heroine",
+    "imgId": "225",
+    "filenameBase": "225_S1"
+  },
+  {
+    "serie": 1,
+    "number": "226",
+    "name": "Cosmic Star Heroine",
+    "imgId": "226",
+    "filenameBase": "226_S1"
+  },
+  {
+    "serie": 1,
+    "number": "227",
+    "name": "Observer",
+    "imgId": "227",
+    "filenameBase": "227_S1"
+  },
+  {
+    "serie": 1,
+    "number": "228",
+    "name": "Observer",
+    "imgId": "228",
+    "filenameBase": "228_S1"
+  },
+  {
+    "serie": 1,
+    "number": "229",
+    "name": "Phantom Breaker",
+    "imgId": "229",
+    "filenameBase": "229_S1"
+  },
+  {
+    "serie": 1,
+    "number": "230",
+    "name": "Phantom Breaker",
+    "imgId": "230",
+    "filenameBase": "230_S1"
+  },
+  {
+    "serie": 1,
+    "number": "231",
+    "name": "Phantom Breaker",
+    "imgId": "231",
+    "filenameBase": "231_S1"
+  },
+  {
+    "serie": 1,
+    "number": "232",
+    "name": "Phantom Breaker",
+    "imgId": "232",
+    "filenameBase": "232_S1"
+  },
+  {
+    "serie": 1,
+    "number": "233",
+    "name": "Xenon Valkyrie+",
+    "imgId": "233",
+    "filenameBase": "233_S1"
+  },
+  {
+    "serie": 1,
+    "number": "234",
+    "name": "Xenon Valkyrie+",
+    "imgId": "234",
+    "filenameBase": "234_S1"
+  },
+  {
+    "serie": 1,
+    "number": "235",
+    "name": "Escape Goat 2",
+    "imgId": "235",
+    "filenameBase": "235_S1"
+  },
+  {
+    "serie": 1,
+    "number": "236",
+    "name": "Escape Goat 2",
+    "imgId": "236",
+    "filenameBase": "236_S1"
+  },
+  {
+    "serie": 1,
+    "number": "237",
+    "name": "Toto Temple",
+    "imgId": "237",
+    "filenameBase": "237_S1"
+  },
+  {
+    "serie": 1,
+    "number": "238",
+    "name": "Toto Temple",
+    "imgId": "238",
+    "filenameBase": "238_S1"
+  },
+  {
+    "serie": 1,
+    "number": "239",
+    "name": "Saturday Morning RPG",
+    "imgId": "239",
+    "filenameBase": "239_S1"
+  },
+  {
+    "serie": 1,
+    "number": "240",
+    "name": "Saturday Morning RPG",
+    "imgId": "240",
+    "filenameBase": "240_S1"
+  },
+  {
+    "serie": 1,
+    "number": "241",
+    "name": "Saturday Morning RPG",
+    "imgId": "241",
+    "filenameBase": "241_S1"
+  },
+  {
+    "serie": 1,
+    "number": "242",
+    "name": "MUSYNX",
+    "imgId": "242",
+    "filenameBase": "242_S1"
+  },
+  {
+    "serie": 1,
+    "number": "243",
+    "name": "MUSYNX",
+    "imgId": "243",
+    "filenameBase": "243_S1"
+  },
+  {
+    "serie": 1,
+    "number": "244",
+    "name": "Flinthook",
+    "imgId": "244",
+    "filenameBase": "244_S1"
+  },
+  {
+    "serie": 1,
+    "number": "245",
+    "name": "Mercenary Kings",
+    "imgId": "245",
+    "filenameBase": "245_S1"
+  },
+  {
+    "serie": 1,
+    "number": "246",
+    "name": "Night Trap",
+    "imgId": "246",
+    "filenameBase": "246_S1"
+  },
+  {
+    "serie": 1,
+    "number": "247",
+    "name": "Night Trap",
+    "imgId": "247",
+    "filenameBase": "247_S1"
+  },
+  {
+    "serie": 1,
+    "number": "248",
+    "name": "Night Trap",
+    "imgId": "248",
+    "filenameBase": "248_S1"
+  },
+  {
+    "serie": 1,
+    "number": "249",
+    "name": "Night Trap",
+    "imgId": "249",
+    "filenameBase": "249_S1"
+  },
+  {
+    "serie": 1,
+    "number": "250",
+    "name": "Night Trap",
+    "imgId": "250",
+    "filenameBase": "250_S1"
+  },
+  {
+    "serie": 1,
+    "number": "251",
+    "name": "Night Trap",
+    "imgId": "251",
+    "filenameBase": "251_S1"
+  },
+  {
+    "serie": 1,
+    "number": "252",
+    "name": "Night Trap",
+    "imgId": "252",
+    "filenameBase": "252_S1"
+  },
+  {
+    "serie": 1,
+    "number": "253",
+    "name": "Night Trap",
+    "imgId": "253",
+    "filenameBase": "253_S1"
+  },
+  {
+    "serie": 1,
+    "number": "254",
+    "name": "Night Trap",
+    "imgId": "254",
+    "filenameBase": "254_S1"
+  },
+  {
+    "serie": 1,
+    "number": "255",
+    "name": "Night Trap",
+    "imgId": "255",
+    "filenameBase": "255_S1"
+  },
+  {
+    "serie": 1,
+    "number": "256",
+    "name": "Double Switch",
+    "imgId": "256",
+    "filenameBase": "256_S1"
+  },
+  {
+    "serie": 1,
+    "number": "257",
+    "name": "Double Switch",
+    "imgId": "257",
+    "filenameBase": "257_S1"
+  },
+  {
+    "serie": 1,
+    "number": "258",
+    "name": "Double Switch",
+    "imgId": "258",
+    "filenameBase": "258_S1"
+  },
+  {
+    "serie": 1,
+    "number": "259",
+    "name": "Double Switch",
+    "imgId": "259",
+    "filenameBase": "259_S1"
+  },
+  {
+    "serie": 1,
+    "number": "260",
+    "name": "Double Switch",
+    "imgId": "260",
+    "filenameBase": "260_S1"
+  },
+  {
+    "serie": 1,
+    "number": "261",
+    "name": "Revenge of the Bird King",
+    "imgId": "261",
+    "filenameBase": "261_S1"
+  },
+  {
+    "serie": 1,
+    "number": "262",
+    "name": "Revenge of the Bird King",
+    "imgId": "262",
+    "filenameBase": "262_S1"
+  },
+  {
+    "serie": 1,
+    "number": "263",
+    "name": "GALF",
+    "imgId": "263",
+    "filenameBase": "263_S1"
+  },
+  {
+    "serie": 1,
+    "number": "264",
+    "name": "Golf Story",
+    "imgId": "264",
+    "filenameBase": "264_S1"
+  },
+  {
+    "serie": 1,
+    "number": "265",
+    "name": "Golf Story",
+    "imgId": "265",
+    "filenameBase": "265_S1"
+  },
+  {
+    "serie": 1,
+    "number": "266",
+    "name": "Late Shift",
+    "imgId": "266",
+    "filenameBase": "266_S1"
+  },
+  {
+    "serie": 1,
+    "number": "267",
+    "name": "Late Shift",
+    "imgId": "267",
+    "filenameBase": "267_S1"
+  },
+  {
+    "serie": 1,
+    "number": "268",
+    "name": "Exile's End",
+    "imgId": "268",
+    "filenameBase": "268_S1"
+  },
+  {
+    "serie": 1,
+    "number": "269",
+    "name": "Exile's End",
+    "imgId": "269",
+    "filenameBase": "269_S1"
+  },
+  {
+    "serie": 1,
+    "number": "270",
+    "name": "Oxenfree",
+    "imgId": "270",
+    "filenameBase": "270_S1"
+  },
+  {
+    "serie": 1,
+    "number": "271",
+    "name": "Oxenfree",
+    "imgId": "271",
+    "filenameBase": "271_S1"
+  },
+  {
+    "serie": 1,
+    "number": "272",
+    "name": "Oxenfree",
+    "imgId": "272",
+    "filenameBase": "272_S1"
+  },
+  {
+    "serie": 1,
+    "number": "273",
+    "name": "Oxenfree",
+    "imgId": "273",
+    "filenameBase": "273_S1"
+  },
+  {
+    "serie": 1,
+    "number": "274",
+    "name": "Everspace",
+    "imgId": "274",
+    "filenameBase": "274_S1"
+  },
+  {
+    "serie": 1,
+    "number": "275",
+    "name": "Everspace",
+    "imgId": "275",
+    "filenameBase": "275_S1"
+  },
+  {
+    "serie": 1,
+    "number": "276",
+    "name": "Bastion",
+    "imgId": "276",
+    "filenameBase": "276_S1"
+  },
+  {
+    "serie": 1,
+    "number": "277",
+    "name": "Bastion",
+    "imgId": "277",
+    "filenameBase": "277_S1"
+  },
+  {
+    "serie": 1,
+    "number": "278",
+    "name": "Slime-San",
+    "imgId": "278",
+    "filenameBase": "278_S1"
+  },
+  {
+    "serie": 1,
+    "number": "279",
+    "name": "Slime-San",
+    "imgId": "279",
+    "filenameBase": "279_S1"
+  },
+  {
+    "serie": 1,
+    "number": "280",
+    "name": "PixelJunk Monsters 2",
+    "imgId": "280",
+    "filenameBase": "280_S1"
+  },
+  {
+    "serie": 1,
+    "number": "281",
+    "name": "PixelJunk Monsters 2",
+    "imgId": "281",
+    "filenameBase": "281_S1"
+  },
+  {
+    "serie": 1,
+    "number": "282",
+    "name": "Kingdom New Lands",
+    "imgId": "282",
+    "filenameBase": "282_S1"
+  },
+  {
+    "serie": 1,
+    "number": "283",
+    "name": "Kingdom New Lands",
+    "imgId": "283",
+    "filenameBase": "283_S1"
+  },
+  {
+    "serie": 1,
+    "number": "284",
+    "name": "West of Loathing",
+    "imgId": "284",
+    "filenameBase": "284_S1"
+  },
+  {
+    "serie": 1,
+    "number": "285",
+    "name": "West of Loathing",
+    "imgId": "285",
+    "filenameBase": "285_S1"
+  },
+  {
+    "serie": 1,
+    "number": "286",
+    "name": "Read Only Memories",
+    "imgId": "286",
+    "filenameBase": "286_S1"
+  },
+  {
+    "serie": 1,
+    "number": "287",
+    "name": "Read Only Memories",
+    "imgId": "287",
+    "filenameBase": "287_S1"
+  },
+  {
+    "serie": 1,
+    "number": "288",
+    "name": "VA-11 HALL-A",
+    "imgId": "288",
+    "filenameBase": "288_S1"
+  },
+  {
+    "serie": 1,
+    "number": "289",
+    "name": "Read Only Memories",
+    "imgId": "289",
+    "filenameBase": "289_S1"
+  },
+  {
+    "serie": 1,
+    "number": "290",
+    "name": "VA-11 HALL-A",
+    "imgId": "290",
+    "filenameBase": "290_S1"
+  },
+  {
+    "serie": 1,
+    "number": "291",
+    "name": "VA-11 HALL-A",
+    "imgId": "291",
+    "filenameBase": "291_S1"
+  },
+  {
+    "serie": 1,
+    "number": "292",
+    "name": "Yooka Laylee",
+    "imgId": "292",
+    "filenameBase": "292_S1"
+  },
+  {
+    "serie": 1,
+    "number": "293",
+    "name": "Yooka Laylee",
+    "imgId": "293",
+    "filenameBase": "293_S1"
+  },
+  {
+    "serie": 1,
+    "number": "294",
+    "name": "Yooka Laylee",
+    "imgId": "294",
+    "filenameBase": "294_S1"
+  },
+  {
+    "serie": 1,
+    "number": "295",
+    "name": "Furi",
+    "imgId": "295",
+    "filenameBase": "295_S1"
+  },
+  {
+    "serie": 1,
+    "number": "296",
+    "name": "Furi",
+    "imgId": "296",
+    "filenameBase": "296_S1"
+  },
+  {
+    "serie": 1,
+    "number": "297",
+    "name": "Narcosis",
+    "imgId": "297",
+    "filenameBase": "297_S1"
+  },
+  {
+    "serie": 1,
+    "number": "298",
+    "name": "Narcosis",
+    "imgId": "298",
+    "filenameBase": "298_S1"
+  },
+  {
+    "serie": 1,
+    "number": "299",
+    "name": "Senran Kagura",
+    "imgId": "299",
+    "filenameBase": "299_S1"
+  },
+  {
+    "serie": 1,
+    "number": "300",
+    "name": "Senran Kagura",
+    "imgId": "300",
+    "filenameBase": "300_S1"
+  },
+  {
+    "serie": 1,
+    "number": "301",
+    "name": "Senran Kagura",
+    "imgId": "301",
+    "filenameBase": "301_S1"
+  },
+  {
+    "serie": 1,
+    "number": "302",
+    "name": "Salt & Sanctuary",
+    "imgId": "302",
+    "filenameBase": "302_S1"
+  },
+  {
+    "serie": 1,
+    "number": "303",
+    "name": "Salt & Sanctuary",
+    "imgId": "303",
+    "filenameBase": "303_S1"
+  },
+  {
+    "serie": 1,
+    "number": "304",
+    "name": "Dust",
+    "imgId": "304",
+    "filenameBase": "304_S1"
+  },
+  {
+    "serie": 1,
+    "number": "305",
+    "name": "Dust",
+    "imgId": "305",
+    "filenameBase": "305_S1"
+  },
+  {
+    "serie": 1,
+    "number": "306",
+    "name": "Dust",
+    "imgId": "306",
+    "filenameBase": "306_S1"
+  },
+  {
+    "serie": 1,
+    "number": "307",
+    "name": "Gunhouse",
+    "imgId": "307",
+    "filenameBase": "307_S1"
+  },
+  {
+    "serie": 1,
+    "number": "308",
+    "name": "Gunhouse",
+    "imgId": "308",
+    "filenameBase": "308_S1"
+  },
+  {
+    "serie": 1,
+    "number": "309",
+    "name": "Thumper",
+    "imgId": "309",
+    "filenameBase": "309_S1"
+  },
+  {
+    "serie": 1,
+    "number": "310",
+    "name": "Thumper",
+    "imgId": "310",
+    "filenameBase": "310_S1"
+  },
+  {
+    "serie": 1,
+    "number": "311",
+    "name": "Defender's Quest",
+    "imgId": "311",
+    "filenameBase": "311_S1"
+  },
+  {
+    "serie": 1,
+    "number": "312",
+    "name": "Defender's Quest",
+    "imgId": "312",
+    "filenameBase": "312_S1"
+  },
+  {
+    "serie": 1,
+    "number": "313",
+    "name": "Defender's Quest",
+    "imgId": "313",
+    "filenameBase": "313_S1"
+  },
+  {
+    "serie": 1,
+    "number": "314",
+    "name": "Defender's Quest",
+    "imgId": "314",
+    "filenameBase": "314_S1"
+  },
+  {
+    "serie": 1,
+    "number": "315",
+    "name": "Defender's Quest",
+    "imgId": "315",
+    "filenameBase": "315_S1"
+  },
+  {
+    "serie": 1,
+    "number": "316",
+    "name": "8-Bit Adventure Anthology",
+    "imgId": "316",
+    "filenameBase": "316_S1"
+  },
+  {
+    "serie": 1,
+    "number": "317",
+    "name": "8-Bit Adventure Anthology",
+    "imgId": "317",
+    "filenameBase": "317_S1"
+  },
+  {
+    "serie": 1,
+    "number": "318",
+    "name": "8-Bit Adventure Anthology",
+    "imgId": "318",
+    "filenameBase": "318_S1"
+  },
+  {
+    "serie": 1,
+    "number": "319",
+    "name": "8-Bit Adventure Anthology",
+    "imgId": "319",
+    "filenameBase": "319_S1"
+  },
+  {
+    "serie": 1,
+    "number": "320",
+    "name": "8-Bit Adventure Anthology",
+    "imgId": "320",
+    "filenameBase": "320_S1"
+  },
+  {
+    "serie": 1,
+    "number": "321",
+    "name": "Dragon Sinker",
+    "imgId": "321",
+    "filenameBase": "321_S1"
+  },
+  {
+    "serie": 1,
+    "number": "322",
+    "name": "Dragon Sinker",
+    "imgId": "322",
+    "filenameBase": "322_S1"
+  },
+  {
+    "serie": 1,
+    "number": "323",
+    "name": "Battle Chef Brigade",
+    "imgId": "323",
+    "filenameBase": "323_S1"
+  },
+  {
+    "serie": 1,
+    "number": "324",
+    "name": "Battle Chef Brigade",
+    "imgId": "324",
+    "filenameBase": "324_S1"
+  },
+  {
+    "serie": 1,
+    "number": "325",
+    "name": "Butcher",
+    "imgId": "325",
+    "filenameBase": "325_S1"
+  },
+  {
+    "serie": 1,
+    "number": "326",
+    "name": "Butcher",
+    "imgId": "326",
+    "filenameBase": "326_S1"
+  },
+  {
+    "serie": 1,
+    "number": "327",
+    "name": "Headlander",
+    "imgId": "327",
+    "filenameBase": "327_S1"
+  },
+  {
+    "serie": 1,
+    "number": "328",
+    "name": "Headlander",
+    "imgId": "328",
+    "filenameBase": "328_S1"
+  },
+  {
+    "serie": 1,
+    "number": "329",
+    "name": "Broken Age",
+    "imgId": "329",
+    "filenameBase": "329_S1"
+  },
+  {
+    "serie": 1,
+    "number": "330",
+    "name": "Broken Age",
+    "imgId": "330",
+    "filenameBase": "330_S1"
+  },
+  {
+    "serie": 1,
+    "number": "331",
+    "name": "Outlast 1",
+    "imgId": "331",
+    "filenameBase": "331_S1"
+  },
+  {
+    "serie": 1,
+    "number": "332",
+    "name": "Outlast 1",
+    "imgId": "332",
+    "filenameBase": "332_S1"
+  },
+  {
+    "serie": 1,
+    "number": "333",
+    "name": "Outlast 2",
+    "imgId": "333",
+    "filenameBase": "333_S1"
+  },
+  {
+    "serie": 1,
+    "number": "334",
+    "name": "Outlast 2",
+    "imgId": "334",
+    "filenameBase": "334_S1"
+  },
+  {
+    "serie": 1,
+    "number": "335",
+    "name": "King Of Fighters '97",
+    "imgId": "335",
+    "filenameBase": "335_S1"
+  },
+  {
+    "serie": 1,
+    "number": "336",
+    "name": "King Of Fighters '97",
+    "imgId": "336",
+    "filenameBase": "336_S1"
+  },
+  {
+    "serie": 1,
+    "number": "337",
+    "name": "King Of Fighters '97",
+    "imgId": "337",
+    "filenameBase": "337_S1"
+  },
+  {
+    "serie": 1,
+    "number": "338",
+    "name": "Dragon's Lair",
+    "imgId": "338",
+    "filenameBase": "338_S1"
+  },
+  {
+    "serie": 1,
+    "number": "339",
+    "name": "Dragon's Lair",
+    "imgId": "339",
+    "filenameBase": "339_S1"
+  },
+  {
+    "serie": 1,
+    "number": "340",
+    "name": "Dragon's Lair",
+    "imgId": "340",
+    "filenameBase": "340_S1"
+  },
+  {
+    "serie": 1,
+    "number": "341",
+    "name": "Shantae and the Pirate's Curse",
+    "imgId": "341",
+    "filenameBase": "341_S1"
+  },
+  {
+    "serie": 1,
+    "number": "342",
+    "name": "Shantae and the Pirate's Curse",
+    "imgId": "342",
+    "filenameBase": "342_S1"
+  },
+  {
+    "serie": 1,
+    "number": "343",
+    "name": "Shantae and the Pirate's Curse",
+    "imgId": "343",
+    "filenameBase": "343_S1"
+  },
+  {
+    "serie": 1,
+    "number": "344",
+    "name": "Shantae and the Pirate's Curse",
+    "imgId": "344",
+    "filenameBase": "344_S1"
+  },
+  {
+    "serie": 1,
+    "number": "345",
+    "name": "Shantae and the Pirate's Curse",
+    "imgId": "345",
+    "filenameBase": "345_S1"
+  },
+  {
+    "serie": 1,
+    "number": "346",
+    "name": "Shantae and the Pirate's Curse",
+    "imgId": "346",
+    "filenameBase": "346_S1"
+  },
+  {
+    "serie": 1,
+    "number": "347",
+    "name": "Night Trap Vita",
+    "imgId": "347",
+    "filenameBase": "347_S1"
+  },
+  {
+    "serie": 1,
+    "number": "348",
+    "name": "Mages of Mystralia",
+    "imgId": "348",
+    "filenameBase": "348_S1"
+  },
+  {
+    "serie": 1,
+    "number": "349",
+    "name": "Mages of Mystralia",
+    "imgId": "349",
+    "filenameBase": "349_S1"
+  },
+  {
+    "serie": 1,
+    "number": "350",
+    "name": "To The Top",
+    "imgId": "350",
+    "filenameBase": "350_S1"
+  },
+  {
+    "serie": 1,
+    "number": "351",
+    "name": "To The Top",
+    "imgId": "351",
+    "filenameBase": "351_S1"
+  },
+  {
+    "serie": 1,
+    "number": "352",
+    "name": "Cosmic Star Heroine",
+    "imgId": "352",
+    "filenameBase": "352_S1"
+  },
+  {
+    "serie": 1,
+    "number": "353",
+    "name": "Golf Story",
+    "imgId": "353",
+    "filenameBase": "353_S1"
+  },
+  {
+    "serie": 1,
+    "number": "354",
+    "name": "Race The Sun",
+    "imgId": "354",
+    "filenameBase": "354_S1"
+  },
+  {
+    "serie": 1,
+    "number": "355",
+    "name": "Race The Sun",
+    "imgId": "355",
+    "filenameBase": "355_S1"
+  },
+  {
+    "serie": 1,
+    "number": "356",
+    "name": "Celeste",
+    "imgId": "356",
+    "filenameBase": "356_S1"
+  },
+  {
+    "serie": 1,
+    "number": "357",
+    "name": "Celeste",
+    "imgId": "357",
+    "filenameBase": "357_S1"
+  },
+  {
+    "serie": 1,
+    "number": "358",
+    "name": "Celeste",
+    "imgId": "358",
+    "filenameBase": "358_S1"
+  },
+  {
+    "serie": 1,
+    "number": "359",
+    "name": "Celeste",
+    "imgId": "359",
+    "filenameBase": "359_S1"
+  },
+  {
+    "serie": 1,
+    "number": "360",
+    "name": "Danmaku Unlimited 3",
+    "imgId": "360",
+    "filenameBase": "360_S1"
+  },
+  {
+    "serie": 1,
+    "number": "361",
+    "name": "Danmaku Unlimited 3",
+    "imgId": "361",
+    "filenameBase": "361_S1"
+  },
+  {
+    "serie": 1,
+    "number": "362",
+    "name": "Windjammers",
+    "imgId": "362",
+    "filenameBase": "362_S1"
+  },
+  {
+    "serie": 1,
+    "number": "363",
+    "name": "NeuroVoider",
+    "imgId": "363",
+    "filenameBase": "363_S1"
+  },
+  {
+    "serie": 1,
+    "number": "364",
+    "name": "Sigil",
+    "imgId": "364",
+    "filenameBase": "364_S1"
+  },
+  {
+    "serie": 1,
+    "number": "365",
+    "name": "Sigil",
+    "imgId": "365",
+    "filenameBase": "365_S1"
+  },
+  {
+    "serie": 1,
+    "number": "366",
+    "name": "Jak and Daxter",
+    "imgId": "366",
+    "filenameBase": "366_S1"
+  },
+  {
+    "serie": 1,
+    "number": "367",
+    "name": "Jak and Daxter",
+    "imgId": "367",
+    "filenameBase": "367_S1"
+  },
+  {
+    "serie": 1,
+    "number": "368",
+    "name": "Jak 2",
+    "imgId": "368",
+    "filenameBase": "368_S1"
+  },
+  {
+    "serie": 1,
+    "number": "369",
+    "name": "Jak 2",
+    "imgId": "369",
+    "filenameBase": "369_S1"
+  },
+  {
+    "serie": 1,
+    "number": "370",
+    "name": "Jak 3",
+    "imgId": "370",
+    "filenameBase": "370_S1"
+  },
+  {
+    "serie": 1,
+    "number": "371",
+    "name": "Jak 3",
+    "imgId": "371",
+    "filenameBase": "371_S1"
+  },
+  {
+    "serie": 1,
+    "number": "372",
+    "name": "Jak X",
+    "imgId": "372",
+    "filenameBase": "372_S1"
+  },
+  {
+    "serie": 1,
+    "number": "373",
+    "name": "Jak X",
+    "imgId": "373",
+    "filenameBase": "373_S1"
+  },
+  {
+    "serie": 1,
+    "number": "374",
+    "name": "Rain World",
+    "imgId": "374",
+    "filenameBase": "374_S1"
+  },
+  {
+    "serie": 1,
+    "number": "375",
+    "name": "Rain World",
+    "imgId": "375",
+    "filenameBase": "375_S1"
+  },
+  {
+    "serie": 1,
+    "number": "376",
+    "name": "Sundered",
+    "imgId": "376",
+    "filenameBase": "376_S1"
+  },
+  {
+    "serie": 1,
+    "number": "377",
+    "name": "Sundered",
+    "imgId": "377",
+    "filenameBase": "377_S1"
+  },
+  {
+    "serie": 1,
+    "number": "378",
+    "name": "Iconoclasts",
+    "imgId": "378",
+    "filenameBase": "378_S1"
+  },
+  {
+    "serie": 1,
+    "number": "379",
+    "name": "Iconoclasts",
+    "imgId": "379",
+    "filenameBase": "379_S1"
+  },
+  {
+    "serie": 1,
+    "number": "380",
+    "name": "Iconoclasts",
+    "imgId": "380",
+    "filenameBase": "380_S1"
+  },
+  {
+    "serie": 1,
+    "number": "381",
+    "name": "Iconoclasts",
+    "imgId": "381",
+    "filenameBase": "381_S1"
+  },
+  {
+    "serie": 1,
+    "number": "382",
+    "name": "Iconoclasts",
+    "imgId": "382",
+    "filenameBase": "382_S1"
+  },
+  {
+    "serie": 1,
+    "number": "383",
+    "name": "Tacoma",
+    "imgId": "383",
+    "filenameBase": "383_S1"
+  },
+  {
+    "serie": 1,
+    "number": "384",
+    "name": "Tacoma",
+    "imgId": "384",
+    "filenameBase": "384_S1"
+  },
+  {
+    "serie": 1,
+    "number": "385",
+    "name": "Super Mutant Alien Assault",
+    "imgId": "385",
+    "filenameBase": "385_S1"
+  },
+  {
+    "serie": 1,
+    "number": "386",
+    "name": "Super Mutant Alien Assault",
+    "imgId": "386",
+    "filenameBase": "386_S1"
+  },
+  {
+    "serie": 1,
+    "number": "387",
+    "name": "Fernz Gate",
+    "imgId": "387",
+    "filenameBase": "387_S1"
+  },
+  {
+    "serie": 1,
+    "number": "388",
+    "name": "Fernz Gate",
+    "imgId": "388",
+    "filenameBase": "388_S1"
+  },
+  {
+    "serie": 1,
+    "number": "389",
+    "name": "Neonwall",
+    "imgId": "389",
+    "filenameBase": "389_S1"
+  },
+  {
+    "serie": 1,
+    "number": "390",
+    "name": "Neonwall",
+    "imgId": "390",
+    "filenameBase": "390_S1"
+  },
+  {
+    "serie": 1,
+    "number": "391",
+    "name": "Koihime Enbu Ryo Rai Rai",
+    "imgId": "391",
+    "filenameBase": "391_S1"
+  },
+  {
+    "serie": 1,
+    "number": "392",
+    "name": "Koihime Enbu Ryo Rai Rai",
+    "imgId": "392",
+    "filenameBase": "392_S1"
+  },
+  {
+    "serie": 1,
+    "number": "393",
+    "name": "Airheart",
+    "imgId": "393",
+    "filenameBase": "393_S1"
+  },
+  {
+    "serie": 1,
+    "number": "394",
+    "name": "Airheart",
+    "imgId": "394",
+    "filenameBase": "394_S1"
+  },
+  {
+    "serie": 1,
+    "number": "395",
+    "name": "Super Meat Boy",
+    "imgId": "395",
+    "filenameBase": "395_S1"
+  },
+  {
+    "serie": 1,
+    "number": "396",
+    "name": "Super Meat Boy",
+    "imgId": "396",
+    "filenameBase": "396_S1"
+  },
+  {
+    "serie": 1,
+    "number": "397",
+    "name": "Dragon Fantasy",
+    "imgId": "397",
+    "filenameBase": "397_S1"
+  },
+  {
+    "serie": 1,
+    "number": "398",
+    "name": "Dragon Fantasy",
+    "imgId": "398",
+    "filenameBase": "398_S1"
+  },
+  {
+    "serie": 1,
+    "number": "399",
+    "name": "Chronus Arc",
+    "imgId": "399",
+    "filenameBase": "399_S1"
+  },
+  {
+    "serie": 1,
+    "number": "400",
+    "name": "Chronus Arc",
+    "imgId": "400",
+    "filenameBase": "400_S1"
+  },
+  {
+    "serie": 1,
+    "number": "401",
+    "name": "Revenant Dogma",
+    "imgId": "401",
+    "filenameBase": "401_S1"
+  },
+  {
+    "serie": 1,
+    "number": "402",
+    "name": "Revenant Dogma",
+    "imgId": "402",
+    "filenameBase": "402_S1"
+  },
+  {
+    "serie": 1,
+    "number": "403",
+    "name": "Nurse Love Syndrome",
+    "imgId": "403",
+    "filenameBase": "403_S1"
+  },
+  {
+    "serie": 1,
+    "number": "404",
+    "name": "Nurse Love Syndrome",
+    "imgId": "404",
+    "filenameBase": "404_S1"
+  },
+  {
+    "serie": 1,
+    "number": "405",
+    "name": "Alone With You",
+    "imgId": "405",
+    "filenameBase": "405_S1"
+  },
+  {
+    "serie": 1,
+    "number": "406",
+    "name": "Alone With You",
+    "imgId": "406",
+    "filenameBase": "406_S1"
+  },
+  {
+    "serie": 1,
+    "number": "407",
+    "name": "Light Tracer",
+    "imgId": "407",
+    "filenameBase": "407_S1"
+  },
+  {
+    "serie": 1,
+    "number": "408",
+    "name": "Light Tracer",
+    "imgId": "408",
+    "filenameBase": "408_S1"
+  },
+  {
+    "serie": 1,
+    "number": "409",
+    "name": "Spelunky",
+    "imgId": "409",
+    "filenameBase": "409_S1"
+  },
+  {
+    "serie": 1,
+    "number": "410",
+    "name": "Spelunky",
+    "imgId": "410",
+    "filenameBase": "410_S1"
+  },
+  {
+    "serie": 1,
+    "number": "411",
+    "name": "Bomb Chicken",
+    "imgId": "411",
+    "filenameBase": "411_S1"
+  },
+  {
+    "serie": 1,
+    "number": "412",
+    "name": "Bomb Chicken",
+    "imgId": "412",
+    "filenameBase": "412_S1"
+  },
+  {
+    "serie": 1,
+    "number": "413",
+    "name": "ToeJam and Earl",
+    "imgId": "413",
+    "filenameBase": "413_S1"
+  },
+  {
+    "serie": 1,
+    "number": "414",
+    "name": "ToeJam and Earl",
+    "imgId": "414",
+    "filenameBase": "414_S1"
+  },
+  {
+    "serie": 1,
+    "number": "415",
+    "name": "ToeJam and Earl",
+    "imgId": "415",
+    "filenameBase": "415_S1"
+  },
+  {
+    "serie": 1,
+    "number": "416",
+    "name": "ToeJam and Earl",
+    "imgId": "416",
+    "filenameBase": "416_S1"
+  },
+  {
+    "serie": 1,
+    "number": "417",
+    "name": "ToeJam and Earl",
+    "imgId": "417",
+    "filenameBase": "417_S1"
+  },
+  {
+    "serie": 1,
+    "number": "418",
+    "name": "ToeJam and Earl",
+    "imgId": "418",
+    "filenameBase": "418_S1"
+  },
+  {
+    "serie": 1,
+    "number": "419",
+    "name": "ToeJam and Earl",
+    "imgId": "419",
+    "filenameBase": "419_S1"
+  },
+  {
+    "serie": 1,
+    "number": "420",
+    "name": "ToeJam and Earl",
+    "imgId": "420",
+    "filenameBase": "420_S1"
+  },
+  {
+    "serie": 1,
+    "number": "421",
+    "name": "A Hole New World",
+    "imgId": "421",
+    "filenameBase": "421_S1"
+  },
+  {
+    "serie": 1,
+    "number": "422",
+    "name": "A Hole New World",
+    "imgId": "422",
+    "filenameBase": "422_S1"
+  },
+  {
+    "serie": 1,
+    "number": "423",
+    "name": "Bloodstained: Curse of the Moon",
+    "imgId": "423",
+    "filenameBase": "423_S1"
+  },
+  {
+    "serie": 1,
+    "number": "424",
+    "name": "Bloodstained: Curse of the Moon",
+    "imgId": "424",
+    "filenameBase": "424_S1"
+  },
+  {
+    "serie": 1,
+    "number": "425",
+    "name": "Bloodstained: Curse of the Moon",
+    "imgId": "425",
+    "filenameBase": "425_S1"
+  },
+  {
+    "serie": 1,
+    "number": "426",
+    "name": "The Escapists",
+    "imgId": "426",
+    "filenameBase": "426_S1"
+  },
+  {
+    "serie": 1,
+    "number": "427",
+    "name": "The Escapists",
+    "imgId": "427",
+    "filenameBase": "427_S1"
+  },
+  {
+    "serie": 1,
+    "number": "428",
+    "name": "Metal Slug 3",
+    "imgId": "428",
+    "filenameBase": "428_S1"
+  },
+  {
+    "serie": 1,
+    "number": "429",
+    "name": "Metal Slug 3",
+    "imgId": "429",
+    "filenameBase": "429_S1"
+  },
+  {
+    "serie": 1,
+    "number": "430",
+    "name": "Metal Slug 3",
+    "imgId": "430",
+    "filenameBase": "430_S1"
+  },
+  {
+    "serie": 1,
+    "number": "431",
+    "name": "Tales from Space: Mutant Blobs",
+    "imgId": "431",
+    "filenameBase": "431_S1"
+  },
+  {
+    "serie": 1,
+    "number": "432",
+    "name": "Tales from Space: Mutant Blobs",
+    "imgId": "432",
+    "filenameBase": "432_S1"
+  },
+  {
+    "serie": 1,
+    "number": "433",
+    "name": "Guacamelee",
+    "imgId": "433",
+    "filenameBase": "433_S1"
+  },
+  {
+    "serie": 1,
+    "number": "434",
+    "name": "Guacamelee",
+    "imgId": "434",
+    "filenameBase": "434_S1"
+  },
+  {
+    "serie": 1,
+    "number": "435",
+    "name": "Pix the Cat",
+    "imgId": "435",
+    "filenameBase": "435_S1"
+  },
+  {
+    "serie": 1,
+    "number": "436",
+    "name": "Pix the Cat",
+    "imgId": "436",
+    "filenameBase": "436_S1"
+  },
+  {
+    "serie": 1,
+    "number": "437",
+    "name": "Deadbolt",
+    "imgId": "437",
+    "filenameBase": "437_S1"
+  },
+  {
+    "serie": 1,
+    "number": "438",
+    "name": "Deadbolt",
+    "imgId": "438",
+    "filenameBase": "438_S1"
+  },
+  {
+    "serie": 1,
+    "number": "439",
+    "name": "London Detective Mysteria",
+    "imgId": "439",
+    "filenameBase": "439_S1"
+  },
+  {
+    "serie": 1,
+    "number": "440",
+    "name": "London Detective Mysteria",
+    "imgId": "440",
+    "filenameBase": "440_S1"
+  },
+  {
+    "serie": 1,
+    "number": "441",
+    "name": "Atari Flashback",
+    "imgId": "441",
+    "filenameBase": "441_S1"
+  },
+  {
+    "serie": 1,
+    "number": "442",
+    "name": "Atari Flashback",
+    "imgId": "442",
+    "filenameBase": "442_S1"
+  },
+  {
+    "serie": 1,
+    "number": "443",
+    "name": "Damascus Gear Tokyo",
+    "imgId": "443",
+    "filenameBase": "443_S1"
+  },
+  {
+    "serie": 1,
+    "number": "444",
+    "name": "Damascus Gear Tokyo",
+    "imgId": "444",
+    "filenameBase": "444_S1"
+  },
+  {
+    "serie": 1,
+    "number": "445",
+    "name": "Damascus Gear Osaka",
+    "imgId": "445",
+    "filenameBase": "445_S1"
+  },
+  {
+    "serie": 1,
+    "number": "446",
+    "name": "Damascus Gear Osaka",
+    "imgId": "446",
+    "filenameBase": "446_S1"
+  },
+  {
+    "serie": 1,
+    "number": "447",
+    "name": "The House in Fata Morgana",
+    "imgId": "447",
+    "filenameBase": "447_S1"
+  },
+  {
+    "serie": 1,
+    "number": "448",
+    "name": "The House in Fata Morgana",
+    "imgId": "448",
+    "filenameBase": "448_S1"
+  },
+  {
+    "serie": 1,
+    "number": "449",
+    "name": "Rocketbirds 1",
+    "imgId": "449",
+    "filenameBase": "449_S1"
+  },
+  {
+    "serie": 1,
+    "number": "450",
+    "name": "Rocketbirds 1",
+    "imgId": "450",
+    "filenameBase": "450_S1"
+  },
+  {
+    "serie": 1,
+    "number": "451",
+    "name": "Rocketbirds 2",
+    "imgId": "451",
+    "filenameBase": "451_S1"
+  },
+  {
+    "serie": 1,
+    "number": "452",
+    "name": "Rocketbirds 2",
+    "imgId": "452",
+    "filenameBase": "452_S1"
+  },
+  {
+    "serie": 1,
+    "number": "453",
+    "name": "Alone With You",
+    "imgId": "453",
+    "filenameBase": "453_S1"
+  },
+  {
+    "serie": 1,
+    "number": "454",
+    "name": "Alone With You",
+    "imgId": "454",
+    "filenameBase": "454_S1"
+  },
+  {
+    "serie": 1,
+    "number": "455",
+    "name": "Revenant Dogma",
+    "imgId": "455",
+    "filenameBase": "455_S1"
+  },
+  {
+    "serie": 1,
+    "number": "456",
+    "name": "Revenant Dogma",
+    "imgId": "456",
+    "filenameBase": "456_S1"
+  },
+  {
+    "serie": 1,
+    "number": "457",
+    "name": "Game Tengoku",
+    "imgId": "457",
+    "filenameBase": "457_S1"
+  },
+  {
+    "serie": 1,
+    "number": "458",
+    "name": "Game Tengoku",
+    "imgId": "458",
+    "filenameBase": "458_S1"
+  },
+  {
+    "serie": 1,
+    "number": "459",
+    "name": "Battle Garegga",
+    "imgId": "459",
+    "filenameBase": "459_S1"
+  },
+  {
+    "serie": 1,
+    "number": "460",
+    "name": "Battle Garegga",
+    "imgId": "460",
+    "filenameBase": "460_S1"
+  },
+  {
+    "serie": 1,
+    "number": "461",
+    "name": "Prison Boss VR",
+    "imgId": "461",
+    "filenameBase": "461_S1"
+  },
+  {
+    "serie": 1,
+    "number": "462",
+    "name": "Prison Boss VR",
+    "imgId": "462",
+    "filenameBase": "462_S1"
+  },
+  {
+    "serie": 1,
+    "number": "463",
+    "name": "Timespinner",
+    "imgId": "463",
+    "filenameBase": "463_S1"
+  },
+  {
+    "serie": 1,
+    "number": "464",
+    "name": "Timespinner",
+    "imgId": "464",
+    "filenameBase": "464_S1"
+  },
+  {
+    "serie": 1,
+    "number": "465",
+    "name": "Giga Wrecker ALT",
+    "imgId": "465",
+    "filenameBase": "465_S1"
+  },
+  {
+    "serie": 1,
+    "number": "466",
+    "name": "Giga Wrecker ALT",
+    "imgId": "466",
+    "filenameBase": "466_S1"
+  },
+  {
+    "serie": 1,
+    "number": "467",
+    "name": "Aegis Defenders",
+    "imgId": "467",
+    "filenameBase": "467_S1"
+  },
+  {
+    "serie": 1,
+    "number": "468",
+    "name": "Aegis Defenders",
+    "imgId": "468",
+    "filenameBase": "468_S1"
+  },
+  {
+    "serie": 1,
+    "number": "469",
+    "name": "Freedom Planet",
+    "imgId": "469",
+    "filenameBase": "469_S1"
+  },
+  {
+    "serie": 1,
+    "number": "470",
+    "name": "Freedom Planet",
+    "imgId": "470",
+    "filenameBase": "470_S1"
+  },
+  {
+    "serie": 1,
+    "number": "471",
+    "name": "A-Train",
+    "imgId": "471",
+    "filenameBase": "471_S1"
+  },
+  {
+    "serie": 1,
+    "number": "472",
+    "name": "A-Train",
+    "imgId": "472",
+    "filenameBase": "472_S1"
+  },
+  {
+    "serie": 1,
+    "number": "473",
+    "name": "Another World",
+    "imgId": "473",
+    "filenameBase": "473_S1"
+  },
+  {
+    "serie": 1,
+    "number": "474",
+    "name": "Another World",
+    "imgId": "474",
+    "filenameBase": "474_S1"
+  },
+  {
+    "serie": 1,
+    "number": "475",
+    "name": "Lumines",
+    "imgId": "475",
+    "filenameBase": "475_S1"
+  },
+  {
+    "serie": 1,
+    "number": "476",
+    "name": "Lumines",
+    "imgId": "476",
+    "filenameBase": "476_S1"
+  },
+  {
+    "serie": 1,
+    "number": "477",
+    "name": "Doctor Dekker",
+    "imgId": "477",
+    "filenameBase": "477_S1"
+  },
+  {
+    "serie": 1,
+    "number": "478",
+    "name": "Doctor Dekker",
+    "imgId": "478",
+    "filenameBase": "478_S1"
+  },
+  {
+    "serie": 1,
+    "number": "479",
+    "name": "The First Tree",
+    "imgId": "479",
+    "filenameBase": "479_S1"
+  },
+  {
+    "serie": 1,
+    "number": "480",
+    "name": "The First Tree",
+    "imgId": "480",
+    "filenameBase": "480_S1"
+  },
+  {
+    "serie": 1,
+    "number": "481",
+    "name": "OddWorld: Stranger's Wrath",
+    "imgId": "481",
+    "filenameBase": "481_S1"
+  },
+  {
+    "serie": 1,
+    "number": "482",
+    "name": "OddWorld: Stranger's Wrath",
+    "imgId": "482",
+    "filenameBase": "482_S1"
+  },
+  {
+    "serie": 1,
+    "number": "483",
+    "name": "OddWorld: New n Tasty",
+    "imgId": "483",
+    "filenameBase": "483_S1"
+  },
+  {
+    "serie": 1,
+    "number": "484",
+    "name": "OddWorld: New n Tasty",
+    "imgId": "484",
+    "filenameBase": "484_S1"
+  },
+  {
+    "serie": 1,
+    "number": "485",
+    "name": "Frog Fractions 2",
+    "imgId": "485",
+    "filenameBase": "485_S1"
+  },
+  {
+    "serie": 1,
+    "number": "486",
+    "name": "Project LUX",
+    "imgId": "486",
+    "filenameBase": "486_S1"
+  },
+  {
+    "serie": 1,
+    "number": "487",
+    "name": "Project LUX",
+    "imgId": "487",
+    "filenameBase": "487_S1"
+  },
+  {
+    "serie": 1,
+    "number": "488",
+    "name": "Desert Child",
+    "imgId": "488",
+    "filenameBase": "488_S1"
+  },
+  {
+    "serie": 1,
+    "number": "489",
+    "name": "Desert Child",
+    "imgId": "489",
+    "filenameBase": "489_S1"
+  },
+  {
+    "serie": 1,
+    "number": "490",
+    "name": "Striker's Edge",
+    "imgId": "490",
+    "filenameBase": "490_S1"
+  },
+  {
+    "serie": 1,
+    "number": "491",
+    "name": "Striker's Edge",
+    "imgId": "491",
+    "filenameBase": "491_S1"
+  },
+  {
+    "serie": 1,
+    "number": "492",
+    "name": "Star Wars Bounty Hunter",
+    "imgId": "492",
+    "filenameBase": "492_S1"
+  },
+  {
+    "serie": 1,
+    "number": "493",
+    "name": "Star Wars Bounty Hunter",
+    "imgId": "493",
+    "filenameBase": "493_S1"
+  },
+  {
+    "serie": 1,
+    "number": "494",
+    "name": "Star Wars NES",
+    "imgId": "494",
+    "filenameBase": "494_S1"
+  },
+  {
+    "serie": 1,
+    "number": "495",
+    "name": "Star Wars NES",
+    "imgId": "495",
+    "filenameBase": "495_S1"
+  },
+  {
+    "serie": 1,
+    "number": "496",
+    "name": "Star Wars GB",
+    "imgId": "496",
+    "filenameBase": "496_S1"
+  },
+  {
+    "serie": 1,
+    "number": "497",
+    "name": "Star Wars GB",
+    "imgId": "497",
+    "filenameBase": "497_S1"
+  },
+  {
+    "serie": 1,
+    "number": "498",
+    "name": "Momodora",
+    "imgId": "498",
+    "filenameBase": "498_S1"
+  },
+  {
+    "serie": 1,
+    "number": "499",
+    "name": "Momodora",
+    "imgId": "499",
+    "filenameBase": "499_S1"
+  },
+  {
+    "serie": 1,
+    "number": "500",
+    "name": "Power Rangers",
+    "imgId": "500",
+    "filenameBase": "500_S1"
+  },
+  {
+    "serie": 1,
+    "number": "501",
+    "name": "Power Rangers",
+    "imgId": "501",
+    "filenameBase": "501_S1"
+  },
+  {
+    "serie": 1,
+    "number": "502",
+    "name": "Transistor",
+    "imgId": "502",
+    "filenameBase": "502_S1"
+  },
+  {
+    "serie": 1,
+    "number": "503",
+    "name": "Transistor",
+    "imgId": "503",
+    "filenameBase": "503_S1"
+  },
+  {
+    "serie": 1,
+    "number": "504",
+    "name": "Corpse Killer",
+    "imgId": "504",
+    "filenameBase": "504_S1"
+  },
+  {
+    "serie": 1,
+    "number": "505",
+    "name": "Corpse Killer",
+    "imgId": "505",
+    "filenameBase": "505_S1"
+  },
+  {
+    "serie": 1,
+    "number": "506",
+    "name": "Red Faction",
+    "imgId": "506",
+    "filenameBase": "506_S1"
+  },
+  {
+    "serie": 1,
+    "number": "507",
+    "name": "Red Faction",
+    "imgId": "507",
+    "filenameBase": "507_S1"
+  },
+  {
+    "serie": 1,
+    "number": "508",
+    "name": "Psychonauts",
+    "imgId": "508",
+    "filenameBase": "508_S1"
+  },
+  {
+    "serie": 1,
+    "number": "509",
+    "name": "Psychonauts",
+    "imgId": "509",
+    "filenameBase": "509_S1"
+  },
+  {
+    "serie": 1,
+    "number": "510",
+    "name": "Gravity Ghost",
+    "imgId": "510",
+    "filenameBase": "510_S1"
+  },
+  {
+    "serie": 1,
+    "number": "511",
+    "name": "Gravity Ghost",
+    "imgId": "511",
+    "filenameBase": "511_S1"
+  },
+  {
+    "serie": 1,
+    "number": "512",
+    "name": "Accounting+",
+    "imgId": "512",
+    "filenameBase": "512_S1"
+  },
+  {
+    "serie": 1,
+    "number": "513",
+    "name": "Accounting+",
+    "imgId": "513",
+    "filenameBase": "513_S1"
+  },
+  {
+    "serie": 1,
+    "number": "514",
+    "name": "Super Combo Man",
+    "imgId": "514",
+    "filenameBase": "514_S1"
+  },
+  {
+    "serie": 1,
+    "number": "515",
+    "name": "Super Combo Man",
+    "imgId": "515",
+    "filenameBase": "515_S1"
+  },
+  {
+    "serie": 1,
+    "number": "516",
+    "name": "Atari Flashback CE",
+    "imgId": "516",
+    "filenameBase": "516_S1"
+  },
+  {
+    "serie": 1,
+    "number": "517",
+    "name": "Atari Flashback CE",
+    "imgId": "517",
+    "filenameBase": "517_S1"
+  },
+  {
+    "serie": 1,
+    "number": "518",
+    "name": "Atari Flashback CE",
+    "imgId": "518",
+    "filenameBase": "518_S1"
+  },
+  {
+    "serie": 1,
+    "number": "519",
+    "name": "Atari Flashback CE",
+    "imgId": "519",
+    "filenameBase": "519_S1"
+  },
+  {
+    "serie": 1,
+    "number": "520",
+    "name": "Atari Flashback CE",
+    "imgId": "520",
+    "filenameBase": "520_S1"
+  },
+  {
+    "serie": 1,
+    "number": "521",
+    "name": "Atari Flashback CE",
+    "imgId": "521",
+    "filenameBase": "521_S1"
+  },
+  {
+    "serie": 1,
+    "number": "522",
+    "name": "Atari Flashback CE",
+    "imgId": "522",
+    "filenameBase": "522_S1"
+  },
+  {
+    "serie": 1,
+    "number": "523",
+    "name": "Atari Flashback CE",
+    "imgId": "523",
+    "filenameBase": "523_S1"
+  },
+  {
+    "serie": 1,
+    "number": "524",
+    "name": "Rogue Legacy",
+    "imgId": "524",
+    "filenameBase": "524_S1"
+  },
+  {
+    "serie": 1,
+    "number": "525",
+    "name": "Rogue Legacy",
+    "imgId": "525",
+    "filenameBase": "525_S1"
+  },
+  {
+    "serie": 1,
+    "number": "526",
+    "name": "Dragon's Lair",
+    "imgId": "526",
+    "filenameBase": "526_S1"
+  },
+  {
+    "serie": 1,
+    "number": "527",
+    "name": "Dragon's Lair",
+    "imgId": "527",
+    "filenameBase": "527_S1"
+  },
+  {
+    "serie": 1,
+    "number": "528",
+    "name": "Dragon's Lair",
+    "imgId": "528",
+    "filenameBase": "528_S1"
+  },
+  {
+    "serie": 1,
+    "number": "529",
+    "name": "Double Switch",
+    "imgId": "529",
+    "filenameBase": "529_S1"
+  },
+  {
+    "serie": 1,
+    "number": "530",
+    "name": "Red Matter",
+    "imgId": "530",
+    "filenameBase": "530_S1"
+  },
+  {
+    "serie": 1,
+    "number": "531",
+    "name": "Red Matter",
+    "imgId": "531",
+    "filenameBase": "531_S1"
+  },
+  {
+    "serie": 1,
+    "number": "532",
+    "name": "Vitamin Connection",
+    "imgId": "532",
+    "filenameBase": "532_S1"
+  },
+  {
+    "serie": 1,
+    "number": "533",
+    "name": "Siralim 3",
+    "imgId": "533",
+    "filenameBase": "533_S1"
+  },
+  {
+    "serie": 1,
+    "number": "534",
+    "name": "Siralim 3",
+    "imgId": "534",
+    "filenameBase": "534_S1"
+  },
+  {
+    "serie": 1,
+    "number": "535",
+    "name": "Blazing Chrome",
+    "imgId": "535",
+    "filenameBase": "535_S1"
+  },
+  {
+    "serie": 1,
+    "number": "536",
+    "name": "Blazing Chrome",
+    "imgId": "536",
+    "filenameBase": "536_S1"
+  },
+  {
+    "serie": 1,
+    "number": "537",
+    "name": "Serial Cleaner",
+    "imgId": "537",
+    "filenameBase": "537_S1"
+  },
+  {
+    "serie": 1,
+    "number": "538",
+    "name": "Serial Cleaner",
+    "imgId": "538",
+    "filenameBase": "538_S1"
+  },
+  {
+    "serie": 1,
+    "number": "539",
+    "name": "Duck Game",
+    "imgId": "539",
+    "filenameBase": "539_S1"
+  },
+  {
+    "serie": 1,
+    "number": "540",
+    "name": "Duck Game",
+    "imgId": "540",
+    "filenameBase": "540_S1"
+  },
+  {
+    "serie": 1,
+    "number": "541",
+    "name": "River City Girls",
+    "imgId": "541",
+    "filenameBase": "541_S1"
+  },
+  {
+    "serie": 1,
+    "number": "542",
+    "name": "River City Girls",
+    "imgId": "542",
+    "filenameBase": "542_S1"
+  },
+  {
+    "serie": 1,
+    "number": "543",
+    "name": "River City Girls",
+    "imgId": "543",
+    "filenameBase": "543_S1"
+  },
+  {
+    "serie": 1,
+    "number": "544",
+    "name": "Planet of the Apes",
+    "imgId": "544",
+    "filenameBase": "544_S1"
+  },
+  {
+    "serie": 1,
+    "number": "545",
+    "name": "Planet of the Apes",
+    "imgId": "545",
+    "filenameBase": "545_S1"
+  },
+  {
+    "serie": 1,
+    "number": "546",
+    "name": "Ms. Splosion Man",
+    "imgId": "546",
+    "filenameBase": "546_S1"
+  },
+  {
+    "serie": 1,
+    "number": "547",
+    "name": "Jay and Silent Bob Mall Brawl",
+    "imgId": "547",
+    "filenameBase": "547_S1"
+  },
+  {
+    "serie": 1,
+    "number": "548",
+    "name": "Shenmue III",
+    "imgId": "548",
+    "filenameBase": "548_S1"
+  },
+  {
+    "serie": 1,
+    "number": "549",
+    "name": "Slime-san",
+    "imgId": "549",
+    "filenameBase": "549_S1"
+  },
+  {
+    "serie": 1,
+    "number": "550",
+    "name": "Slime-san",
+    "imgId": "550",
+    "filenameBase": "550_S1"
+  },
+  {
+    "serie": 1,
+    "number": "551",
+    "name": "Turok 1",
+    "imgId": "551",
+    "filenameBase": "551_S1"
+  },
+  {
+    "serie": 1,
+    "number": "552",
+    "name": "Turok 1",
+    "imgId": "552",
+    "filenameBase": "552_S1"
+  },
+  {
+    "serie": 1,
+    "number": "553",
+    "name": "Turok 2",
+    "imgId": "553",
+    "filenameBase": "553_S1"
+  },
+  {
+    "serie": 1,
+    "number": "554",
+    "name": "Turok 2",
+    "imgId": "554",
+    "filenameBase": "554_S1"
+  },
+  {
+    "serie": 1,
+    "number": "555",
+    "name": "Asdivine Hearts II",
+    "imgId": "555",
+    "filenameBase": "555_S1"
+  },
+  {
+    "serie": 1,
+    "number": "556",
+    "name": "Asdivine Hearts II",
+    "imgId": "556",
+    "filenameBase": "556_S1"
+  },
+  {
+    "serie": 1,
+    "number": "557",
+    "name": "Star Wars Racer Revenge",
+    "imgId": "557",
+    "filenameBase": "557_S1"
+  },
+  {
+    "serie": 1,
+    "number": "558",
+    "name": "Star Wars Racer Revenge",
+    "imgId": "558",
+    "filenameBase": "558_S1"
+  },
+  {
+    "serie": 1,
+    "number": "559",
+    "name": "Shadows of the Empire",
+    "imgId": "559",
+    "filenameBase": "559_S1"
+  },
+  {
+    "serie": 1,
+    "number": "560",
+    "name": "Shadows of the Empire",
+    "imgId": "560",
+    "filenameBase": "560_S1"
+  },
+  {
+    "serie": 1,
+    "number": "561",
+    "name": "Empire Strikes Back (NES)",
+    "imgId": "561",
+    "filenameBase": "561_S1"
+  },
+  {
+    "serie": 1,
+    "number": "562",
+    "name": "Empire Strikes Back (NES)",
+    "imgId": "562",
+    "filenameBase": "562_S1"
+  },
+  {
+    "serie": 1,
+    "number": "563",
+    "name": "Empire Strikes Back (GB)",
+    "imgId": "563",
+    "filenameBase": "563_S1"
+  },
+  {
+    "serie": 1,
+    "number": "564",
+    "name": "Empire Strikes Back (GB)",
+    "imgId": "564",
+    "filenameBase": "564_S1"
+  },
+  {
+    "serie": 1,
+    "number": "565",
+    "name": "Bard's Tale",
+    "imgId": "565",
+    "filenameBase": "565_S1"
+  },
+  {
+    "serie": 1,
+    "number": "566",
+    "name": "Bard's Tale",
+    "imgId": "566",
+    "filenameBase": "566_S1"
+  },
+  {
+    "serie": 1,
+    "number": "567",
+    "name": "Shapeshifting Detective",
+    "imgId": "567",
+    "filenameBase": "567_S1"
+  },
+  {
+    "serie": 1,
+    "number": "568",
+    "name": "Shapeshifting Detective",
+    "imgId": "568",
+    "filenameBase": "568_S1"
+  },
+  {
+    "serie": 1,
+    "number": "569",
+    "name": "Battle Princess Madelyn",
+    "imgId": "569",
+    "filenameBase": "569_S1"
+  },
+  {
+    "serie": 1,
+    "number": "570",
+    "name": "Battle Princess Madelyn",
+    "imgId": "570",
+    "filenameBase": "570_S1"
+  },
+  {
+    "serie": 1,
+    "number": "571",
+    "name": "Marenian Tavern Story",
+    "imgId": "571",
+    "filenameBase": "571_S1"
+  },
+  {
+    "serie": 1,
+    "number": "572",
+    "name": "Marenian Tavern Story",
+    "imgId": "572",
+    "filenameBase": "572_S1"
+  },
+  {
+    "serie": 1,
+    "number": "573",
+    "name": "Alvastia Chronicles",
+    "imgId": "573",
+    "filenameBase": "573_S1"
+  },
+  {
+    "serie": 1,
+    "number": "574",
+    "name": "Alvastia Chronicles",
+    "imgId": "574",
+    "filenameBase": "574_S1"
+  },
+  {
+    "serie": 1,
+    "number": "575",
+    "name": "Children of the Zodiarcs",
+    "imgId": "575",
+    "filenameBase": "575_S1"
+  },
+  {
+    "serie": 1,
+    "number": "576",
+    "name": "Children of the Zodiarcs",
+    "imgId": "576",
+    "filenameBase": "576_S1"
+  },
+  {
+    "serie": 1,
+    "number": "577",
+    "name": "Pop Up Shop Up Exclusive",
+    "imgId": "577",
+    "filenameBase": "577_S1"
+  },
+  {
+    "serie": 1,
+    "number": "578",
+    "name": "Star Wars Racer",
+    "imgId": "578",
+    "filenameBase": "578_S1"
+  },
+  {
+    "serie": 1,
+    "number": "579",
+    "name": "Star Wars Racer",
+    "imgId": "579",
+    "filenameBase": "579_S1"
+  },
+  {
+    "serie": 1,
+    "number": "580",
+    "name": "Star Wars Rebel Assault",
+    "imgId": "580",
+    "filenameBase": "580_S1"
+  },
+  {
+    "serie": 1,
+    "number": "581",
+    "name": "Star Wars Rebel Assault",
+    "imgId": "581",
+    "filenameBase": "581_S1"
+  },
+  {
+    "serie": 1,
+    "number": "582",
+    "name": "Secret of Monkey Island",
+    "imgId": "582",
+    "filenameBase": "582_S1"
+  },
+  {
+    "serie": 1,
+    "number": "583",
+    "name": "Secret of Monkey Island",
+    "imgId": "583",
+    "filenameBase": "583_S1"
+  },
+  {
+    "serie": 1,
+    "number": "584",
+    "name": "FU'UN Super Combo",
+    "imgId": "584",
+    "filenameBase": "584_S1"
+  },
+  {
+    "serie": 1,
+    "number": "585",
+    "name": "FU'UN Super Combo (Kizuna)",
+    "imgId": "585",
+    "filenameBase": "585_S1"
+  },
+  {
+    "serie": 1,
+    "number": "586",
+    "name": "FU'UN Super Combo (Savage Reign)",
+    "imgId": "586",
+    "filenameBase": "586_S1"
+  },
+  {
+    "serie": 1,
+    "number": "587",
+    "name": "GRIS",
+    "imgId": "587",
+    "filenameBase": "587_S1"
+  },
+  {
+    "serie": 1,
+    "number": "588",
+    "name": "GRIS",
+    "imgId": "588",
+    "filenameBase": "588_S1"
+  },
+  {
+    "serie": 1,
+    "number": "589",
+    "name": "VA-11 HALL-A",
+    "imgId": "589",
+    "filenameBase": "589_S1"
+  },
+  {
+    "serie": 1,
+    "number": "590",
+    "name": "VA-11 HALL-A",
+    "imgId": "590",
+    "filenameBase": "590_S1"
+  },
+  {
+    "serie": 1,
+    "number": "591",
+    "name": "2064",
+    "imgId": "591",
+    "filenameBase": "591_S1"
+  },
+  {
+    "serie": 1,
+    "number": "592",
+    "name": "2064",
+    "imgId": "592",
+    "filenameBase": "592_S1"
+  },
+  {
+    "serie": 1,
+    "number": "593",
+    "name": "Tetris Effect",
+    "imgId": "593",
+    "filenameBase": "593_S1"
+  },
+  {
+    "serie": 1,
+    "number": "594",
+    "name": "Blasphemous",
+    "imgId": "594",
+    "filenameBase": "594_S1"
+  },
+  {
+    "serie": 1,
+    "number": "595",
+    "name": "Blasphemous",
+    "imgId": "595",
+    "filenameBase": "595_S1"
+  },
+  {
+    "serie": 1,
+    "number": "596",
+    "name": "Stranger Things 3",
+    "imgId": "596",
+    "filenameBase": "596_S1"
+  },
+  {
+    "serie": 1,
+    "number": "597",
+    "name": "Stranger Things 3",
+    "imgId": "597",
+    "filenameBase": "597_S1"
+  },
+  {
+    "serie": 1,
+    "number": "598",
+    "name": "Divinity II",
+    "imgId": "598",
+    "filenameBase": "598_S1"
+  },
+  {
+    "serie": 1,
+    "number": "599",
+    "name": "Divinity II",
+    "imgId": "599",
+    "filenameBase": "599_S1"
+  },
+  {
+    "serie": 1,
+    "number": "600",
+    "name": "Limited Run Logo Card 1",
+    "imgId": "600",
+    "filenameBase": "600_S1"
+  },
+  {
+    "serie": 1,
+    "number": "601",
+    "name": "Limited Run Logo Card 2",
+    "imgId": "601",
+    "filenameBase": "601_S1"
+  },
+  {
+    "serie": 1,
+    "number": "602",
+    "name": "Wandersong",
+    "imgId": "602",
+    "filenameBase": "602_S1"
+  },
+  {
+    "serie": 1,
+    "number": "603",
+    "name": "Wandersong",
+    "imgId": "603",
+    "filenameBase": "603_S1"
+  },
+  {
+    "serie": 1,
+    "number": "604",
+    "name": "Lifeless Planet",
+    "imgId": "604",
+    "filenameBase": "604_S1"
+  },
+  {
+    "serie": 1,
+    "number": "605",
+    "name": "Lifeless Planet",
+    "imgId": "605",
+    "filenameBase": "605_S1"
+  },
+  {
+    "serie": 1,
+    "number": "606",
+    "name": "Jupiter & Mars",
+    "imgId": "606",
+    "filenameBase": "606_S1"
+  },
+  {
+    "serie": 1,
+    "number": "607",
+    "name": "Jupiter & Mars",
+    "imgId": "607",
+    "filenameBase": "607_S1"
+  },
+  {
+    "serie": 1,
+    "number": "608",
+    "name": "Tokyo Chronos",
+    "imgId": "608",
+    "filenameBase": "608_S1"
+  },
+  {
+    "serie": 1,
+    "number": "609",
+    "name": "Tokyo Chronos",
+    "imgId": "609",
+    "filenameBase": "609_S1"
+  },
+  {
+    "serie": 1,
+    "number": "610",
+    "name": "Polybius",
+    "imgId": "610",
+    "filenameBase": "610_S1"
+  },
+  {
+    "serie": 1,
+    "number": "611",
+    "name": "Polybius",
+    "imgId": "611",
+    "filenameBase": "611_S1"
+  },
+  {
+    "serie": 1,
+    "number": "612",
+    "name": "Costume Quest 2",
+    "imgId": "612",
+    "filenameBase": "612_S1"
+  },
+  {
+    "serie": 1,
+    "number": "613",
+    "name": "Costume Quest 2",
+    "imgId": "613",
+    "filenameBase": "613_S1"
+  },
+  {
+    "serie": 1,
+    "number": "614",
+    "name": "Limited Run Logo Card 3",
+    "imgId": "614",
+    "filenameBase": "614_S1"
+  },
+  {
+    "serie": 1,
+    "number": "615",
+    "name": "Limited Run Logo Card 4",
+    "imgId": "615",
+    "filenameBase": "615_S1"
+  },
+  {
+    "serie": 1,
+    "number": "616",
+    "name": "Knights and Bikes",
+    "imgId": "616",
+    "filenameBase": "616_S1"
+  },
+  {
+    "serie": 1,
+    "number": "617",
+    "name": "Knights and Bikes",
+    "imgId": "617",
+    "filenameBase": "617_S1"
+  },
+  {
+    "serie": 1,
+    "number": "618",
+    "name": "ADK Damashii",
+    "imgId": "618",
+    "filenameBase": "618_S1"
+  },
+  {
+    "serie": 1,
+    "number": "619",
+    "name": "ADK Damashii",
+    "imgId": "619",
+    "filenameBase": "619_S1"
+  },
+  {
+    "serie": 1,
+    "number": "620",
+    "name": "ADK Damashii",
+    "imgId": "620",
+    "filenameBase": "620_S1"
+  },
+  {
+    "serie": 1,
+    "number": "621",
+    "name": "ADK Damashii",
+    "imgId": "621",
+    "filenameBase": "621_S1"
+  },
+  {
+    "serie": 1,
+    "number": "622",
+    "name": "ADK Damashii",
+    "imgId": "622",
+    "filenameBase": "622_S1"
+  },
+  {
+    "serie": 1,
+    "number": "623",
+    "name": "Dark Devotion",
+    "imgId": "623",
+    "filenameBase": "623_S1"
+  },
+  {
+    "serie": 1,
+    "number": "624",
+    "name": "Dark Devotion",
+    "imgId": "624",
+    "filenameBase": "624_S1"
+  },
+  {
+    "serie": 1,
+    "number": "625",
+    "name": "Blossom Tales",
+    "imgId": "625",
+    "filenameBase": "625_S1"
+  },
+  {
+    "serie": 1,
+    "number": "626",
+    "name": "Blossom Tales",
+    "imgId": "626",
+    "filenameBase": "626_S1"
+  },
+  {
+    "serie": 1,
+    "number": "627",
+    "name": "2020 Blow-Out Sale Card",
+    "imgId": "627",
+    "filenameBase": "627_S1"
+  },
+  {
+    "serie": 1,
+    "number": "628",
+    "name": "Limited Run Logo Card 5",
+    "imgId": "628",
+    "filenameBase": "628_S1"
+  },
+  {
+    "serie": 2,
+    "number": "1",
+    "name": "Samurai Shodown V",
+    "imgId": "001",
+    "filenameBase": "001_S2"
+  },
+  {
+    "serie": 2,
+    "number": "2",
+    "name": "Samurai Shodown V",
+    "imgId": "002",
+    "filenameBase": "002_S"
+  },
+  {
+    "serie": 2,
+    "number": "3",
+    "name": "Samurai Shodown VI",
+    "imgId": "003",
+    "filenameBase": "003_S2"
+  },
+  {
+    "serie": 2,
+    "number": "4",
+    "name": "Samurai Shodown VI",
+    "imgId": "004",
+    "filenameBase": "004_S2"
+  },
+  {
+    "serie": 2,
+    "number": "5",
+    "name": "Fallen Legion Flames of Rebellion",
+    "imgId": "005",
+    "filenameBase": "005_S2"
+  },
+  {
+    "serie": 2,
+    "number": "6",
+    "name": "Fallen Legion Flames of Rebellion",
+    "imgId": "006",
+    "filenameBase": "006_S2"
+  },
+  {
+    "serie": 2,
+    "number": "7",
+    "name": "The Missing",
+    "imgId": "007",
+    "filenameBase": "007_S2"
+  },
+  {
+    "serie": 2,
+    "number": "8",
+    "name": "The Missing",
+    "imgId": "008",
+    "filenameBase": "008_S2"
+  },
+  {
+    "serie": 2,
+    "number": "9",
+    "name": "Mighty Switch Force Collection",
+    "imgId": "009",
+    "filenameBase": "009_S2"
+  },
+  {
+    "serie": 2,
+    "number": "10",
+    "name": "Mighty Switch Force Collection",
+    "imgId": "010",
+    "filenameBase": "010_S2"
+  },
+  {
+    "serie": 2,
+    "number": "11",
+    "name": "Vitamin Connection",
+    "imgId": "011",
+    "filenameBase": "011_S2"
+  },
+  {
+    "serie": 2,
+    "number": "12",
+    "name": "Vitamin Connection",
+    "imgId": "012",
+    "filenameBase": "012_S2"
+  },
+  {
+    "serie": 2,
+    "number": "13",
+    "name": "Mystik Belle",
+    "imgId": "013",
+    "filenameBase": "013_S2"
+  },
+  {
+    "serie": 2,
+    "number": "14",
+    "name": "Mystik Belle",
+    "imgId": "014",
+    "filenameBase": "014_S2"
+  },
+  {
+    "serie": 2,
+    "number": "15",
+    "name": "Forgotton Anne",
+    "imgId": "015",
+    "filenameBase": "015_S2"
+  },
+  {
+    "serie": 2,
+    "number": "16",
+    "name": "Forgotton Anne",
+    "imgId": "016",
+    "filenameBase": "016_S2"
+  },
+  {
+    "serie": 2,
+    "number": "17",
+    "name": "Illusion of L'Phalcia",
+    "imgId": "017",
+    "filenameBase": "017_S2"
+  },
+  {
+    "serie": 2,
+    "number": "18",
+    "name": "Illusion of L'Phalcia",
+    "imgId": "018",
+    "filenameBase": "018_S2"
+  },
+  {
+    "serie": 2,
+    "number": "19",
+    "name": "Legend of Tetrarchs",
+    "imgId": "019",
+    "filenameBase": "019_S2"
+  },
+  {
+    "serie": 2,
+    "number": "20",
+    "name": "Legend of Tetrarchs",
+    "imgId": "020",
+    "filenameBase": "020_S2"
+  },
+  {
+    "serie": 2,
+    "number": "21",
+    "name": "Sephirothic Stories",
+    "imgId": "021",
+    "filenameBase": "021_S2"
+  },
+  {
+    "serie": 2,
+    "number": "22",
+    "name": "Sephirothic Stories",
+    "imgId": "022",
+    "filenameBase": "022_S2"
+  },
+  {
+    "serie": 2,
+    "number": "23",
+    "name": "Frane",
+    "imgId": "023",
+    "filenameBase": "023_S2"
+  },
+  {
+    "serie": 2,
+    "number": "24",
+    "name": "Frane",
+    "imgId": "024",
+    "filenameBase": "024_S2"
+  },
+  {
+    "serie": 2,
+    "number": "25",
+    "name": "Bad North",
+    "imgId": "025",
+    "filenameBase": "025_S2"
+  },
+  {
+    "serie": 2,
+    "number": "26",
+    "name": "Bad North",
+    "imgId": "026",
+    "filenameBase": "026_S2"
+  },
+  {
+    "serie": 2,
+    "number": "27",
+    "name": "realMYST",
+    "imgId": "027",
+    "filenameBase": "027_S2"
+  },
+  {
+    "serie": 2,
+    "number": "28",
+    "name": "realMYST",
+    "imgId": "028",
+    "filenameBase": "028_S2"
+  },
+  {
+    "serie": 2,
+    "number": "29",
+    "name": "Tiny Metal Ultimate",
+    "imgId": "029",
+    "filenameBase": "029_S2"
+  },
+  {
+    "serie": 2,
+    "number": "30",
+    "name": "Tiny Metal Ultimate",
+    "imgId": "030",
+    "filenameBase": "030_S2"
+  },
+  {
+    "serie": 2,
+    "number": "31",
+    "name": "Star Wars Dark Forces",
+    "imgId": "031",
+    "filenameBase": "031_S2"
+  },
+  {
+    "serie": 2,
+    "number": "32",
+    "name": "Star Wars Dark Forces",
+    "imgId": "032",
+    "filenameBase": "032_S2"
+  },
+  {
+    "serie": 2,
+    "number": "33",
+    "name": "Star Wars Dark Forces II Jedi Knight",
+    "imgId": "033",
+    "filenameBase": "033_S2"
+  },
+  {
+    "serie": 2,
+    "number": "34",
+    "name": "Star Wars Dark Forces II Jedi Knight",
+    "imgId": "034",
+    "filenameBase": "034_S2"
+  },
+  {
+    "serie": 2,
+    "number": "35",
+    "name": "Command & Conquer",
+    "imgId": "035",
+    "filenameBase": "035_S2"
+  },
+  {
+    "serie": 2,
+    "number": "36",
+    "name": "Command & Conquer",
+    "imgId": "036",
+    "filenameBase": "036_S2"
+  },
+  {
+    "serie": 2,
+    "number": "37",
+    "name": "Pig Eat Ball",
+    "imgId": "037",
+    "filenameBase": "037_S2"
+  },
+  {
+    "serie": 2,
+    "number": "38",
+    "name": "Pig Eat Ball",
+    "imgId": "038",
+    "filenameBase": "038_S2"
+  },
+  {
+    "serie": 2,
+    "number": "39",
+    "name": "Gish",
+    "imgId": "039",
+    "filenameBase": "039_S2"
+  },
+  {
+    "serie": 2,
+    "number": "40",
+    "name": "Gish",
+    "imgId": "040",
+    "filenameBase": "040_S2"
+  },
+  {
+    "serie": 2,
+    "number": "41",
+    "name": "Shantae and the Seven Sirens (Card Pack)",
+    "imgId": "041",
+    "filenameBase": "041_S2"
+  },
+  {
+    "serie": 2,
+    "number": "42",
+    "name": "Shantae and the Seven Sirens (Card Pack)",
+    "imgId": "042",
+    "filenameBase": "042_S2"
+  },
+  {
+    "serie": 2,
+    "number": "43",
+    "name": "Shantae and the Seven Sirens (Card Pack)",
+    "imgId": "043",
+    "filenameBase": "043_S2"
+  },
+  {
+    "serie": 2,
+    "number": "44",
+    "name": "Shantae and the Seven Sirens (Card Pack)",
+    "imgId": "044",
+    "filenameBase": "044_S2"
+  },
+  {
+    "serie": 2,
+    "number": "45",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "045",
+    "filenameBase": "045_S2"
+  },
+  {
+    "serie": 2,
+    "number": "46",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "046",
+    "filenameBase": "046_S2"
+  },
+  {
+    "serie": 2,
+    "number": "47",
+    "name": "Shantae and the Seven Sirens Mega-Bundle",
+    "imgId": "047",
+    "filenameBase": "047_S2"
+  },
+  {
+    "serie": 2,
+    "number": "48",
+    "name": "Star Wars Jedi Outcast",
+    "imgId": "048",
+    "filenameBase": "048_S2"
+  },
+  {
+    "serie": 2,
+    "number": "49",
+    "name": "Star Wars Jedi Outcast",
+    "imgId": "049",
+    "filenameBase": "049_S2"
+  },
+  {
+    "serie": 2,
+    "number": "50",
+    "name": "Star Wars Jedi Academy",
+    "imgId": "050",
+    "filenameBase": "050_S2"
+  },
+  {
+    "serie": 2,
+    "number": "51",
+    "name": "Star Wars Jedi Academy",
+    "imgId": "051",
+    "filenameBase": "051_S2"
+  },
+  {
+    "serie": 2,
+    "number": "52",
+    "name": "Star Wars Jedi Knight Mega-Bundle",
+    "imgId": "052",
+    "filenameBase": "052_S2"
+  },
+  {
+    "serie": 2,
+    "number": "53",
+    "name": "Brigandine",
+    "imgId": "053",
+    "filenameBase": "053_S2"
+  },
+  {
+    "serie": 2,
+    "number": "54",
+    "name": "Brigandine",
+    "imgId": "054",
+    "filenameBase": "054_S2"
+  },
+  {
+    "serie": 2,
+    "number": "55",
+    "name": "ICEY",
+    "imgId": "055",
+    "filenameBase": "055_S2"
+  },
+  {
+    "serie": 2,
+    "number": "56",
+    "name": "ICEY",
+    "imgId": "056",
+    "filenameBase": "056_S2"
+  },
+  {
+    "serie": 2,
+    "number": "57",
+    "name": "King of Fighters 98 Ultimate Match",
+    "imgId": "057",
+    "filenameBase": "057_S2"
+  },
+  {
+    "serie": 2,
+    "number": "58",
+    "name": "King of Fighters 98 Ultimate Match",
+    "imgId": "058",
+    "filenameBase": "058_S2"
+  },
+  {
+    "serie": 2,
+    "number": "59",
+    "name": "Streets of Rage 4",
+    "imgId": "059",
+    "filenameBase": "059_S2"
+  },
+  {
+    "serie": 2,
+    "number": "60",
+    "name": "Streets of Rage 4",
+    "imgId": "060",
+    "filenameBase": "060_S2"
+  },
+  {
+    "serie": 2,
+    "number": "61",
+    "name": "Streets of Rage 4",
+    "imgId": "061",
+    "filenameBase": "061_S2"
+  },
+  {
+    "serie": 2,
+    "number": "62",
+    "name": "Streets of Rage 4",
+    "imgId": "062",
+    "filenameBase": "062_S2"
+  },
+  {
+    "serie": 2,
+    "number": "63",
+    "name": "Worse than Death",
+    "imgId": "063",
+    "filenameBase": "063_S2"
+  },
+  {
+    "serie": 2,
+    "number": "64",
+    "name": "Worse than Death",
+    "imgId": "064",
+    "filenameBase": "064_S2"
+  },
+  {
+    "serie": 2,
+    "number": "65",
+    "name": "Effie",
+    "imgId": "065",
+    "filenameBase": "065_S2"
+  },
+  {
+    "serie": 2,
+    "number": "66",
+    "name": "Effie",
+    "imgId": "066",
+    "filenameBase": "066_S2"
+  },
+  {
+    "serie": 2,
+    "number": "67",
+    "name": "Papers, Please",
+    "imgId": "067",
+    "filenameBase": "067_S2"
+  },
+  {
+    "serie": 2,
+    "number": "68",
+    "name": "Papers, Please",
+    "imgId": "068",
+    "filenameBase": "068_S2"
+  },
+  {
+    "serie": 2,
+    "number": "69",
+    "name": "Bonds of the Skies",
+    "imgId": "069",
+    "filenameBase": "069_S2"
+  },
+  {
+    "serie": 2,
+    "number": "70",
+    "name": "Bonds of the Skies",
+    "imgId": "070",
+    "filenameBase": "070_S2"
+  },
+  {
+    "serie": 2,
+    "number": "71",
+    "name": "Indigo Prophecy",
+    "imgId": "071",
+    "filenameBase": "071_S2"
+  },
+  {
+    "serie": 2,
+    "number": "72",
+    "name": "Indigo Prophecy",
+    "imgId": "072",
+    "filenameBase": "072_S2"
+  },
+  {
+    "serie": 2,
+    "number": "73",
+    "name": "Shadowgate",
+    "imgId": "073",
+    "filenameBase": "073_S2"
+  },
+  {
+    "serie": 2,
+    "number": "74",
+    "name": "Shadowgate",
+    "imgId": "074",
+    "filenameBase": "074_S2"
+  },
+  {
+    "serie": 2,
+    "number": "75",
+    "name": "Dark Quest II",
+    "imgId": "075",
+    "filenameBase": "075_S2"
+  },
+  {
+    "serie": 2,
+    "number": "76",
+    "name": "Dark Quest II",
+    "imgId": "076",
+    "filenameBase": "076_S2"
+  },
+  {
+    "serie": 2,
+    "number": "77",
+    "name": "Asdivine Kamura",
+    "imgId": "077",
+    "filenameBase": "077_S2"
+  },
+  {
+    "serie": 2,
+    "number": "78",
+    "name": "Asdivine Kamura",
+    "imgId": "078",
+    "filenameBase": "078_S2"
+  },
+  {
+    "serie": 2,
+    "number": "79",
+    "name": "Black Bird",
+    "imgId": "079",
+    "filenameBase": "079_S2"
+  },
+  {
+    "serie": 2,
+    "number": "80",
+    "name": "Black Bird",
+    "imgId": "080",
+    "filenameBase": "080_S2"
+  },
+  {
+    "serie": 2,
+    "number": "81",
+    "name": "Panzer Dragoon Remake",
+    "imgId": "081",
+    "filenameBase": "081_S2"
+  },
+  {
+    "serie": 2,
+    "number": "82",
+    "name": "Panzer Dragoon Remake",
+    "imgId": "082",
+    "filenameBase": "082_S2"
+  },
+  {
+    "serie": 2,
+    "number": "83",
+    "name": "Chex Quest",
+    "imgId": "083",
+    "filenameBase": "083_S2"
+  },
+  {
+    "serie": 2,
+    "number": "84",
+    "name": "Chex Quest",
+    "imgId": "084",
+    "filenameBase": "084_S2"
+  },
+  {
+    "serie": 2,
+    "number": "85",
+    "name": "System Shock",
+    "imgId": "085",
+    "filenameBase": "085_S2"
+  },
+  {
+    "serie": 2,
+    "number": "86",
+    "name": "Metal Slug XX",
+    "imgId": "086",
+    "filenameBase": "086_S2"
+  },
+  {
+    "serie": 2,
+    "number": "87",
+    "name": "Metal Slug XX",
+    "imgId": "087",
+    "filenameBase": "087_S2"
+  },
+  {
+    "serie": 2,
+    "number": "88",
+    "name": "Blaster Master Zero",
+    "imgId": "088",
+    "filenameBase": "088_S2"
+  },
+  {
+    "serie": 2,
+    "number": "89",
+    "name": "Blaster Master Zero",
+    "imgId": "089",
+    "filenameBase": "089_S2"
+  },
+  {
+    "serie": 2,
+    "number": "90",
+    "name": "Blaster Master Zero 2",
+    "imgId": "090",
+    "filenameBase": "090_S2"
+  },
+  {
+    "serie": 2,
+    "number": "91",
+    "name": "Blaster Master Zero 2",
+    "imgId": "091",
+    "filenameBase": "091_S2"
+  },
+  {
+    "serie": 2,
+    "number": "92",
+    "name": "Jay and Silent Bob Mall Brawl",
+    "imgId": "092",
+    "filenameBase": "092_S2"
+  },
+  {
+    "serie": 2,
+    "number": "93",
+    "name": "Jay and Silent Bob Mall Brawl",
+    "imgId": "093",
+    "filenameBase": "093_S2"
+  },
+  {
+    "serie": 2,
+    "number": "94",
+    "name": "Star Wars Racer",
+    "imgId": "094",
+    "filenameBase": "094_S2"
+  },
+  {
+    "serie": 2,
+    "number": "95",
+    "name": "Star Wars Racer",
+    "imgId": "095",
+    "filenameBase": "095_S2"
+  },
+  {
+    "serie": 2,
+    "number": "96",
+    "name": "Return of the Obra Dinn",
+    "imgId": "096",
+    "filenameBase": "096_S2"
+  },
+  {
+    "serie": 2,
+    "number": "97",
+    "name": "Return of the Obra Dinn",
+    "imgId": "097",
+    "filenameBase": "097_S2"
+  },
+  {
+    "serie": 2,
+    "number": "98",
+    "name": "GAROU",
+    "imgId": "098",
+    "filenameBase": "098_S2"
+  },
+  {
+    "serie": 2,
+    "number": "99",
+    "name": "GAROU",
+    "imgId": "099",
+    "filenameBase": "099_S2"
+  },
+  {
+    "serie": 2,
+    "number": "100",
+    "name": "Outer Wilds",
+    "imgId": "100",
+    "filenameBase": "100_S2"
+  },
+  {
+    "serie": 2,
+    "number": "101",
+    "name": "Outer Wilds",
+    "imgId": "101",
+    "filenameBase": "101_S2"
+  },
+  {
+    "serie": 2,
+    "number": "102",
+    "name": "Wizard of Legend",
+    "imgId": "102",
+    "filenameBase": "102_S2"
+  },
+  {
+    "serie": 2,
+    "number": "103",
+    "name": "Wizard of Legend",
+    "imgId": "103",
+    "filenameBase": "103_S2"
+  },
+  {
+    "serie": 2,
+    "number": "104",
+    "name": "Space Channel 5 VR",
+    "imgId": "104",
+    "filenameBase": "104_S2"
+  },
+  {
+    "serie": 2,
+    "number": "105",
+    "name": "Space Channel 5 VR",
+    "imgId": "105",
+    "filenameBase": "105_S2"
+  },
+  {
+    "serie": 2,
+    "number": "106",
+    "name": "Yaga",
+    "imgId": "106",
+    "filenameBase": "106_S2"
+  },
+  {
+    "serie": 2,
+    "number": "107",
+    "name": "Yaga",
+    "imgId": "107",
+    "filenameBase": "107_S2"
+  },
+  {
+    "serie": 2,
+    "number": "108",
+    "name": "Tie Fighter",
+    "imgId": "108",
+    "filenameBase": "108_S2"
+  },
+  {
+    "serie": 2,
+    "number": "109",
+    "name": "Tie Fighter",
+    "imgId": "109",
+    "filenameBase": "109_S2"
+  },
+  {
+    "serie": 2,
+    "number": "110",
+    "name": "X-Wing",
+    "imgId": "110",
+    "filenameBase": "110_S2"
+  },
+  {
+    "serie": 2,
+    "number": "111",
+    "name": "X-Wing",
+    "imgId": "111",
+    "filenameBase": "111_S2"
+  },
+  {
+    "serie": 2,
+    "number": "112",
+    "name": "Atooi Collection",
+    "imgId": "112",
+    "filenameBase": "112_S2"
+  },
+  {
+    "serie": 2,
+    "number": "113",
+    "name": "Atooi Collection",
+    "imgId": "113",
+    "filenameBase": "113_S2"
+  },
+  {
+    "serie": 2,
+    "number": "114",
+    "name": "Seek Hearts",
+    "imgId": "114",
+    "filenameBase": "114_S2"
+  },
+  {
+    "serie": 2,
+    "number": "115",
+    "name": "Seek Hearts",
+    "imgId": "115",
+    "filenameBase": "115_S2"
+  },
+  {
+    "serie": 2,
+    "number": "116",
+    "name": "Darkwood",
+    "imgId": "116",
+    "filenameBase": "116_S2"
+  },
+  {
+    "serie": 2,
+    "number": "117",
+    "name": "Darkwood",
+    "imgId": "117",
+    "filenameBase": "117_S2"
+  },
+  {
+    "serie": 2,
+    "number": "118",
+    "name": "Super Daryl Deluxe",
+    "imgId": "118",
+    "filenameBase": "118_S2"
+  },
+  {
+    "serie": 2,
+    "number": "119",
+    "name": "Super Daryl Deluxe",
+    "imgId": "119",
+    "filenameBase": "119_S2"
+  },
+  {
+    "serie": 2,
+    "number": "120",
+    "name": "Neon City Riders",
+    "imgId": "120",
+    "filenameBase": "120_S2"
+  },
+  {
+    "serie": 2,
+    "number": "121",
+    "name": "Neon City Riders",
+    "imgId": "121",
+    "filenameBase": "121_S2"
+  },
+  {
+    "serie": 2,
+    "number": "122",
+    "name": "The Last Blade 2",
+    "imgId": "122",
+    "filenameBase": "122_S2"
+  },
+  {
+    "serie": 2,
+    "number": "123",
+    "name": "The Last Blade 2",
+    "imgId": "123",
+    "filenameBase": "123_S2"
+  },
+  {
+    "serie": 2,
+    "number": "124",
+    "name": "Garou Mega-Bundle Card",
+    "imgId": "124",
+    "filenameBase": "124_S2"
+  },
+  {
+    "serie": 2,
+    "number": "125",
+    "name": "Grandia HD Collection",
+    "imgId": "125",
+    "filenameBase": "125_S2"
+  },
+  {
+    "serie": 2,
+    "number": "126",
+    "name": "Grandia HD Collection",
+    "imgId": "126",
+    "filenameBase": "126_S2"
+  },
+  {
+    "serie": 2,
+    "number": "127",
+    "name": "Samurai Jack",
+    "imgId": "127",
+    "filenameBase": "127_S2"
+  },
+  {
+    "serie": 2,
+    "number": "128",
+    "name": "Samurai Jack",
+    "imgId": "128",
+    "filenameBase": "128_S2"
+  },
+  {
+    "serie": 2,
+    "number": "129",
+    "name": "Mighty Gunvolt Burst",
+    "imgId": "129",
+    "filenameBase": "129_S2"
+  },
+  {
+    "serie": 2,
+    "number": "130",
+    "name": "Gal Gunvolt Burst",
+    "imgId": "130",
+    "filenameBase": "130_S2"
+  },
+  {
+    "serie": 2,
+    "number": "131",
+    "name": "Shantae GBC",
+    "imgId": "131",
+    "filenameBase": "131_S2"
+  },
+  {
+    "serie": 2,
+    "number": "132",
+    "name": "Shantae GBC",
+    "imgId": "132",
+    "filenameBase": "132_S2"
+  },
+  {
+    "serie": 2,
+    "number": "133",
+    "name": "Shantae Card Pack",
+    "imgId": "133",
+    "filenameBase": "133_S2"
+  },
+  {
+    "serie": 2,
+    "number": "134",
+    "name": "Shantae Card Pack",
+    "imgId": "134",
+    "filenameBase": "134_S2"
+  },
+  {
+    "serie": 2,
+    "number": "135",
+    "name": "Shantae Card Pack",
+    "imgId": "135",
+    "filenameBase": "135_S2"
+  },
+  {
+    "serie": 2,
+    "number": "136",
+    "name": "Shantae: Risky's Revenge",
+    "imgId": "136",
+    "filenameBase": "136_S2"
+  },
+  {
+    "serie": 2,
+    "number": "137",
+    "name": "Shantae: Risky's Revenge",
+    "imgId": "137",
+    "filenameBase": "137_S2"
+  },
+  {
+    "serie": 2,
+    "number": "138",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "138",
+    "filenameBase": "138_S2"
+  },
+  {
+    "serie": 2,
+    "number": "139",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "139",
+    "filenameBase": "139_S2"
+  },
+  {
+    "serie": 2,
+    "number": "140",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "140",
+    "filenameBase": "140_S2"
+  },
+  {
+    "serie": 2,
+    "number": "141",
+    "name": "Shantae Mega Bundle",
+    "imgId": "141",
+    "filenameBase": "141_S2"
+  },
+  {
+    "serie": 2,
+    "number": "142",
+    "name": "Shantae Day Card",
+    "imgId": "142",
+    "filenameBase": "142_S2"
+  },
+  {
+    "serie": 2,
+    "number": "143",
+    "name": "Doom 64",
+    "imgId": "143",
+    "filenameBase": "143_S2"
+  },
+  {
+    "serie": 2,
+    "number": "144",
+    "name": "Doom 64",
+    "imgId": "144",
+    "filenameBase": "144_S2"
+  },
+  {
+    "serie": 2,
+    "number": "145",
+    "name": "Chasm",
+    "imgId": "145",
+    "filenameBase": "145_S2"
+  },
+  {
+    "serie": 2,
+    "number": "146",
+    "name": "Chasm",
+    "imgId": "146",
+    "filenameBase": "146_S2"
+  },
+  {
+    "serie": 2,
+    "number": "147",
+    "name": "Towerfall",
+    "imgId": "147",
+    "filenameBase": "147_S2"
+  },
+  {
+    "serie": 2,
+    "number": "148",
+    "name": "Towerfall",
+    "imgId": "148",
+    "filenameBase": "148_S2"
+  },
+  {
+    "serie": 2,
+    "number": "149",
+    "name": "SuperMash",
+    "imgId": "149",
+    "filenameBase": "149_S2"
+  },
+  {
+    "serie": 2,
+    "number": "150",
+    "name": "SuperMash",
+    "imgId": "150",
+    "filenameBase": "150_S2"
+  },
+  {
+    "serie": 2,
+    "number": "151",
+    "name": "Metal Slug Anthology",
+    "imgId": "151",
+    "filenameBase": "151_S2"
+  },
+  {
+    "serie": 2,
+    "number": "152",
+    "name": "Metal Slug Anthology",
+    "imgId": "152",
+    "filenameBase": "152_S2"
+  },
+  {
+    "serie": 2,
+    "number": "153",
+    "name": "Metal Slug Anthology",
+    "imgId": "153",
+    "filenameBase": "153_S2"
+  },
+  {
+    "serie": 2,
+    "number": "154",
+    "name": "Metal Slug Anthology",
+    "imgId": "154",
+    "filenameBase": "154_S2"
+  },
+  {
+    "serie": 2,
+    "number": "155",
+    "name": "Metal Slug Anthology",
+    "imgId": "155",
+    "filenameBase": "155_S2"
+  },
+  {
+    "serie": 2,
+    "number": "156",
+    "name": "Metal Slug Anthology",
+    "imgId": "156",
+    "filenameBase": "156_S2"
+  },
+  {
+    "serie": 2,
+    "number": "157",
+    "name": "Corpse Killer",
+    "imgId": "157",
+    "filenameBase": "157_S2"
+  },
+  {
+    "serie": 2,
+    "number": "158",
+    "name": "Corpse Killer",
+    "imgId": "158",
+    "filenameBase": "158_S2"
+  },
+  {
+    "serie": 2,
+    "number": "159",
+    "name": "Neverending Nightmares",
+    "imgId": "159",
+    "filenameBase": "159_S2"
+  },
+  {
+    "serie": 2,
+    "number": "160",
+    "name": "Neverending Nightmares",
+    "imgId": "160",
+    "filenameBase": "160_S2"
+  },
+  {
+    "serie": 2,
+    "number": "161",
+    "name": "Brigandine",
+    "imgId": "161",
+    "filenameBase": "161_S2"
+  },
+  {
+    "serie": 2,
+    "number": "162",
+    "name": "Brigandine",
+    "imgId": "162",
+    "filenameBase": "162_S2"
+  },
+  {
+    "serie": 2,
+    "number": "163",
+    "name": "Fatal Fury: Battle Archive Vol. 2",
+    "imgId": "163",
+    "filenameBase": "163_S2"
+  },
+  {
+    "serie": 2,
+    "number": "164",
+    "name": "Fatal Fury: Battle Archive Vol. 2",
+    "imgId": "164",
+    "filenameBase": "164_S2"
+  },
+  {
+    "serie": 2,
+    "number": "165",
+    "name": "Destroy All Humans",
+    "imgId": "165",
+    "filenameBase": "165_S2"
+  },
+  {
+    "serie": 2,
+    "number": "166",
+    "name": "Destroy All Humans",
+    "imgId": "166",
+    "filenameBase": "166_S2"
+  },
+  {
+    "serie": 2,
+    "number": "167",
+    "name": "Dead Tomb",
+    "imgId": "167",
+    "filenameBase": "167_S2"
+  },
+  {
+    "serie": 2,
+    "number": "168",
+    "name": "Dead Tomb",
+    "imgId": "168",
+    "filenameBase": "168_S2"
+  },
+  {
+    "serie": 2,
+    "number": "169",
+    "name": "LRG Promo",
+    "imgId": "169",
+    "filenameBase": "169_S2"
+  },
+  {
+    "serie": 2,
+    "number": "170",
+    "name": "LRG Promo",
+    "imgId": "170",
+    "filenameBase": "170_S2"
+  },
+  {
+    "serie": 2,
+    "number": "171",
+    "name": "LRG Promo",
+    "imgId": "171",
+    "filenameBase": "171_S2"
+  },
+  {
+    "serie": 2,
+    "number": "172",
+    "name": "LRG Promo",
+    "imgId": "172",
+    "filenameBase": "172_S2"
+  },
+  {
+    "serie": 2,
+    "number": "173",
+    "name": "LRG 5th Anniversary",
+    "imgId": "173",
+    "filenameBase": "173_S2"
+  },
+  {
+    "serie": 2,
+    "number": "174",
+    "name": "Mummy Demastered",
+    "imgId": "174",
+    "filenameBase": "174_S2"
+  },
+  {
+    "serie": 2,
+    "number": "175",
+    "name": "Mummy Demastered",
+    "imgId": "175",
+    "filenameBase": "175_S2"
+  },
+  {
+    "serie": 2,
+    "number": "176",
+    "name": "Shenmue III",
+    "imgId": "176",
+    "filenameBase": "176_S2"
+  },
+  {
+    "serie": 2,
+    "number": "177",
+    "name": "Shenmue III",
+    "imgId": "177",
+    "filenameBase": "177_S2"
+  },
+  {
+    "serie": 2,
+    "number": "178",
+    "name": "Trover Saves The Universe",
+    "imgId": "178",
+    "filenameBase": "178_S2"
+  },
+  {
+    "serie": 2,
+    "number": "179",
+    "name": "Trover Saves The Universe",
+    "imgId": "179",
+    "filenameBase": "179_S2"
+  },
+  {
+    "serie": 2,
+    "number": "180",
+    "name": "Cthulhu Saves Christmas",
+    "imgId": "180",
+    "filenameBase": "180_S2"
+  },
+  {
+    "serie": 2,
+    "number": "181",
+    "name": "Cthulhu Saves Christmas",
+    "imgId": "181",
+    "filenameBase": "181_S2"
+  },
+  {
+    "serie": 2,
+    "number": "182",
+    "name": "Art of Fighting Anthology",
+    "imgId": "182",
+    "filenameBase": "182_S2"
+  },
+  {
+    "serie": 2,
+    "number": "183",
+    "name": "Art of Fighting Anthology",
+    "imgId": "183",
+    "filenameBase": "183_S2"
+  },
+  {
+    "serie": 2,
+    "number": "184",
+    "name": "Art of Fighting Anthology",
+    "imgId": "184",
+    "filenameBase": "184_S2"
+  },
+  {
+    "serie": 2,
+    "number": "185",
+    "name": "Demon's Tier +",
+    "imgId": "185",
+    "filenameBase": "185_S2"
+  },
+  {
+    "serie": 2,
+    "number": "186",
+    "name": "Demon's Tier +",
+    "imgId": "186",
+    "filenameBase": "186_S2"
+  },
+  {
+    "serie": 2,
+    "number": "187",
+    "name": "Asdivine Dios",
+    "imgId": "187",
+    "filenameBase": "187_S2"
+  },
+  {
+    "serie": 2,
+    "number": "188",
+    "name": "Asdivine Dios",
+    "imgId": "188",
+    "filenameBase": "188_S2"
+  },
+  {
+    "serie": 2,
+    "number": "189",
+    "name": "Rivals of Aether",
+    "imgId": "189",
+    "filenameBase": "189_S2"
+  },
+  {
+    "serie": 2,
+    "number": "190",
+    "name": "Rivals of Aether",
+    "imgId": "190",
+    "filenameBase": "190_S2"
+  },
+  {
+    "serie": 2,
+    "number": "191",
+    "name": "Dark Crystal: Age of Resistance Tactics",
+    "imgId": "191",
+    "filenameBase": "191_S2"
+  },
+  {
+    "serie": 2,
+    "number": "192",
+    "name": "Dark Crystal: Age of Resistance Tactics",
+    "imgId": "192",
+    "filenameBase": "192_S2"
+  },
+  {
+    "serie": 2,
+    "number": "193",
+    "name": "Monkey Island Anthology",
+    "imgId": "193",
+    "filenameBase": "193_S2"
+  },
+  {
+    "serie": 2,
+    "number": "194",
+    "name": "Monkey Island Anthology",
+    "imgId": "194",
+    "filenameBase": "194_S2"
+  },
+  {
+    "serie": 2,
+    "number": "195",
+    "name": "Monkey Island Anthology",
+    "imgId": "195",
+    "filenameBase": "195_S2"
+  },
+  {
+    "serie": 2,
+    "number": "196",
+    "name": "Monkey Island Anthology",
+    "imgId": "196",
+    "filenameBase": "196_S2"
+  },
+  {
+    "serie": 2,
+    "number": "197",
+    "name": "Monkey Island Anthology",
+    "imgId": "197",
+    "filenameBase": "197_S2"
+  },
+  {
+    "serie": 2,
+    "number": "198",
+    "name": "EarthNight",
+    "imgId": "198",
+    "filenameBase": "198_S2"
+  },
+  {
+    "serie": 2,
+    "number": "199",
+    "name": "EarthNight",
+    "imgId": "199",
+    "filenameBase": "199_S2"
+  },
+  {
+    "serie": 2,
+    "number": "200",
+    "name": "Freedom Finger",
+    "imgId": "200",
+    "filenameBase": "200_S2"
+  },
+  {
+    "serie": 2,
+    "number": "201",
+    "name": "Freedom Finger",
+    "imgId": "201",
+    "filenameBase": "201_S2"
+  },
+  {
+    "serie": 2,
+    "number": "202",
+    "name": "FightN Rage",
+    "imgId": "202",
+    "filenameBase": "202_S2"
+  },
+  {
+    "serie": 2,
+    "number": "203",
+    "name": "FightN Rage",
+    "imgId": "203",
+    "filenameBase": "203_S2"
+  },
+  {
+    "serie": 2,
+    "number": "204",
+    "name": "Afterparty",
+    "imgId": "204",
+    "filenameBase": "204_S2"
+  },
+  {
+    "serie": 2,
+    "number": "205",
+    "name": "Afterparty",
+    "imgId": "205",
+    "filenameBase": "205_S2"
+  },
+  {
+    "serie": 2,
+    "number": "206",
+    "name": "Chex Quest Mega Bundle",
+    "imgId": "206",
+    "filenameBase": "206_S2"
+  },
+  {
+    "serie": 2,
+    "number": "207",
+    "name": "Scott Pilgrim Vs. The World Card Pack",
+    "imgId": "207",
+    "filenameBase": "207_S2"
+  },
+  {
+    "serie": 2,
+    "number": "208",
+    "name": "Scott Pilgrim Vs. The World Card Pack",
+    "imgId": "208",
+    "filenameBase": "208_S2"
+  },
+  {
+    "serie": 2,
+    "number": "209",
+    "name": "Scott Pilgrim Vs. The World Card Pack",
+    "imgId": "209",
+    "filenameBase": "209_S2"
+  },
+  {
+    "serie": 2,
+    "number": "210",
+    "name": "Scott Pilgrim Vs. The World Card Pack",
+    "imgId": "210",
+    "filenameBase": "210_S2"
+  },
+  {
+    "serie": 2,
+    "number": "211",
+    "name": "Scott Pilgrim Vs. The World Card Pack",
+    "imgId": "211",
+    "filenameBase": "211_S2"
+  },
+  {
+    "serie": 2,
+    "number": "212",
+    "name": "Scott Pilgrim Vs. The World Card Pack",
+    "imgId": "212",
+    "filenameBase": "212_S2"
+  },
+  {
+    "serie": 2,
+    "number": "213",
+    "name": "Scott Pilgrim Vs. The World Card Pack",
+    "imgId": "213",
+    "filenameBase": "213_S2"
+  },
+  {
+    "serie": 2,
+    "number": "214",
+    "name": "Scott Pilgrim",
+    "imgId": "214",
+    "filenameBase": "214_S2"
+  },
+  {
+    "serie": 2,
+    "number": "215",
+    "name": "Scott Pilgrim",
+    "imgId": "215",
+    "filenameBase": "215_S2"
+  },
+  {
+    "serie": 2,
+    "number": "216",
+    "name": "Scott Pilgrim Mega Bundle Card",
+    "imgId": "216",
+    "filenameBase": "216_S2"
+  },
+  {
+    "serie": 2,
+    "number": "217",
+    "name": "King of Fighters 2000",
+    "imgId": "217",
+    "filenameBase": "217_S2"
+  },
+  {
+    "serie": 2,
+    "number": "218",
+    "name": "King of Fighters 2000",
+    "imgId": "218",
+    "filenameBase": "218_S2"
+  },
+  {
+    "serie": 2,
+    "number": "219",
+    "name": "Ground Zero Texas",
+    "imgId": "219",
+    "filenameBase": "219_S2"
+  },
+  {
+    "serie": 2,
+    "number": "220",
+    "name": "Ground Zero Texas",
+    "imgId": "220",
+    "filenameBase": "220_S2"
+  },
+  {
+    "serie": 2,
+    "number": "221",
+    "name": "Night Trap",
+    "imgId": "221",
+    "filenameBase": "221_S2"
+  },
+  {
+    "serie": 2,
+    "number": "222",
+    "name": "Night Trap",
+    "imgId": "222",
+    "filenameBase": "222_S2"
+  },
+  {
+    "serie": 2,
+    "number": "223",
+    "name": "The Complex",
+    "imgId": "223",
+    "filenameBase": "223_S2"
+  },
+  {
+    "serie": 2,
+    "number": "224",
+    "name": "The Complex",
+    "imgId": "224",
+    "filenameBase": "224_S2"
+  },
+  {
+    "serie": 2,
+    "number": "225",
+    "name": "Story of a Gladiator",
+    "imgId": "225",
+    "filenameBase": "225_S2"
+  },
+  {
+    "serie": 2,
+    "number": "226",
+    "name": "Story of a Gladiator",
+    "imgId": "226",
+    "filenameBase": "226_S2"
+  },
+  {
+    "serie": 2,
+    "number": "227",
+    "name": "Five Dates",
+    "imgId": "227",
+    "filenameBase": "227_S2"
+  },
+  {
+    "serie": 2,
+    "number": "228",
+    "name": "Five Dates",
+    "imgId": "228",
+    "filenameBase": "228_S2"
+  },
+  {
+    "serie": 2,
+    "number": "229",
+    "name": "Monochrome Order",
+    "imgId": "229",
+    "filenameBase": "229_S2"
+  },
+  {
+    "serie": 2,
+    "number": "230",
+    "name": "Monochrome Order",
+    "imgId": "230",
+    "filenameBase": "230_S2"
+  },
+  {
+    "serie": 2,
+    "number": "231",
+    "name": "Asdivine Menace",
+    "imgId": "231",
+    "filenameBase": "231_S2"
+  },
+  {
+    "serie": 2,
+    "number": "232",
+    "name": "Asdivine Menace",
+    "imgId": "232",
+    "filenameBase": "232_S2"
+  },
+  {
+    "serie": 2,
+    "number": "233",
+    "name": "Rocketbirds: Hardboiled Chicken",
+    "imgId": "233",
+    "filenameBase": "233_S2"
+  },
+  {
+    "serie": 2,
+    "number": "234",
+    "name": "Rocketbirds: Hardboiled Chicken",
+    "imgId": "234",
+    "filenameBase": "234_S2"
+  },
+  {
+    "serie": 2,
+    "number": "235",
+    "name": "Amazing Penguin",
+    "imgId": "235",
+    "filenameBase": "235_S2"
+  },
+  {
+    "serie": 2,
+    "number": "236",
+    "name": "Amazing Penguin",
+    "imgId": "236",
+    "filenameBase": "236_S2"
+  },
+  {
+    "serie": 2,
+    "number": "237",
+    "name": "S.C.A.T.",
+    "imgId": "237",
+    "filenameBase": "237_S2"
+  },
+  {
+    "serie": 2,
+    "number": "238",
+    "name": "S.C.A.T.",
+    "imgId": "238",
+    "filenameBase": "238_S2"
+  },
+  {
+    "serie": 2,
+    "number": "239",
+    "name": "Shadow of the Ninja",
+    "imgId": "239",
+    "filenameBase": "239_S2"
+  },
+  {
+    "serie": 2,
+    "number": "240",
+    "name": "Shadow of the Ninja",
+    "imgId": "240",
+    "filenameBase": "240_S2"
+  },
+  {
+    "serie": 2,
+    "number": "241",
+    "name": "Return of the Ninja",
+    "imgId": "241",
+    "filenameBase": "241_S2"
+  },
+  {
+    "serie": 2,
+    "number": "242",
+    "name": "Return of the Ninja",
+    "imgId": "242",
+    "filenameBase": "242_S2"
+  },
+  {
+    "serie": 2,
+    "number": "243",
+    "name": "Spanky's Quest",
+    "imgId": "243",
+    "filenameBase": "243_S2"
+  },
+  {
+    "serie": 2,
+    "number": "244",
+    "name": "Spanky's Quest",
+    "imgId": "244",
+    "filenameBase": "244_S2"
+  },
+  {
+    "serie": 2,
+    "number": "245",
+    "name": "Knights & Bikes",
+    "imgId": "245",
+    "filenameBase": "245_S2"
+  },
+  {
+    "serie": 2,
+    "number": "246",
+    "name": "Knights & Bikes",
+    "imgId": "246",
+    "filenameBase": "246_S2"
+  },
+  {
+    "serie": 2,
+    "number": "247",
+    "name": "To the Moon",
+    "imgId": "247",
+    "filenameBase": "247_S2"
+  },
+  {
+    "serie": 2,
+    "number": "248",
+    "name": "To the Moon",
+    "imgId": "248",
+    "filenameBase": "248_S2"
+  },
+  {
+    "serie": 2,
+    "number": "249",
+    "name": "X-Wing Special Edition Mega-Bundle",
+    "imgId": "249",
+    "filenameBase": "249_S2"
+  },
+  {
+    "serie": 2,
+    "number": "250",
+    "name": "Paper Beast",
+    "imgId": "250",
+    "filenameBase": "250_S2"
+  },
+  {
+    "serie": 2,
+    "number": "251",
+    "name": "Paper Beast",
+    "imgId": "251",
+    "filenameBase": "251_S2"
+  },
+  {
+    "serie": 2,
+    "number": "252",
+    "name": "No More Heroes",
+    "imgId": "252",
+    "filenameBase": "252_S2"
+  },
+  {
+    "serie": 2,
+    "number": "253",
+    "name": "No More Heroes",
+    "imgId": "253",
+    "filenameBase": "253_S2"
+  },
+  {
+    "serie": 2,
+    "number": "254",
+    "name": "No More Heroes 2: Desperate Struggles",
+    "imgId": "254",
+    "filenameBase": "254_S2"
+  },
+  {
+    "serie": 2,
+    "number": "255",
+    "name": "No More Heroes 2: Desperate Struggles",
+    "imgId": "255",
+    "filenameBase": "255_S2"
+  },
+  {
+    "serie": 2,
+    "number": "256",
+    "name": "DOOM: The Classics Collection",
+    "imgId": "256",
+    "filenameBase": "256_S2"
+  },
+  {
+    "serie": 2,
+    "number": "257",
+    "name": "DOOM: The Classics Collection",
+    "imgId": "257",
+    "filenameBase": "257_S2"
+  },
+  {
+    "serie": 2,
+    "number": "258",
+    "name": "DOOM: The Classics Collection",
+    "imgId": "258",
+    "filenameBase": "258_S2"
+  },
+  {
+    "serie": 2,
+    "number": "259",
+    "name": "The House In Fata Morgana",
+    "imgId": "259",
+    "filenameBase": "259_S2"
+  },
+  {
+    "serie": 2,
+    "number": "260",
+    "name": "The House In Fata Morgana",
+    "imgId": "260",
+    "filenameBase": "260_S2"
+  },
+  {
+    "serie": 2,
+    "number": "261",
+    "name": "Bloodstained: Curse of the Moon 2",
+    "imgId": "261",
+    "filenameBase": "261_S2"
+  },
+  {
+    "serie": 2,
+    "number": "262",
+    "name": "Bloodstained: Curse of the Moon 2",
+    "imgId": "262",
+    "filenameBase": "262_S2"
+  },
+  {
+    "serie": 2,
+    "number": "263",
+    "name": "Sam & Max Save the World",
+    "imgId": "263",
+    "filenameBase": "263_S2"
+  },
+  {
+    "serie": 2,
+    "number": "264",
+    "name": "Sam & Max Save the World",
+    "imgId": "264",
+    "filenameBase": "264_S2"
+  },
+  {
+    "serie": 2,
+    "number": "265",
+    "name": "Bug Fables: The Everlasting Sapling",
+    "imgId": "265",
+    "filenameBase": "265_S2"
+  },
+  {
+    "serie": 2,
+    "number": "266",
+    "name": "Bug Fables: The Everlasting Sapling",
+    "imgId": "266",
+    "filenameBase": "266_S2"
+  },
+  {
+    "serie": 2,
+    "number": "267",
+    "name": "Star Wars: Republic Commando",
+    "imgId": "267",
+    "filenameBase": "267_S2"
+  },
+  {
+    "serie": 2,
+    "number": "268",
+    "name": "Star Wars: Republic Commando",
+    "imgId": "268",
+    "filenameBase": "268_S2"
+  },
+  {
+    "serie": 2,
+    "number": "269",
+    "name": "Metal Masters",
+    "imgId": "269",
+    "filenameBase": "269_S2"
+  },
+  {
+    "serie": 2,
+    "number": "270",
+    "name": "Metal Masters",
+    "imgId": "270",
+    "filenameBase": "270_S2"
+  },
+  {
+    "serie": 2,
+    "number": "271",
+    "name": "Starhawk",
+    "imgId": "271",
+    "filenameBase": "271_S2"
+  },
+  {
+    "serie": 2,
+    "number": "272",
+    "name": "Starhawk",
+    "imgId": "272",
+    "filenameBase": "272_S2"
+  },
+  {
+    "serie": 2,
+    "number": "273",
+    "name": "Dangun Feveron",
+    "imgId": "273",
+    "filenameBase": "273_S2"
+  },
+  {
+    "serie": 2,
+    "number": "274",
+    "name": "Dangun Feveron",
+    "imgId": "274",
+    "filenameBase": "274_S2"
+  },
+  {
+    "serie": 2,
+    "number": "275",
+    "name": "Wizards of Brandel",
+    "imgId": "275",
+    "filenameBase": "275_S2"
+  },
+  {
+    "serie": 2,
+    "number": "276",
+    "name": "Wizards of Brandel",
+    "imgId": "276",
+    "filenameBase": "276_S2"
+  },
+  {
+    "serie": 2,
+    "number": "277",
+    "name": "SIMULACRA",
+    "imgId": "277",
+    "filenameBase": "277_S2"
+  },
+  {
+    "serie": 2,
+    "number": "278",
+    "name": "SIMULACRA",
+    "imgId": "278",
+    "filenameBase": "278_S2"
+  },
+  {
+    "serie": 2,
+    "number": "279",
+    "name": "Project Warlock",
+    "imgId": "279",
+    "filenameBase": "279_S2"
+  },
+  {
+    "serie": 2,
+    "number": "280",
+    "name": "Project Warlock",
+    "imgId": "280",
+    "filenameBase": "280_S2"
+  },
+  {
+    "serie": 2,
+    "number": "281",
+    "name": "The King of Fighters Collection: The Orochi Saga",
+    "imgId": "281",
+    "filenameBase": "281_S2"
+  },
+  {
+    "serie": 2,
+    "number": "282",
+    "name": "The King of Fighters Collection: The Orochi Saga",
+    "imgId": "282",
+    "filenameBase": "282_S2"
+  },
+  {
+    "serie": 2,
+    "number": "283",
+    "name": "Monster Viator",
+    "imgId": "283",
+    "filenameBase": "283_S2"
+  },
+  {
+    "serie": 2,
+    "number": "284",
+    "name": "Monster Viator",
+    "imgId": "284",
+    "filenameBase": "284_S2"
+  },
+  {
+    "serie": 2,
+    "number": "285",
+    "name": "KIRA KIRA Star",
+    "imgId": "285",
+    "filenameBase": "285_S2"
+  },
+  {
+    "serie": 2,
+    "number": "286",
+    "name": "KIRA KIRA Star",
+    "imgId": "286",
+    "filenameBase": "286_S2"
+  },
+  {
+    "serie": 2,
+    "number": "287",
+    "name": "8-Bit Music Power",
+    "imgId": "287",
+    "filenameBase": "287_S2"
+  },
+  {
+    "serie": 2,
+    "number": "288",
+    "name": "8-Bit Music Power",
+    "imgId": "288",
+    "filenameBase": "288_S2"
+  },
+  {
+    "serie": 2,
+    "number": "289",
+    "name": "8-Bit Music Power Final",
+    "imgId": "289",
+    "filenameBase": "289_S2"
+  },
+  {
+    "serie": 2,
+    "number": "290",
+    "name": "8-Bit Music Power Final",
+    "imgId": "290",
+    "filenameBase": "290_S2"
+  },
+  {
+    "serie": 2,
+    "number": "291",
+    "name": "Smugglecraft",
+    "imgId": "291",
+    "filenameBase": "291_S2"
+  },
+  {
+    "serie": 2,
+    "number": "292",
+    "name": "Smugglecaft",
+    "imgId": "292",
+    "filenameBase": "292_S2"
+  },
+  {
+    "serie": 2,
+    "number": "293",
+    "name": "Little Witch Academia VR",
+    "imgId": "293",
+    "filenameBase": "293_S2"
+  },
+  {
+    "serie": 2,
+    "number": "294",
+    "name": "Little Witch Academia VR",
+    "imgId": "294",
+    "filenameBase": "294_S2"
+  },
+  {
+    "serie": 2,
+    "number": "295",
+    "name": "Double Dragon IV",
+    "imgId": "295",
+    "filenameBase": "295_S2"
+  },
+  {
+    "serie": 2,
+    "number": "296",
+    "name": "Double Dragon IV",
+    "imgId": "296",
+    "filenameBase": "296_S2"
+  },
+  {
+    "serie": 2,
+    "number": "297",
+    "name": "Double Dragon Neon",
+    "imgId": "297",
+    "filenameBase": "297_S2"
+  },
+  {
+    "serie": 2,
+    "number": "298",
+    "name": "Double Dragon Neon",
+    "imgId": "298",
+    "filenameBase": "298_S2"
+  },
+  {
+    "serie": 2,
+    "number": "299",
+    "name": "Double Dragon Fan Bundle",
+    "imgId": "299",
+    "filenameBase": "299_S2"
+  },
+  {
+    "serie": 2,
+    "number": "300",
+    "name": "Maid of Sker",
+    "imgId": "300",
+    "filenameBase": "300_S2"
+  },
+  {
+    "serie": 2,
+    "number": "301",
+    "name": "Maid of Sker",
+    "imgId": "301",
+    "filenameBase": "301_S2"
+  },
+  {
+    "serie": 2,
+    "number": "302",
+    "name": "Miden Tower",
+    "imgId": "302",
+    "filenameBase": "302_S2"
+  },
+  {
+    "serie": 2,
+    "number": "303",
+    "name": "Miden Tower",
+    "imgId": "303",
+    "filenameBase": "303_S2"
+  },
+  {
+    "serie": 2,
+    "number": "304",
+    "name": "Zombies Ate My Neighbor",
+    "imgId": "304",
+    "filenameBase": "304_S2"
+  },
+  {
+    "serie": 2,
+    "number": "305",
+    "name": "Zombies Ate My Neighbor",
+    "imgId": "305",
+    "filenameBase": "305_S2"
+  },
+  {
+    "serie": 2,
+    "number": "306",
+    "name": "Ghoul Patrol",
+    "imgId": "306",
+    "filenameBase": "306_S2"
+  },
+  {
+    "serie": 2,
+    "number": "307",
+    "name": "Ghoul Patrol",
+    "imgId": "307",
+    "filenameBase": "307_S2"
+  },
+  {
+    "serie": 2,
+    "number": "308",
+    "name": "Zombies Ate My Neighbor Fan Bundle",
+    "imgId": "308",
+    "filenameBase": "308_S2"
+  },
+  {
+    "serie": 2,
+    "number": "309",
+    "name": "Zombies Ate My Neighbor Retro Bundle",
+    "imgId": "309",
+    "filenameBase": "309_S2"
+  },
+  {
+    "serie": 2,
+    "number": "310",
+    "name": "The TakeOver",
+    "imgId": "310",
+    "filenameBase": "310_S2"
+  },
+  {
+    "serie": 2,
+    "number": "311",
+    "name": "The TakeOver",
+    "imgId": "311",
+    "filenameBase": "311_S2"
+  },
+  {
+    "serie": 2,
+    "number": "312",
+    "name": "Alphadia Genesis",
+    "imgId": "312",
+    "filenameBase": "312_S2"
+  },
+  {
+    "serie": 2,
+    "number": "313",
+    "name": "Alphadia Genesis",
+    "imgId": "313",
+    "filenameBase": "313_S2"
+  },
+  {
+    "serie": 2,
+    "number": "314",
+    "name": "Infliction",
+    "imgId": "314",
+    "filenameBase": "314_S2"
+  },
+  {
+    "serie": 2,
+    "number": "315",
+    "name": "Infliction",
+    "imgId": "315",
+    "filenameBase": "315_S2"
+  },
+  {
+    "serie": 2,
+    "number": "316",
+    "name": "Shantae: Risky's Revenge",
+    "imgId": "316",
+    "filenameBase": "316_S2"
+  },
+  {
+    "serie": 2,
+    "number": "317",
+    "name": "Shantae: Risky's Revenge",
+    "imgId": "317",
+    "filenameBase": "317_S2"
+  },
+  {
+    "serie": 2,
+    "number": "318",
+    "name": "Shantae: Risky's Revenge Fan Bundle",
+    "imgId": "318",
+    "filenameBase": "318_S2"
+  },
+  {
+    "serie": 2,
+    "number": "319",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "319",
+    "filenameBase": "319_S2"
+  },
+  {
+    "serie": 2,
+    "number": "320",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "320",
+    "filenameBase": "320_S2"
+  },
+  {
+    "serie": 2,
+    "number": "321",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "321",
+    "filenameBase": "321_S2"
+  },
+  {
+    "serie": 2,
+    "number": "322",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "322",
+    "filenameBase": "322_S2"
+  },
+  {
+    "serie": 2,
+    "number": "323",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "323",
+    "filenameBase": "323_S2"
+  },
+  {
+    "serie": 2,
+    "number": "324",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "324",
+    "filenameBase": "324_S2"
+  },
+  {
+    "serie": 2,
+    "number": "325",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "325",
+    "filenameBase": "325_S2"
+  },
+  {
+    "serie": 2,
+    "number": "326",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "326",
+    "filenameBase": "326_S2"
+  },
+  {
+    "serie": 2,
+    "number": "327",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "327",
+    "filenameBase": "327_S2"
+  },
+  {
+    "serie": 2,
+    "number": "328",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "328",
+    "filenameBase": "328_S2"
+  },
+  {
+    "serie": 2,
+    "number": "329",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "329",
+    "filenameBase": "329_S2"
+  },
+  {
+    "serie": 2,
+    "number": "330",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "330",
+    "filenameBase": "330_S2"
+  },
+  {
+    "serie": 2,
+    "number": "331",
+    "name": "Shantae: Risky's Revenge Card Pack",
+    "imgId": "331",
+    "filenameBase": "331_S2"
+  },
+  {
+    "serie": 2,
+    "number": "332",
+    "name": "Shantae and the Pirate's Curse",
+    "imgId": "332",
+    "filenameBase": "332_S2"
+  },
+  {
+    "serie": 2,
+    "number": "333",
+    "name": "Shantae and the Pirate's Curse",
+    "imgId": "333",
+    "filenameBase": "333_S2"
+  },
+  {
+    "serie": 2,
+    "number": "334",
+    "name": "Shantae and the Pirate's Curse Fan Bundle",
+    "imgId": "334",
+    "filenameBase": "334_S2"
+  },
+  {
+    "serie": 2,
+    "number": "335",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "335",
+    "filenameBase": "335_S2"
+  },
+  {
+    "serie": 2,
+    "number": "336",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "336",
+    "filenameBase": "336_S2"
+  },
+  {
+    "serie": 2,
+    "number": "337",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "337",
+    "filenameBase": "337_S2"
+  },
+  {
+    "serie": 2,
+    "number": "338",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "338",
+    "filenameBase": "338_S2"
+  },
+  {
+    "serie": 2,
+    "number": "339",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "339",
+    "filenameBase": "339_S2"
+  },
+  {
+    "serie": 2,
+    "number": "340",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "340",
+    "filenameBase": "340_S2"
+  },
+  {
+    "serie": 2,
+    "number": "341",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "341",
+    "filenameBase": "341_S2"
+  },
+  {
+    "serie": 2,
+    "number": "342",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "342",
+    "filenameBase": "342_S2"
+  },
+  {
+    "serie": 2,
+    "number": "343",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "343",
+    "filenameBase": "343_S2"
+  },
+  {
+    "serie": 2,
+    "number": "344",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "344",
+    "filenameBase": "344_S2"
+  },
+  {
+    "serie": 2,
+    "number": "345",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "345",
+    "filenameBase": "345_S2"
+  },
+  {
+    "serie": 2,
+    "number": "346",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "346",
+    "filenameBase": "346_S2"
+  },
+  {
+    "serie": 2,
+    "number": "347",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "347",
+    "filenameBase": "347_S2"
+  },
+  {
+    "serie": 2,
+    "number": "348",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "348",
+    "filenameBase": "348_S2"
+  },
+  {
+    "serie": 2,
+    "number": "349",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "349",
+    "filenameBase": "349_S2"
+  },
+  {
+    "serie": 2,
+    "number": "350",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "350",
+    "filenameBase": "350_S2"
+  },
+  {
+    "serie": 2,
+    "number": "351",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "351",
+    "filenameBase": "351_S2"
+  },
+  {
+    "serie": 2,
+    "number": "352",
+    "name": "Shantae and the Pirate's Curse Card Pack",
+    "imgId": "352",
+    "filenameBase": "352_S2"
+  },
+  {
+    "serie": 2,
+    "number": "353",
+    "name": "Shantae Half-Genie Hero",
+    "imgId": "353",
+    "filenameBase": "353_S2"
+  },
+  {
+    "serie": 2,
+    "number": "354",
+    "name": "Shantae Half-Genie Hero",
+    "imgId": "354",
+    "filenameBase": "354_S2"
+  },
+  {
+    "serie": 2,
+    "number": "355",
+    "name": "Shantae Half-Genie Hero Fan Bundle",
+    "imgId": "355",
+    "filenameBase": "355_S2"
+  },
+  {
+    "serie": 2,
+    "number": "356",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "356",
+    "filenameBase": "356_S2"
+  },
+  {
+    "serie": 2,
+    "number": "357",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "357",
+    "filenameBase": "357_S2"
+  },
+  {
+    "serie": 2,
+    "number": "358",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "358",
+    "filenameBase": "358_S2"
+  },
+  {
+    "serie": 2,
+    "number": "359",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "359",
+    "filenameBase": "359_S2"
+  },
+  {
+    "serie": 2,
+    "number": "360",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "360",
+    "filenameBase": "360_S2"
+  },
+  {
+    "serie": 2,
+    "number": "361",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "361",
+    "filenameBase": "361_S2"
+  },
+  {
+    "serie": 2,
+    "number": "362",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "362",
+    "filenameBase": "362_S2"
+  },
+  {
+    "serie": 2,
+    "number": "363",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "363",
+    "filenameBase": "363_S2"
+  },
+  {
+    "serie": 2,
+    "number": "364",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "364",
+    "filenameBase": "364_S2"
+  },
+  {
+    "serie": 2,
+    "number": "365",
+    "name": "Shantae Half-Genie Hero Card Pack",
+    "imgId": "365",
+    "filenameBase": "365_S2"
+  },
+  {
+    "serie": 2,
+    "number": "366",
+    "name": "River City Girls",
+    "imgId": "366",
+    "filenameBase": "366_S2"
+  },
+  {
+    "serie": 2,
+    "number": "367",
+    "name": "River City Girls",
+    "imgId": "367",
+    "filenameBase": "367_S2"
+  },
+  {
+    "serie": 2,
+    "number": "368",
+    "name": "River City Girls Fan Bundle",
+    "imgId": "368",
+    "filenameBase": "368_S2"
+  },
+  {
+    "serie": 2,
+    "number": "369",
+    "name": "River City Girls Card Pack",
+    "imgId": "369",
+    "filenameBase": "369_S2"
+  },
+  {
+    "serie": 2,
+    "number": "370",
+    "name": "River City Girls Card Pack",
+    "imgId": "370",
+    "filenameBase": "370_S2"
+  },
+  {
+    "serie": 2,
+    "number": "371",
+    "name": "River City Girls Card Pack",
+    "imgId": "371",
+    "filenameBase": "371_S2"
+  },
+  {
+    "serie": 2,
+    "number": "372",
+    "name": "River City Girls Card Pack",
+    "imgId": "372",
+    "filenameBase": "372_S2"
+  },
+  {
+    "serie": 2,
+    "number": "373",
+    "name": "Outbreak",
+    "imgId": "373",
+    "filenameBase": "373_S2"
+  },
+  {
+    "serie": 2,
+    "number": "374",
+    "name": "Outbreak",
+    "imgId": "374",
+    "filenameBase": "374_S2"
+  },
+  {
+    "serie": 2,
+    "number": "375",
+    "name": "Republique",
+    "imgId": "375",
+    "filenameBase": "375_S2"
+  },
+  {
+    "serie": 2,
+    "number": "376",
+    "name": "Republique",
+    "imgId": "376",
+    "filenameBase": "376_S2"
+  },
+  {
+    "serie": 2,
+    "number": "377",
+    "name": "Super Meat Boy",
+    "imgId": "377",
+    "filenameBase": "377_S2"
+  },
+  {
+    "serie": 2,
+    "number": "378",
+    "name": "Super Meat Boy",
+    "imgId": "378",
+    "filenameBase": "378_S2"
+  },
+  {
+    "serie": 2,
+    "number": "379",
+    "name": "Super Meat Boy Forever",
+    "imgId": "379",
+    "filenameBase": "379_S2"
+  },
+  {
+    "serie": 2,
+    "number": "380",
+    "name": "Super Meat Boy Forever",
+    "imgId": "380",
+    "filenameBase": "380_S2"
+  },
+  {
+    "serie": 2,
+    "number": "381",
+    "name": "RWBY",
+    "imgId": "381",
+    "filenameBase": "381_S2"
+  },
+  {
+    "serie": 2,
+    "number": "382",
+    "name": "RWBY",
+    "imgId": "382",
+    "filenameBase": "382_S2"
+  },
+  {
+    "serie": 2,
+    "number": "383",
+    "name": "Blaster Master Zero 3",
+    "imgId": "383",
+    "filenameBase": "383_S2"
+  },
+  {
+    "serie": 2,
+    "number": "384",
+    "name": "Blaster Master Zero 3",
+    "imgId": "384",
+    "filenameBase": "384_S2"
+  },
+  {
+    "serie": 2,
+    "number": "385",
+    "name": "Tail Gator",
+    "imgId": "385",
+    "filenameBase": "385_S2"
+  },
+  {
+    "serie": 2,
+    "number": "386",
+    "name": "Tail Gator",
+    "imgId": "386",
+    "filenameBase": "386_S2"
+  },
+  {
+    "serie": 2,
+    "number": "387",
+    "name": "Double Dragon & Kunio-Kun Retro Braweler Bundle",
+    "imgId": "387",
+    "filenameBase": "387_S2"
+  },
+  {
+    "serie": 2,
+    "number": "388",
+    "name": "Double Dragon & Kunio-Kun Retro Braweler Bundle",
+    "imgId": "388",
+    "filenameBase": "388_S2"
+  },
+  {
+    "serie": 2,
+    "number": "389",
+    "name": "Double Dragon & Kunio-Kun Retro Braweler Bundle",
+    "imgId": "389",
+    "filenameBase": "389_S2"
+  },
+  {
+    "serie": 2,
+    "number": "390",
+    "name": "Double Dragon & Kunio-Kun Retro Braweler Bundle",
+    "imgId": "390",
+    "filenameBase": "390_S2"
+  },
+  {
+    "serie": 2,
+    "number": "391",
+    "name": "Erica",
+    "imgId": "391",
+    "filenameBase": "391_S2"
+  },
+  {
+    "serie": 2,
+    "number": "392",
+    "name": "Erica",
+    "imgId": "392",
+    "filenameBase": "392_S2"
+  },
+  {
+    "serie": 2,
+    "number": "393",
+    "name": "FAR: Lone Sails",
+    "imgId": "393",
+    "filenameBase": "393_S2"
+  },
+  {
+    "serie": 2,
+    "number": "394",
+    "name": "FAR: Lone Sails",
+    "imgId": "394",
+    "filenameBase": "394_S2"
+  },
+  {
+    "serie": 2,
+    "number": "395",
+    "name": "Roombo",
+    "imgId": "395",
+    "filenameBase": "395_S2"
+  },
+  {
+    "serie": 2,
+    "number": "396",
+    "name": "Roombo",
+    "imgId": "396",
+    "filenameBase": "396_S2"
+  },
+  {
+    "serie": 2,
+    "number": "397",
+    "name": "Saturday Morning RPG",
+    "imgId": "397",
+    "filenameBase": "397_S2"
+  },
+  {
+    "serie": 2,
+    "number": "398",
+    "name": "Saturday Morning RPG",
+    "imgId": "398",
+    "filenameBase": "398_S2"
+  },
+  {
+    "serie": 2,
+    "number": "399",
+    "name": "Saturday Morning RPG",
+    "imgId": "399",
+    "filenameBase": "399_S2"
+  },
+  {
+    "serie": 2,
+    "number": "400",
+    "name": "Saturday Morning RPG",
+    "imgId": "400",
+    "filenameBase": "400_S2"
+  },
+  {
+    "serie": 2,
+    "number": "401",
+    "name": "Plumbers Don't Wear Ties",
+    "imgId": "401",
+    "filenameBase": "401_S2"
+  },
+  {
+    "serie": 2,
+    "number": "402",
+    "name": "Plumbers Don't Wear Ties",
+    "imgId": "402",
+    "filenameBase": "402_S2"
+  },
+  {
+    "serie": 2,
+    "number": "403",
+    "name": "Vita Cartridge Label Sticker Insert Card",
+    "imgId": "403",
+    "filenameBase": "403_S2"
+  },
+  {
+    "serie": 2,
+    "number": "404",
+    "name": "Douglas Autograph Card",
+    "imgId": "404",
+    "filenameBase": "404_S2"
+  },
+  {
+    "serie": 2,
+    "number": "405",
+    "name": "Josh Autograph Card",
+    "imgId": "405",
+    "filenameBase": "405_S2"
+  },
+  {
+    "serie": 2,
+    "number": "406",
+    "name": "Castlevania Anniversary Collection",
+    "imgId": "406",
+    "filenameBase": "406_S2"
+  },
+  {
+    "serie": 2,
+    "number": "407",
+    "name": "Castlevania Anniversary Collection",
+    "imgId": "407",
+    "filenameBase": "407_S2"
+  },
+  {
+    "serie": 2,
+    "number": "408",
+    "name": "Castlevania Anniversary Collection Bundle",
+    "imgId": "408",
+    "filenameBase": "408_S2"
+  },
+  {
+    "serie": 2,
+    "number": "409",
+    "name": "Digital Pictures Logo Card",
+    "imgId": "409",
+    "filenameBase": "409_S2"
+  },
+  {
+    "serie": 2,
+    "number": "410",
+    "name": "Panzer Dragoon Mega-Bundle",
+    "imgId": "410",
+    "filenameBase": "410_S2"
+  },
+  {
+    "serie": 3,
+    "number": "1",
+    "name": "Limited Run Games Logo Card",
+    "imgId": "001",
+    "filenameBase": "001_S3"
+  },
+  {
+    "serie": 3,
+    "number": "2",
+    "name": "Quake",
+    "imgId": "002",
+    "filenameBase": "002_S3"
+  },
+  {
+    "serie": 3,
+    "number": "3",
+    "name": "Quake",
+    "imgId": "003",
+    "filenameBase": "003_S3"
+  },
+  {
+    "serie": 3,
+    "number": "4",
+    "name": "Quake Fan Bundle",
+    "imgId": "004",
+    "filenameBase": "004_S3"
+  },
+  {
+    "serie": 3,
+    "number": "5",
+    "name": "Turok 1",
+    "imgId": "005",
+    "filenameBase": "005_S3"
+  },
+  {
+    "serie": 3,
+    "number": "6",
+    "name": "Turok 1",
+    "imgId": "006",
+    "filenameBase": "006_S3"
+  },
+  {
+    "serie": 3,
+    "number": "7",
+    "name": "Turok 2",
+    "imgId": "007",
+    "filenameBase": "007_S3"
+  },
+  {
+    "serie": 3,
+    "number": "8",
+    "name": "Turok 2",
+    "imgId": "008",
+    "filenameBase": "008_S3"
+  },
+  {
+    "serie": 3,
+    "number": "9",
+    "name": "Turok Fan Bundle",
+    "imgId": "009",
+    "filenameBase": "009_S3"
+  },
+  {
+    "serie": 3,
+    "number": "10",
+    "name": "Axiom Verge 1 & 2",
+    "imgId": "010",
+    "filenameBase": "010_S3"
+  },
+  {
+    "serie": 3,
+    "number": "11",
+    "name": "Axiom Verge 1 & 2",
+    "imgId": "011",
+    "filenameBase": "011_S3"
+  },
+  {
+    "serie": 3,
+    "number": "12",
+    "name": "Axiom Verge 2",
+    "imgId": "012",
+    "filenameBase": "012_S3"
+  },
+  {
+    "serie": 3,
+    "number": "13",
+    "name": "Axiom Verge 2",
+    "imgId": "013",
+    "filenameBase": "013_S3"
+  },
+  {
+    "serie": 3,
+    "number": "14",
+    "name": "Pathway",
+    "imgId": "014",
+    "filenameBase": "014_S3"
+  },
+  {
+    "serie": 3,
+    "number": "15",
+    "name": "Pathway",
+    "imgId": "015",
+    "filenameBase": "015_S3"
+  },
+  {
+    "serie": 3,
+    "number": "16",
+    "name": "Ikenfell",
+    "imgId": "016",
+    "filenameBase": "016_S3"
+  },
+  {
+    "serie": 3,
+    "number": "17",
+    "name": "Ikenfell",
+    "imgId": "017",
+    "filenameBase": "017_S3"
+  },
+  {
+    "serie": 3,
+    "number": "18",
+    "name": "Bloodrayne",
+    "imgId": "018",
+    "filenameBase": "018_S3"
+  },
+  {
+    "serie": 3,
+    "number": "19",
+    "name": "Bloodrayne",
+    "imgId": "019",
+    "filenameBase": "019_S3"
+  },
+  {
+    "serie": 3,
+    "number": "20",
+    "name": "Bloodrayne 2",
+    "imgId": "020",
+    "filenameBase": "020_S3"
+  },
+  {
+    "serie": 3,
+    "number": "21",
+    "name": "Bloodrayne 2",
+    "imgId": "021",
+    "filenameBase": "021_S3"
+  },
+  {
+    "serie": 3,
+    "number": "22",
+    "name": "Bloodrayne Betrayal",
+    "imgId": "022",
+    "filenameBase": "022_S3"
+  },
+  {
+    "serie": 3,
+    "number": "23",
+    "name": "Bloodrayne Betrayal",
+    "imgId": "023",
+    "filenameBase": "023_S3"
+  },
+  {
+    "serie": 3,
+    "number": "24",
+    "name": "DUSK",
+    "imgId": "024",
+    "filenameBase": "024_S3"
+  },
+  {
+    "serie": 3,
+    "number": "25",
+    "name": "DUSK",
+    "imgId": "025",
+    "filenameBase": "025_S3"
+  },
+  {
+    "serie": 3,
+    "number": "26",
+    "name": "Haven",
+    "imgId": "026",
+    "filenameBase": "026_S3"
+  },
+  {
+    "serie": 3,
+    "number": "27",
+    "name": "Haven",
+    "imgId": "027",
+    "filenameBase": "027_S3"
+  },
+  {
+    "serie": 3,
+    "number": "28",
+    "name": "Demon's Tilt",
+    "imgId": "028",
+    "filenameBase": "028_S3"
+  },
+  {
+    "serie": 3,
+    "number": "29",
+    "name": "Demon's Tilt",
+    "imgId": "029",
+    "filenameBase": "029_S3"
+  },
+  {
+    "serie": 3,
+    "number": "30",
+    "name": "Nine Witches",
+    "imgId": "030",
+    "filenameBase": "030_S3"
+  },
+  {
+    "serie": 3,
+    "number": "31",
+    "name": "Nine Witches",
+    "imgId": "031",
+    "filenameBase": "031_S3"
+  },
+  {
+    "serie": 3,
+    "number": "32",
+    "name": "Sir Lovelot",
+    "imgId": "032",
+    "filenameBase": "032_S3"
+  },
+  {
+    "serie": 3,
+    "number": "33",
+    "name": "Sir Lovelot",
+    "imgId": "033",
+    "filenameBase": "033_S3"
+  },
+  {
+    "serie": 3,
+    "number": "34",
+    "name": "One Step From Eden",
+    "imgId": "034",
+    "filenameBase": "034_S3"
+  },
+  {
+    "serie": 3,
+    "number": "35",
+    "name": "One Step From Eden",
+    "imgId": "035",
+    "filenameBase": "035_S3"
+  },
+  {
+    "serie": 3,
+    "number": "36",
+    "name": "The Coma 2",
+    "imgId": "036",
+    "filenameBase": "036_S3"
+  },
+  {
+    "serie": 3,
+    "number": "37",
+    "name": "The Coma 2",
+    "imgId": "037",
+    "filenameBase": "037_S3"
+  },
+  {
+    "serie": 3,
+    "number": "38",
+    "name": "9th Dawn III",
+    "imgId": "038",
+    "filenameBase": "038_S3"
+  },
+  {
+    "serie": 3,
+    "number": "39",
+    "name": "9th Dawn III",
+    "imgId": "039",
+    "filenameBase": "039_S3"
+  },
+  {
+    "serie": 3,
+    "number": "40",
+    "name": "Always Sometimes Monsters",
+    "imgId": "040",
+    "filenameBase": "040_S3"
+  },
+  {
+    "serie": 3,
+    "number": "41",
+    "name": "Always Sometimes Monsters",
+    "imgId": "041",
+    "filenameBase": "041_S3"
+  },
+  {
+    "serie": 3,
+    "number": "42",
+    "name": "Narita Boy",
+    "imgId": "042",
+    "filenameBase": "042_S3"
+  },
+  {
+    "serie": 3,
+    "number": "43",
+    "name": "Narita Boy",
+    "imgId": "043",
+    "filenameBase": "043_S3"
+  },
+  {
+    "serie": 3,
+    "number": "44",
+    "name": "Redout: Space Assault",
+    "imgId": "044",
+    "filenameBase": "044_S3"
+  },
+  {
+    "serie": 3,
+    "number": "45",
+    "name": "Redout: Space Assault",
+    "imgId": "045",
+    "filenameBase": "045_S3"
+  },
+  {
+    "serie": 3,
+    "number": "46",
+    "name": "Castlevania Requiem Fan Bundle",
+    "imgId": "046",
+    "filenameBase": "046_S3"
+  },
+  {
+    "serie": 3,
+    "number": "47",
+    "name": "Castlevania Requiem",
+    "imgId": "047",
+    "filenameBase": "047_S3"
+  },
+  {
+    "serie": 3,
+    "number": "48",
+    "name": "Castlevania Requiem",
+    "imgId": "048",
+    "filenameBase": "048_S3"
+  },
+  {
+    "serie": 3,
+    "number": "49",
+    "name": "Star Wars: Knights of the Old Republic Mega Bundle",
+    "imgId": "049",
+    "filenameBase": "049_S3"
+  },
+  {
+    "serie": 3,
+    "number": "50",
+    "name": "Star Wars: Knights of the Old Republic",
+    "imgId": "050",
+    "filenameBase": "050_S3"
+  },
+  {
+    "serie": 3,
+    "number": "51",
+    "name": "Star Wars: Knights of the Old Republic",
+    "imgId": "051",
+    "filenameBase": "051_S3"
+  },
+  {
+    "serie": 3,
+    "number": "52",
+    "name": "Toki Tori Fan Bundle",
+    "imgId": "052",
+    "filenameBase": "052_S3"
+  },
+  {
+    "serie": 3,
+    "number": "53",
+    "name": "Toki Tori",
+    "imgId": "053",
+    "filenameBase": "053_S3"
+  },
+  {
+    "serie": 3,
+    "number": "54",
+    "name": "Valis",
+    "imgId": "054",
+    "filenameBase": "054_S3"
+  },
+  {
+    "serie": 3,
+    "number": "55",
+    "name": "Valis",
+    "imgId": "055",
+    "filenameBase": "055_S3"
+  },
+  {
+    "serie": 3,
+    "number": "56",
+    "name": "Valis",
+    "imgId": "056",
+    "filenameBase": "056_S3"
+  },
+  {
+    "serie": 3,
+    "number": "57",
+    "name": "Blacksmith of the Sand Kingdom",
+    "imgId": "057",
+    "filenameBase": "057_S3"
+  },
+  {
+    "serie": 3,
+    "number": "58",
+    "name": "Blacksmith of the Sand Kingdom",
+    "imgId": "058",
+    "filenameBase": "058_S3"
+  },
+  {
+    "serie": 3,
+    "number": "59",
+    "name": "Lair of the Clockwork God",
+    "imgId": "059",
+    "filenameBase": "059_S3"
+  },
+  {
+    "serie": 3,
+    "number": "60",
+    "name": "Lair of the Clockwork God",
+    "imgId": "060",
+    "filenameBase": "060_S3"
+  },
+  {
+    "serie": 3,
+    "number": "61",
+    "name": "Monster Sanctuary",
+    "imgId": "061",
+    "filenameBase": "061_S3"
+  },
+  {
+    "serie": 3,
+    "number": "62",
+    "name": "Monster Sanctuary",
+    "imgId": "062",
+    "filenameBase": "062_S3"
+  },
+  {
+    "serie": 3,
+    "number": "63",
+    "name": "Feather",
+    "imgId": "063",
+    "filenameBase": "063_S3"
+  },
+  {
+    "serie": 3,
+    "number": "64",
+    "name": "Feather",
+    "imgId": "064",
+    "filenameBase": "064_S3"
+  },
+  {
+    "serie": 3,
+    "number": "65",
+    "name": "Dead Age",
+    "imgId": "065",
+    "filenameBase": "065_S3"
+  },
+  {
+    "serie": 3,
+    "number": "66",
+    "name": "Dead Age",
+    "imgId": "066",
+    "filenameBase": "066_S3"
+  },
+  {
+    "serie": 3,
+    "number": "67",
+    "name": "Dark Nights With Poe & Munro",
+    "imgId": "067",
+    "filenameBase": "067_S3"
+  },
+  {
+    "serie": 3,
+    "number": "68",
+    "name": "Dark Nights With Poe & Munro",
+    "imgId": "068",
+    "filenameBase": "068_S3"
+  },
+  {
+    "serie": 3,
+    "number": "69",
+    "name": "There Is No Game: Wrong Dimension",
+    "imgId": "069",
+    "filenameBase": "069_S3"
+  },
+  {
+    "serie": 3,
+    "number": "70",
+    "name": "There Is No Game: Wrong Dimension",
+    "imgId": "070",
+    "filenameBase": "070_S3"
+  },
+  {
+    "serie": 3,
+    "number": "71",
+    "name": "Mushihimesama",
+    "imgId": "071",
+    "filenameBase": "071_S3"
+  },
+  {
+    "serie": 3,
+    "number": "72",
+    "name": "Mushihimesama",
+    "imgId": "072",
+    "filenameBase": "072_S3"
+  },
+  {
+    "serie": 3,
+    "number": "73",
+    "name": "Red Lantern",
+    "imgId": "073",
+    "filenameBase": "073_S3"
+  },
+  {
+    "serie": 3,
+    "number": "74",
+    "name": "Red Lantern",
+    "imgId": "074",
+    "filenameBase": "074_S3"
+  },
+  {
+    "serie": 3,
+    "number": "75",
+    "name": "Astalon",
+    "imgId": "075",
+    "filenameBase": "075_S3"
+  },
+  {
+    "serie": 3,
+    "number": "76",
+    "name": "Astalon",
+    "imgId": "076",
+    "filenameBase": "076_S3"
+  },
+  {
+    "serie": 3,
+    "number": "77",
+    "name": "A Boy And His Blob NES",
+    "imgId": "077",
+    "filenameBase": "077_S3"
+  },
+  {
+    "serie": 3,
+    "number": "78",
+    "name": "A Boy And His Blob NES",
+    "imgId": "078",
+    "filenameBase": "078_S3"
+  },
+  {
+    "serie": 3,
+    "number": "79",
+    "name": "Rescue of Princes Blobette",
+    "imgId": "079",
+    "filenameBase": "079_S3"
+  },
+  {
+    "serie": 3,
+    "number": "80",
+    "name": "Rescue of Princes Blobette",
+    "imgId": "080",
+    "filenameBase": "080_S3"
+  },
+  {
+    "serie": 3,
+    "number": "81",
+    "name": "I Saw Black Clouds",
+    "imgId": "081",
+    "filenameBase": "081_S3"
+  },
+  {
+    "serie": 3,
+    "number": "82",
+    "name": "I Saw Black Clouds",
+    "imgId": "082",
+    "filenameBase": "082_S3"
+  },
+  {
+    "serie": 3,
+    "number": "83",
+    "name": "Limited Run Retail",
+    "imgId": "083",
+    "filenameBase": "083_S3"
+  },
+  {
+    "serie": 3,
+    "number": "84",
+    "name": "Limited Run Retail Grand Opening",
+    "imgId": "084",
+    "filenameBase": "084_S3"
+  },
+  {
+    "serie": 3,
+    "number": "85",
+    "name": "Turok Card Pack",
+    "imgId": "085",
+    "filenameBase": "085_S3"
+  },
+  {
+    "serie": 3,
+    "number": "86",
+    "name": "Turok Card Pack",
+    "imgId": "086",
+    "filenameBase": "086_S3"
+  },
+  {
+    "serie": 3,
+    "number": "87",
+    "name": "Turok Card Pack",
+    "imgId": "087",
+    "filenameBase": "087_S3"
+  },
+  {
+    "serie": 3,
+    "number": "88",
+    "name": "Turok Card Pack",
+    "imgId": "088",
+    "filenameBase": "088_S3"
+  },
+  {
+    "serie": 3,
+    "number": "89",
+    "name": "Toejam and Earl Card Pack",
+    "imgId": "089",
+    "filenameBase": "089_S3"
+  },
+  {
+    "serie": 3,
+    "number": "90",
+    "name": "Toejam and Earl Card Pack",
+    "imgId": "090",
+    "filenameBase": "090_S3"
+  },
+  {
+    "serie": 3,
+    "number": "91",
+    "name": "Toejam and Earl Card Pack",
+    "imgId": "091",
+    "filenameBase": "091_S3"
+  },
+  {
+    "serie": 3,
+    "number": "92",
+    "name": "Toejam and Earl Card Pack",
+    "imgId": "092",
+    "filenameBase": "092_S3"
+  },
+  {
+    "serie": 3,
+    "number": "93",
+    "name": "River City Girls Zero",
+    "imgId": "093",
+    "filenameBase": "093_S3"
+  },
+  {
+    "serie": 3,
+    "number": "94",
+    "name": "River City Girls Zero",
+    "imgId": "094",
+    "filenameBase": "094_S3"
+  },
+  {
+    "serie": 3,
+    "number": "95",
+    "name": "River City Girls Zero",
+    "imgId": "095",
+    "filenameBase": "095_S3"
+  },
+  {
+    "serie": 3,
+    "number": "96",
+    "name": "River City Girls Zero",
+    "imgId": "096",
+    "filenameBase": "096_S3"
+  },
+  {
+    "serie": 3,
+    "number": "97",
+    "name": "River City Girls Zero",
+    "imgId": "097",
+    "filenameBase": "097_S3"
+  },
+  {
+    "serie": 3,
+    "number": "98",
+    "name": "River City Girls Zero",
+    "imgId": "098",
+    "filenameBase": "098_S3"
+  },
+  {
+    "serie": 3,
+    "number": "99",
+    "name": "Sol Cresta",
+    "imgId": "099",
+    "filenameBase": "099_S3"
+  },
+  {
+    "serie": 3,
+    "number": "100",
+    "name": "Sol Cresta",
+    "imgId": "100",
+    "filenameBase": "100_S3"
+  },
+  {
+    "serie": 3,
+    "number": "101",
+    "name": "Summertime Madness",
+    "imgId": "101",
+    "filenameBase": "101_S3"
+  },
+  {
+    "serie": 3,
+    "number": "102",
+    "name": "Summertime Madness",
+    "imgId": "102",
+    "filenameBase": "102_S3"
+  },
+  {
+    "serie": 3,
+    "number": "103",
+    "name": "Astro Aqua Kitty",
+    "imgId": "103",
+    "filenameBase": "103_S3"
+  },
+  {
+    "serie": 3,
+    "number": "104",
+    "name": "Astro Aqua Kitty",
+    "imgId": "104",
+    "filenameBase": "104_S3"
+  },
+  {
+    "serie": 3,
+    "number": "105",
+    "name": "Shadow Man Remastered",
+    "imgId": "105",
+    "filenameBase": "105_S3"
+  },
+  {
+    "serie": 3,
+    "number": "106",
+    "name": "Shadow Man Remastered",
+    "imgId": "106",
+    "filenameBase": "106_S3"
+  },
+  {
+    "serie": 3,
+    "number": "107",
+    "name": "Worms",
+    "imgId": "107",
+    "filenameBase": "107_S3"
+  },
+  {
+    "serie": 3,
+    "number": "108",
+    "name": "Worms",
+    "imgId": "108",
+    "filenameBase": "108_S3"
+  },
+  {
+    "serie": 3,
+    "number": "109",
+    "name": "Dawn Of the Monsters",
+    "imgId": "109",
+    "filenameBase": "109_S3"
+  },
+  {
+    "serie": 3,
+    "number": "110",
+    "name": "Dawn Of the Monsters",
+    "imgId": "110",
+    "filenameBase": "110_S3"
+  },
+  {
+    "serie": 3,
+    "number": "111",
+    "name": "Phantom Breaker: Omnia",
+    "imgId": "111",
+    "filenameBase": "111_S3"
+  },
+  {
+    "serie": 3,
+    "number": "112",
+    "name": "Phantom Breaker: Omnia",
+    "imgId": "112",
+    "filenameBase": "112_S3"
+  },
+  {
+    "serie": 3,
+    "number": "113",
+    "name": "Demon Turf",
+    "imgId": "113",
+    "filenameBase": "113_S3"
+  },
+  {
+    "serie": 3,
+    "number": "114",
+    "name": "Demon Turf",
+    "imgId": "114",
+    "filenameBase": "114_S3"
+  },
+  {
+    "serie": 3,
+    "number": "115",
+    "name": "Gotta Protectors: Cart of Darkness",
+    "imgId": "115",
+    "filenameBase": "115_S3"
+  },
+  {
+    "serie": 3,
+    "number": "116",
+    "name": "Gotta Protectors: Cart of Darkness",
+    "imgId": "116",
+    "filenameBase": "116_S3"
+  },
+  {
+    "serie": 3,
+    "number": "117",
+    "name": "Amazon's Training Road",
+    "imgId": "117",
+    "filenameBase": "117_S3"
+  },
+  {
+    "serie": 3,
+    "number": "118",
+    "name": "Amazon's Training Road",
+    "imgId": "118",
+    "filenameBase": "118_S3"
+  },
+  {
+    "serie": 3,
+    "number": "119",
+    "name": "ANNO: Mutationem",
+    "imgId": "119",
+    "filenameBase": "119_S3"
+  },
+  {
+    "serie": 3,
+    "number": "120",
+    "name": "ANNO: Mutationem",
+    "imgId": "120",
+    "filenameBase": "120_S3"
+  },
+  {
+    "serie": 3,
+    "number": "121",
+    "name": "Alphadia Genesis 2",
+    "imgId": "121",
+    "filenameBase": "121_S3"
+  },
+  {
+    "serie": 3,
+    "number": "122",
+    "name": "Alphadia Genesis 2",
+    "imgId": "122",
+    "filenameBase": "122_S3"
+  },
+  {
+    "serie": 3,
+    "number": "123",
+    "name": "Cat Girl Without Salad",
+    "imgId": "123",
+    "filenameBase": "123_S3"
+  },
+  {
+    "serie": 3,
+    "number": "124",
+    "name": "Cat Girl Without Salad",
+    "imgId": "124",
+    "filenameBase": "124_S3"
+  },
+  {
+    "serie": 3,
+    "number": "125",
+    "name": "Night Book",
+    "imgId": "125",
+    "filenameBase": "125_S3"
+  },
+  {
+    "serie": 3,
+    "number": "126",
+    "name": "Night Book",
+    "imgId": "126",
+    "filenameBase": "126_S3"
+  },
+  {
+    "serie": 3,
+    "number": "127",
+    "name": "Winds & Leaves",
+    "imgId": "127",
+    "filenameBase": "127_S3"
+  },
+  {
+    "serie": 3,
+    "number": "128",
+    "name": "Winds & Leaves",
+    "imgId": "128",
+    "filenameBase": "128_S3"
+  },
+  {
+    "serie": 3,
+    "number": "129",
+    "name": "Kids On Site",
+    "imgId": "129",
+    "filenameBase": "129_S3"
+  },
+  {
+    "serie": 3,
+    "number": "130",
+    "name": "Kids On Site",
+    "imgId": "130",
+    "filenameBase": "130_S3"
+  },
+  {
+    "serie": 3,
+    "number": "131",
+    "name": "River City Girls Zero Fan Bundle",
+    "imgId": "131",
+    "filenameBase": "131_S3"
+  },
+  {
+    "serie": 3,
+    "number": "132",
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge Fan Bundle",
+    "imgId": "132",
+    "filenameBase": "132_S3"
+  },
+  {
+    "serie": 3,
+    "number": "133",
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "imgId": "133",
+    "filenameBase": "133_S3"
+  },
+  {
+    "serie": 3,
+    "number": "134",
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "imgId": "134",
+    "filenameBase": "134_S3"
+  },
+  {
+    "serie": 3,
+    "number": "135",
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "imgId": "135",
+    "filenameBase": "135_S3"
+  },
+  {
+    "serie": 3,
+    "number": "136",
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "imgId": "136",
+    "filenameBase": "136_S3"
+  },
+  {
+    "serie": 3,
+    "number": "137",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "137",
+    "filenameBase": "137_S3"
+  },
+  {
+    "serie": 3,
+    "number": "138",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "138",
+    "filenameBase": "138_S3"
+  },
+  {
+    "serie": 3,
+    "number": "139",
+    "name": "Shantae and the Seven Sirens Fan Bundle",
+    "imgId": "139",
+    "filenameBase": "139_S3"
+  },
+  {
+    "serie": 3,
+    "number": "140",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "140",
+    "filenameBase": "140_S3"
+  },
+  {
+    "serie": 3,
+    "number": "141",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "141",
+    "filenameBase": "141_S3"
+  },
+  {
+    "serie": 3,
+    "number": "142",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "142",
+    "filenameBase": "142_S3"
+  },
+  {
+    "serie": 3,
+    "number": "143",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "143",
+    "filenameBase": "143_S3"
+  },
+  {
+    "serie": 3,
+    "number": "144",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "144",
+    "filenameBase": "144_S3"
+  },
+  {
+    "serie": 3,
+    "number": "145",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "145",
+    "filenameBase": "145_S3"
+  },
+  {
+    "serie": 3,
+    "number": "146",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "146",
+    "filenameBase": "146_S3"
+  },
+  {
+    "serie": 3,
+    "number": "147",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "147",
+    "filenameBase": "147_S3"
+  },
+  {
+    "serie": 3,
+    "number": "148",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "148",
+    "filenameBase": "148_S3"
+  },
+  {
+    "serie": 3,
+    "number": "149",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "149",
+    "filenameBase": "149_S3"
+  },
+  {
+    "serie": 3,
+    "number": "150",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "150",
+    "filenameBase": "150_S3"
+  },
+  {
+    "serie": 3,
+    "number": "151",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "151",
+    "filenameBase": "151_S3"
+  },
+  {
+    "serie": 3,
+    "number": "152",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "152",
+    "filenameBase": "152_S3"
+  },
+  {
+    "serie": 3,
+    "number": "153",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "153",
+    "filenameBase": "153_S3"
+  },
+  {
+    "serie": 3,
+    "number": "154",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "154",
+    "filenameBase": "154_S3"
+  },
+  {
+    "serie": 3,
+    "number": "155",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "155",
+    "filenameBase": "155_S3"
+  },
+  {
+    "serie": 3,
+    "number": "156",
+    "name": "Star Wars: The Force Unleashed",
+    "imgId": "156",
+    "filenameBase": "156_S3"
+  },
+  {
+    "serie": 3,
+    "number": "157",
+    "name": "Star Wars: The Force Unleashed",
+    "imgId": "157",
+    "filenameBase": "157_S3"
+  },
+  {
+    "serie": 3,
+    "number": "158",
+    "name": "Save Mr Tako: Definitive Edition",
+    "imgId": "158",
+    "filenameBase": "158_S3"
+  },
+  {
+    "serie": 3,
+    "number": "159",
+    "name": "Save Mr Tako: Definitive Edition",
+    "imgId": "159",
+    "filenameBase": "159_S3"
+  },
+  {
+    "serie": 3,
+    "number": "160",
+    "name": "Sam & Max: Beyond Time And Space",
+    "imgId": "160",
+    "filenameBase": "160_S3"
+  },
+  {
+    "serie": 3,
+    "number": "161",
+    "name": "Sam & Max: Beyond Time And Space",
+    "imgId": "161",
+    "filenameBase": "161_S3"
+  },
+  {
+    "serie": 3,
+    "number": "162",
+    "name": "Sam & Max: This Time It's Virtual",
+    "imgId": "162",
+    "filenameBase": "162_S3"
+  },
+  {
+    "serie": 3,
+    "number": "163",
+    "name": "Sam & Max: This Time It's Virtual",
+    "imgId": "163",
+    "filenameBase": "163_S3"
+  },
+  {
+    "serie": 3,
+    "number": "164",
+    "name": "A Boy And His Blob",
+    "imgId": "164",
+    "filenameBase": "164_S3"
+  },
+  {
+    "serie": 3,
+    "number": "165",
+    "name": "A Boy And His Blob",
+    "imgId": "165",
+    "filenameBase": "165_S3"
+  },
+  {
+    "serie": 3,
+    "number": "166",
+    "name": "Hatsune Miku VR",
+    "imgId": "166",
+    "filenameBase": "166_S3"
+  },
+  {
+    "serie": 3,
+    "number": "167",
+    "name": "Hatsune Miku VR",
+    "imgId": "167",
+    "filenameBase": "167_S3"
+  },
+  {
+    "serie": 3,
+    "number": "168",
+    "name": "Unsighted",
+    "imgId": "168",
+    "filenameBase": "168_S3"
+  },
+  {
+    "serie": 3,
+    "number": "169",
+    "name": "Unsighted",
+    "imgId": "169",
+    "filenameBase": "169_S3"
+  },
+  {
+    "serie": 3,
+    "number": "170",
+    "name": "American Hero",
+    "imgId": "170",
+    "filenameBase": "170_S3"
+  },
+  {
+    "serie": 3,
+    "number": "171",
+    "name": "American Hero",
+    "imgId": "171",
+    "filenameBase": "171_S3"
+  },
+  {
+    "serie": 3,
+    "number": "172",
+    "name": "Bill & Ted's Excellent Retro Collection",
+    "imgId": "172",
+    "filenameBase": "172_S3"
+  },
+  {
+    "serie": 3,
+    "number": "173",
+    "name": "Bill & Ted's Excellent Retro Collection",
+    "imgId": "173",
+    "filenameBase": "173_S3"
+  },
+  {
+    "serie": 3,
+    "number": "174",
+    "name": "Bill & Ted's Excellent Retro Collection",
+    "imgId": "174",
+    "filenameBase": "174_S3"
+  },
+  {
+    "serie": 3,
+    "number": "175",
+    "name": "Bill & Ted's Excellent Retro Collection",
+    "imgId": "175",
+    "filenameBase": "175_S3"
+  },
+  {
+    "serie": 3,
+    "number": "176",
+    "name": "Bill & Ted's Excellent Retro Collection",
+    "imgId": "176",
+    "filenameBase": "176_S3"
+  },
+  {
+    "serie": 3,
+    "number": "177",
+    "name": "Bill & Ted's Excellent Retro Collection",
+    "imgId": "177",
+    "filenameBase": "177_S3"
+  },
+  {
+    "serie": 3,
+    "number": "178",
+    "name": "Dragon Lapis",
+    "imgId": "178",
+    "filenameBase": "178_S3"
+  },
+  {
+    "serie": 3,
+    "number": "179",
+    "name": "Dragon Lapis",
+    "imgId": "179",
+    "filenameBase": "179_S3"
+  },
+  {
+    "serie": 3,
+    "number": "180",
+    "name": "Liege Dragon",
+    "imgId": "180",
+    "filenameBase": "180_S3"
+  },
+  {
+    "serie": 3,
+    "number": "181",
+    "name": "Liege Dragon",
+    "imgId": "181",
+    "filenameBase": "181_S3"
+  },
+  {
+    "serie": 3,
+    "number": "182",
+    "name": "Swordsman VR",
+    "imgId": "182",
+    "filenameBase": "182_S3"
+  },
+  {
+    "serie": 3,
+    "number": "183",
+    "name": "Swordsman VR",
+    "imgId": "183",
+    "filenameBase": "183_S3"
+  },
+  {
+    "serie": 3,
+    "number": "184",
+    "name": "Dragon View",
+    "imgId": "184",
+    "filenameBase": "184_S3"
+  },
+  {
+    "serie": 3,
+    "number": "185",
+    "name": "Kubo 3",
+    "imgId": "185",
+    "filenameBase": "185_S3"
+  },
+  {
+    "serie": 3,
+    "number": "186",
+    "name": "Contra Anniversary Collection",
+    "imgId": "186",
+    "filenameBase": "186_S3"
+  },
+  {
+    "serie": 3,
+    "number": "187",
+    "name": "Contra Anniversary Collection",
+    "imgId": "187",
+    "filenameBase": "187_S3"
+  },
+  {
+    "serie": 3,
+    "number": "188",
+    "name": "Contra Anniversary Collection Fan Bundle",
+    "imgId": "188",
+    "filenameBase": "188_S3"
+  },
+  {
+    "serie": 3,
+    "number": "189",
+    "name": "Dreamscaper",
+    "imgId": "189",
+    "filenameBase": "189_S3"
+  },
+  {
+    "serie": 3,
+    "number": "190",
+    "name": "Dreamscaper",
+    "imgId": "190",
+    "filenameBase": "190_S3"
+  },
+  {
+    "serie": 3,
+    "number": "191",
+    "name": "Armed Emeth",
+    "imgId": "191",
+    "filenameBase": "191_S3"
+  },
+  {
+    "serie": 3,
+    "number": "192",
+    "name": "Armed Emeth",
+    "imgId": "192",
+    "filenameBase": "192_S3"
+  },
+  {
+    "serie": 3,
+    "number": "193",
+    "name": "Glover",
+    "imgId": "193",
+    "filenameBase": "193_S3"
+  },
+  {
+    "serie": 3,
+    "number": "194",
+    "name": "Glover",
+    "imgId": "194",
+    "filenameBase": "194_S3"
+  },
+  {
+    "serie": 3,
+    "number": "195",
+    "name": "Sheepo",
+    "imgId": "195",
+    "filenameBase": "195_S3"
+  },
+  {
+    "serie": 3,
+    "number": "196",
+    "name": "Sheepo",
+    "imgId": "196",
+    "filenameBase": "196_S3"
+  },
+  {
+    "serie": 3,
+    "number": "197",
+    "name": "Blade Runner",
+    "imgId": "197",
+    "filenameBase": "197_S3"
+  },
+  {
+    "serie": 3,
+    "number": "198",
+    "name": "Blade Runner",
+    "imgId": "198",
+    "filenameBase": "198_S3"
+  },
+  {
+    "serie": 3,
+    "number": "199",
+    "name": "Day of the Tentacle Remastered",
+    "imgId": "199",
+    "filenameBase": "199_S3"
+  },
+  {
+    "serie": 3,
+    "number": "200",
+    "name": "Day of the Tentacle Remastered",
+    "imgId": "200",
+    "filenameBase": "200_S3"
+  },
+  {
+    "serie": 3,
+    "number": "201",
+    "name": "Dodonpachi Resurrection",
+    "imgId": "201",
+    "filenameBase": "201_S3"
+  },
+  {
+    "serie": 3,
+    "number": "202",
+    "name": "Dodonpachi Resurrection",
+    "imgId": "202",
+    "filenameBase": "202_S3"
+  },
+  {
+    "serie": 3,
+    "number": "203",
+    "name": "Night Trap",
+    "imgId": "203",
+    "filenameBase": "203_S3"
+  },
+  {
+    "serie": 3,
+    "number": "204",
+    "name": "Night Trap",
+    "imgId": "204",
+    "filenameBase": "204_S3"
+  },
+  {
+    "serie": 3,
+    "number": "205",
+    "name": "Undermine",
+    "imgId": "205",
+    "filenameBase": "205_S3"
+  },
+  {
+    "serie": 3,
+    "number": "206",
+    "name": "Undermine",
+    "imgId": "206",
+    "filenameBase": "206_S3"
+  },
+  {
+    "serie": 3,
+    "number": "207",
+    "name": "Ruinverse",
+    "imgId": "207",
+    "filenameBase": "207_S3"
+  },
+  {
+    "serie": 3,
+    "number": "208",
+    "name": "Ruinverse",
+    "imgId": "208",
+    "filenameBase": "208_S3"
+  },
+  {
+    "serie": 3,
+    "number": "209",
+    "name": "Shantae",
+    "imgId": "209",
+    "filenameBase": "209_S3"
+  },
+  {
+    "serie": 3,
+    "number": "210",
+    "name": "Shantae",
+    "imgId": "210",
+    "filenameBase": "210_S3"
+  },
+  {
+    "serie": 3,
+    "number": "211",
+    "name": "Shantae Fan Bundle",
+    "imgId": "211",
+    "filenameBase": "211_S3"
+  },
+  {
+    "serie": 3,
+    "number": "212",
+    "name": "Shantae",
+    "imgId": "212",
+    "filenameBase": "212_S3"
+  },
+  {
+    "serie": 3,
+    "number": "213",
+    "name": "Shantae",
+    "imgId": "213",
+    "filenameBase": "213_S3"
+  },
+  {
+    "serie": 3,
+    "number": "214",
+    "name": "Shantae",
+    "imgId": "214",
+    "filenameBase": "214_S3"
+  },
+  {
+    "serie": 3,
+    "number": "215",
+    "name": "Shantae",
+    "imgId": "215",
+    "filenameBase": "215_S3"
+  },
+  {
+    "serie": 3,
+    "number": "216",
+    "name": "Carrion",
+    "imgId": "216",
+    "filenameBase": "216_S3"
+  },
+  {
+    "serie": 3,
+    "number": "217",
+    "name": "Carrion",
+    "imgId": "217",
+    "filenameBase": "217_S3"
+  },
+  {
+    "serie": 3,
+    "number": "218",
+    "name": "Bub-O Escape",
+    "imgId": "218",
+    "filenameBase": "218_S3"
+  },
+  {
+    "serie": 3,
+    "number": "219",
+    "name": "Bub-O Escape",
+    "imgId": "219",
+    "filenameBase": "219_S3"
+  },
+  {
+    "serie": 3,
+    "number": "220",
+    "name": "Rendering Ranger: R2",
+    "imgId": "220",
+    "filenameBase": "220_S3"
+  },
+  {
+    "serie": 3,
+    "number": "221",
+    "name": "Rendering Ranger: R2",
+    "imgId": "221",
+    "filenameBase": "221_S3"
+  },
+  {
+    "serie": 3,
+    "number": "222",
+    "name": "Espgaluda II",
+    "imgId": "222",
+    "filenameBase": "222_S3"
+  },
+  {
+    "serie": 3,
+    "number": "223",
+    "name": "Espgaluda II",
+    "imgId": "223",
+    "filenameBase": "223_S3"
+  },
+  {
+    "serie": 3,
+    "number": "224",
+    "name": "Star Wars: Knights of the Old Republic II The Sith Lords",
+    "imgId": "224",
+    "filenameBase": "224_S3"
+  },
+  {
+    "serie": 3,
+    "number": "225",
+    "name": "Star Wars: Knights of the Old Republic II The Sith Lords",
+    "imgId": "225",
+    "filenameBase": "225_S3"
+  },
+  {
+    "serie": 3,
+    "number": "226",
+    "name": "Star Wars: Knights of the Old Republic II The Sith Lords Fan Bundle",
+    "imgId": "226",
+    "filenameBase": "226_S3"
+  },
+  {
+    "serie": 3,
+    "number": "227",
+    "name": "Garden Story",
+    "imgId": "227",
+    "filenameBase": "227_S3"
+  },
+  {
+    "serie": 3,
+    "number": "228",
+    "name": "Garden Story",
+    "imgId": "228",
+    "filenameBase": "228_S3"
+  },
+  {
+    "serie": 3,
+    "number": "229",
+    "name": "Asdivine Saga",
+    "imgId": "229",
+    "filenameBase": "229_S3"
+  },
+  {
+    "serie": 3,
+    "number": "230",
+    "name": "Asdivine Saga",
+    "imgId": "230",
+    "filenameBase": "230_S3"
+  },
+  {
+    "serie": 3,
+    "number": "231",
+    "name": "Bloodshore",
+    "imgId": "231",
+    "filenameBase": "231_S3"
+  },
+  {
+    "serie": 3,
+    "number": "232",
+    "name": "Bloodshore",
+    "imgId": "232",
+    "filenameBase": "232_S3"
+  },
+  {
+    "serie": 3,
+    "number": "233",
+    "name": "Chroma Quaternion",
+    "imgId": "233",
+    "filenameBase": "233_S3"
+  },
+  {
+    "serie": 3,
+    "number": "234",
+    "name": "Chroma Quaternion",
+    "imgId": "234",
+    "filenameBase": "234_S3"
+  },
+  {
+    "serie": 3,
+    "number": "235",
+    "name": "Song in the Smoke",
+    "imgId": "235",
+    "filenameBase": "235_S3"
+  },
+  {
+    "serie": 3,
+    "number": "236",
+    "name": "Song in the Smoke",
+    "imgId": "236",
+    "filenameBase": "236_S3"
+  },
+  {
+    "serie": 3,
+    "number": "237",
+    "name": "Horror Tales: The Wine",
+    "imgId": "237",
+    "filenameBase": "237_S3"
+  },
+  {
+    "serie": 3,
+    "number": "238",
+    "name": "Horror Tales: The Wine",
+    "imgId": "238",
+    "filenameBase": "238_S3"
+  },
+  {
+    "serie": 3,
+    "number": "239",
+    "name": "Radiant Silvergun",
+    "imgId": "239",
+    "filenameBase": "239_S3"
+  },
+  {
+    "serie": 3,
+    "number": "240",
+    "name": "Radiant Silvergun",
+    "imgId": "240",
+    "filenameBase": "240_S3"
+  },
+  {
+    "serie": 3,
+    "number": "241",
+    "name": "Crystal Ortha",
+    "imgId": "241",
+    "filenameBase": "241_S3"
+  },
+  {
+    "serie": 3,
+    "number": "242",
+    "name": "Crystal Ortha",
+    "imgId": "242",
+    "filenameBase": "242_S3"
+  },
+  {
+    "serie": 3,
+    "number": "243",
+    "name": "Shadowrun Trilogy",
+    "imgId": "243",
+    "filenameBase": "243_S3"
+  },
+  {
+    "serie": 3,
+    "number": "244",
+    "name": "Shadowrun Trilogy",
+    "imgId": "244",
+    "filenameBase": "244_S3"
+  },
+  {
+    "serie": 3,
+    "number": "245",
+    "name": "Kombinera",
+    "imgId": "245",
+    "filenameBase": "245_S3"
+  },
+  {
+    "serie": 3,
+    "number": "246",
+    "name": "Kombinera",
+    "imgId": "246",
+    "filenameBase": "246_S3"
+  },
+  {
+    "serie": 3,
+    "number": "247",
+    "name": "Enclave HD",
+    "imgId": "247",
+    "filenameBase": "247_S3"
+  },
+  {
+    "serie": 3,
+    "number": "248",
+    "name": "Enclave HD",
+    "imgId": "248",
+    "filenameBase": "248_S3"
+  },
+  {
+    "serie": 3,
+    "number": "249",
+    "name": "Asdivine Cross",
+    "imgId": "249",
+    "filenameBase": "249_S3"
+  },
+  {
+    "serie": 3,
+    "number": "250",
+    "name": "Asdivine Cross",
+    "imgId": "250",
+    "filenameBase": "250_S3"
+  },
+  {
+    "serie": 3,
+    "number": "251",
+    "name": "Mighty Goose",
+    "imgId": "251",
+    "filenameBase": "251_S3"
+  },
+  {
+    "serie": 3,
+    "number": "252",
+    "name": "Mighty Goose",
+    "imgId": "252",
+    "filenameBase": "252_S3"
+  },
+  {
+    "serie": 3,
+    "number": "253",
+    "name": "River City Girls 2",
+    "imgId": "253",
+    "filenameBase": "253_S3"
+  },
+  {
+    "serie": 3,
+    "number": "254",
+    "name": "River City Girls 2",
+    "imgId": "254",
+    "filenameBase": "254_S3"
+  },
+  {
+    "serie": 3,
+    "number": "255",
+    "name": "River City Girls 2 Fan Bundle",
+    "imgId": "255",
+    "filenameBase": "255_S3"
+  },
+  {
+    "serie": 3,
+    "number": "256",
+    "name": "Valis The Fantasm Soldier Collection II",
+    "imgId": "256",
+    "filenameBase": "256_S3"
+  },
+  {
+    "serie": 3,
+    "number": "257",
+    "name": "Valis The Fantasm Soldier Collection II",
+    "imgId": "257",
+    "filenameBase": "257_S3"
+  },
+  {
+    "serie": 3,
+    "number": "258",
+    "name": "Valis The Fantasm Soldier Collection II",
+    "imgId": "258",
+    "filenameBase": "258_S3"
+  },
+  {
+    "serie": 3,
+    "number": "259",
+    "name": "Valis The Fantasm Soldier Collection II",
+    "imgId": "259",
+    "filenameBase": "259_S3"
+  },
+  {
+    "serie": 3,
+    "number": "260",
+    "name": "Valis The Fantasm Soldier Collection II",
+    "imgId": "260",
+    "filenameBase": "260_S3"
+  },
+  {
+    "serie": 3,
+    "number": "261",
+    "name": "Valis The Fantasm Soldier Collection II",
+    "imgId": "261",
+    "filenameBase": "261_S3"
+  },
+  {
+    "serie": 3,
+    "number": "262",
+    "name": "DOOM 64",
+    "imgId": "262",
+    "filenameBase": "262_S3"
+  },
+  {
+    "serie": 3,
+    "number": "263",
+    "name": "DOOM 64",
+    "imgId": "263",
+    "filenameBase": "263_S3"
+  },
+  {
+    "serie": 3,
+    "number": "264",
+    "name": "Full Throtttle Remastered",
+    "imgId": "264",
+    "filenameBase": "264_S3"
+  },
+  {
+    "serie": 3,
+    "number": "265",
+    "name": "Full Throtttle Remastered",
+    "imgId": "265",
+    "filenameBase": "265_S3"
+  },
+  {
+    "serie": 3,
+    "number": "266",
+    "name": "Konami Arcade Classics Anniversary Collection",
+    "imgId": "266",
+    "filenameBase": "266_S3"
+  },
+  {
+    "serie": 3,
+    "number": "267",
+    "name": "Konami Arcade Classics Anniversary Collection",
+    "imgId": "267",
+    "filenameBase": "267_S3"
+  },
+  {
+    "serie": 3,
+    "number": "268",
+    "name": "ANNO: Mutationem",
+    "imgId": "268",
+    "filenameBase": "268_S3"
+  },
+  {
+    "serie": 3,
+    "number": "269",
+    "name": "ANNO: Mutationem",
+    "imgId": "269",
+    "filenameBase": "269_S3"
+  },
+  {
+    "serie": 3,
+    "number": "270",
+    "name": "Outbreak: Contagious Memories",
+    "imgId": "270",
+    "filenameBase": "270_S3"
+  },
+  {
+    "serie": 3,
+    "number": "271",
+    "name": "Outbreak: Contagious Memories",
+    "imgId": "271",
+    "filenameBase": "271_S3"
+  },
+  {
+    "serie": 3,
+    "number": "272",
+    "name": "DOOM Eternal",
+    "imgId": "272",
+    "filenameBase": "272_S3"
+  },
+  {
+    "serie": 3,
+    "number": "273",
+    "name": "DOOM Eternal",
+    "imgId": "273",
+    "filenameBase": "273_S3"
+  },
+  {
+    "serie": 3,
+    "number": "274",
+    "name": "DOOM Eternal",
+    "imgId": "274",
+    "filenameBase": "274_S3"
+  },
+  {
+    "serie": 3,
+    "number": "275",
+    "name": "DOOM Eternal",
+    "imgId": "275",
+    "filenameBase": "275_S3"
+  },
+  {
+    "serie": 3,
+    "number": "276",
+    "name": "DOOM Eternal",
+    "imgId": "276",
+    "filenameBase": "276_S3"
+  },
+  {
+    "serie": 3,
+    "number": "277",
+    "name": "DOOM Eternal",
+    "imgId": "277",
+    "filenameBase": "277_S3"
+  },
+  {
+    "serie": 3,
+    "number": "278",
+    "name": "DOOM Eternal",
+    "imgId": "278",
+    "filenameBase": "278_S3"
+  },
+  {
+    "serie": 3,
+    "number": "279",
+    "name": "DOOM Eternal",
+    "imgId": "279",
+    "filenameBase": "279_S3"
+  },
+  {
+    "serie": 3,
+    "number": "280",
+    "name": "DOOM Eternal",
+    "imgId": "280",
+    "filenameBase": "280_S3"
+  },
+  {
+    "serie": 3,
+    "number": "281",
+    "name": "DOOM Eternal",
+    "imgId": "281",
+    "filenameBase": "281_S3"
+  },
+  {
+    "serie": 3,
+    "number": "282",
+    "name": "DOOM Eternal",
+    "imgId": "282",
+    "filenameBase": "282_S3"
+  },
+  {
+    "serie": 3,
+    "number": "283",
+    "name": "DOOM Eternal",
+    "imgId": "283",
+    "filenameBase": "283_S3"
+  },
+  {
+    "serie": 3,
+    "number": "284",
+    "name": "Dustwind the last Resort",
+    "imgId": "284",
+    "filenameBase": "284_S3"
+  },
+  {
+    "serie": 3,
+    "number": "285",
+    "name": "Dustwind the last Resort",
+    "imgId": "285",
+    "filenameBase": "285_S3"
+  },
+  {
+    "serie": 3,
+    "number": "286",
+    "name": "Jamestown+",
+    "imgId": "286",
+    "filenameBase": "286_S3"
+  },
+  {
+    "serie": 3,
+    "number": "287",
+    "name": "Jamestown+",
+    "imgId": "287",
+    "filenameBase": "287_S3"
+  },
+  {
+    "serie": 3,
+    "number": "288",
+    "name": "Tempest 4000",
+    "imgId": "288",
+    "filenameBase": "288_S3"
+  },
+  {
+    "serie": 3,
+    "number": "289",
+    "name": "Tempest 4000",
+    "imgId": "289",
+    "filenameBase": "289_S3"
+  },
+  {
+    "serie": 3,
+    "number": "290",
+    "name": "Atari Recharged Collection I",
+    "imgId": "290",
+    "filenameBase": "290_S3"
+  },
+  {
+    "serie": 3,
+    "number": "291",
+    "name": "Atari Recharged Collection I",
+    "imgId": "291",
+    "filenameBase": "291_S3"
+  },
+  {
+    "serie": 3,
+    "number": "292",
+    "name": "Atari Recharged Collection II",
+    "imgId": "292",
+    "filenameBase": "292_S3"
+  },
+  {
+    "serie": 3,
+    "number": "293",
+    "name": "Atari Recharged Collection II",
+    "imgId": "293",
+    "filenameBase": "293_S3"
+  },
+  {
+    "serie": 3,
+    "number": "294",
+    "name": "Grim Fandango Remastered",
+    "imgId": "294",
+    "filenameBase": "294_S3"
+  },
+  {
+    "serie": 3,
+    "number": "295",
+    "name": "Grim Fandango Remastered",
+    "imgId": "295",
+    "filenameBase": "295_S3"
+  },
+  {
+    "serie": 3,
+    "number": "296",
+    "name": "Who Pressed Mute on Uncle Marcus?",
+    "imgId": "296",
+    "filenameBase": "296_S3"
+  },
+  {
+    "serie": 3,
+    "number": "297",
+    "name": "Who Pressed Mute on Uncle Marcus?",
+    "imgId": "297",
+    "filenameBase": "297_S3"
+  },
+  {
+    "serie": 3,
+    "number": "298",
+    "name": "Night in the Woods",
+    "imgId": "298",
+    "filenameBase": "298_S3"
+  },
+  {
+    "serie": 3,
+    "number": "299",
+    "name": "Night in the Woods",
+    "imgId": "299",
+    "filenameBase": "299_S3"
+  },
+  {
+    "serie": 3,
+    "number": "300",
+    "name": "LRG Autograph Card",
+    "imgId": "300",
+    "filenameBase": "300_S3"
+  },
+  {
+    "serie": 3,
+    "number": "301",
+    "name": "Worms Armageddon",
+    "imgId": "301",
+    "filenameBase": "301_S3"
+  },
+  {
+    "serie": 3,
+    "number": "302",
+    "name": "Worms Armageddon",
+    "imgId": "302",
+    "filenameBase": "302_S3"
+  },
+  {
+    "serie": 3,
+    "number": "303",
+    "name": "RWBY: Arrowfell",
+    "imgId": "303",
+    "filenameBase": "303_S3"
+  },
+  {
+    "serie": 3,
+    "number": "304",
+    "name": "RWBY: Arrowfell",
+    "imgId": "304",
+    "filenameBase": "304_S3"
+  },
+  {
+    "serie": 3,
+    "number": "305",
+    "name": "RWBY: Arrowfell",
+    "imgId": "305",
+    "filenameBase": "305_S3"
+  },
+  {
+    "serie": 3,
+    "number": "306",
+    "name": "RWBY: Arrowfell",
+    "imgId": "306",
+    "filenameBase": "306_S3"
+  },
+  {
+    "serie": 3,
+    "number": "307",
+    "name": "Spidersaurus",
+    "imgId": "307",
+    "filenameBase": "307_S3"
+  },
+  {
+    "serie": 3,
+    "number": "308",
+    "name": "Spidersaurus",
+    "imgId": "308",
+    "filenameBase": "308_S3"
+  },
+  {
+    "serie": 3,
+    "number": "309",
+    "name": "Ara Fell & Rise Of The Third Power",
+    "imgId": "309",
+    "filenameBase": "309_S3"
+  },
+  {
+    "serie": 3,
+    "number": "310",
+    "name": "Ara Fell & Rise Of The Third Power",
+    "imgId": "310",
+    "filenameBase": "310_S3"
+  },
+  {
+    "serie": 3,
+    "number": "311",
+    "name": "RWBY: Arrowfell",
+    "imgId": "311",
+    "filenameBase": "311_S3"
+  },
+  {
+    "serie": 3,
+    "number": "312",
+    "name": "RWBY: Arrowfell",
+    "imgId": "312",
+    "filenameBase": "312_S3"
+  },
+  {
+    "serie": 3,
+    "number": "313",
+    "name": "Akka Arrh",
+    "imgId": "313",
+    "filenameBase": "313_S3"
+  },
+  {
+    "serie": 3,
+    "number": "314",
+    "name": "Akka Arrh",
+    "imgId": "314",
+    "filenameBase": "314_S3"
+  },
+  {
+    "serie": 3,
+    "number": "315",
+    "name": "Bloodroots",
+    "imgId": "315",
+    "filenameBase": "315_S3"
+  },
+  {
+    "serie": 3,
+    "number": "316",
+    "name": "Bloodroots",
+    "imgId": "316",
+    "filenameBase": "316_S3"
+  },
+  {
+    "serie": 3,
+    "number": "317",
+    "name": "Ocean's Heart",
+    "imgId": "317",
+    "filenameBase": "317_S3"
+  },
+  {
+    "serie": 3,
+    "number": "318",
+    "name": "Ocean's Heart",
+    "imgId": "318",
+    "filenameBase": "318_S3"
+  },
+  {
+    "serie": 3,
+    "number": "319",
+    "name": "Skelattack",
+    "imgId": "319",
+    "filenameBase": "319_S3"
+  },
+  {
+    "serie": 3,
+    "number": "320",
+    "name": "Skelattack",
+    "imgId": "320",
+    "filenameBase": "320_S3"
+  },
+  {
+    "serie": 3,
+    "number": "321",
+    "name": "Steelassault",
+    "imgId": "321",
+    "filenameBase": "321_S3"
+  },
+  {
+    "serie": 3,
+    "number": "322",
+    "name": "Steelassault",
+    "imgId": "322",
+    "filenameBase": "322_S3"
+  },
+  {
+    "serie": 3,
+    "number": "323",
+    "name": "Xtreme Sports",
+    "imgId": "323",
+    "filenameBase": "323_S3"
+  },
+  {
+    "serie": 3,
+    "number": "324",
+    "name": "Xtreme Sports",
+    "imgId": "324",
+    "filenameBase": "324_S3"
+  },
+  {
+    "serie": 3,
+    "number": "325",
+    "name": "A Boy And His Blob: Retro Collection",
+    "imgId": "325",
+    "filenameBase": "325_S3"
+  },
+  {
+    "serie": 3,
+    "number": "326",
+    "name": "A Boy And His Blob: Retro Collection",
+    "imgId": "326",
+    "filenameBase": "326_S3"
+  },
+  {
+    "serie": 3,
+    "number": "327",
+    "name": "Powerslave Exhumed",
+    "imgId": "327",
+    "filenameBase": "327_S3"
+  },
+  {
+    "serie": 3,
+    "number": "328",
+    "name": "Powerslave Exhumed",
+    "imgId": "328",
+    "filenameBase": "328_S3"
+  },
+  {
+    "serie": 3,
+    "number": "329",
+    "name": "Doodle World: Redrawn(???)",
+    "imgId": "329",
+    "filenameBase": "329_S3"
+  },
+  {
+    "serie": 3,
+    "number": "330",
+    "name": "Doodle World: Redrawn(???)",
+    "imgId": "330",
+    "filenameBase": "330_S3"
+  },
+  {
+    "serie": 3,
+    "number": "331",
+    "name": "Mighty Fight Federation",
+    "imgId": "331",
+    "filenameBase": "331_S3"
+  },
+  {
+    "serie": 3,
+    "number": "332",
+    "name": "Mighty Fight Federation",
+    "imgId": "332",
+    "filenameBase": "332_S3"
+  },
+  {
+    "serie": 3,
+    "number": "333",
+    "name": "Melon Journey",
+    "imgId": "333",
+    "filenameBase": "333_S3"
+  },
+  {
+    "serie": 3,
+    "number": "334",
+    "name": "Melon Journey",
+    "imgId": "334",
+    "filenameBase": "334_S3"
+  },
+  {
+    "serie": 3,
+    "number": "335",
+    "name": "LOOM",
+    "imgId": "335",
+    "filenameBase": "335_S3"
+  },
+  {
+    "serie": 3,
+    "number": "336",
+    "name": "LOOM",
+    "imgId": "336",
+    "filenameBase": "336_S3"
+  },
+  {
+    "serie": 3,
+    "number": "337",
+    "name": "Maniac Mansion",
+    "imgId": "337",
+    "filenameBase": "337_S3"
+  },
+  {
+    "serie": 3,
+    "number": "338",
+    "name": "Maniac Mansion",
+    "imgId": "338",
+    "filenameBase": "338_S3"
+  },
+  {
+    "serie": 3,
+    "number": "339",
+    "name": "The Sorrowvirus - A Faceless Short",
+    "imgId": "339",
+    "filenameBase": "339_S3"
+  },
+  {
+    "serie": 3,
+    "number": "340",
+    "name": "The Sorrowvirus - A Faceless Short",
+    "imgId": "340",
+    "filenameBase": "340_S3"
+  },
+  {
+    "serie": 3,
+    "number": "341",
+    "name": "Lunark",
+    "imgId": "341",
+    "filenameBase": "341_S3"
+  },
+  {
+    "serie": 3,
+    "number": "342",
+    "name": "Lunark",
+    "imgId": "342",
+    "filenameBase": "342_S3"
+  },
+  {
+    "serie": 3,
+    "number": "343",
+    "name": "Kung Fury: Street Rage - Ultimate Edition",
+    "imgId": "343",
+    "filenameBase": "343_S3"
+  },
+  {
+    "serie": 3,
+    "number": "344",
+    "name": "Kung Fury: Street Rage - Ultimate Edition",
+    "imgId": "344",
+    "filenameBase": "344_S3"
+  },
+  {
+    "serie": 3,
+    "number": "345",
+    "name": "Zak McKracken and the Alien Mindbenders",
+    "imgId": "345",
+    "filenameBase": "345_S3"
+  },
+  {
+    "serie": 3,
+    "number": "346",
+    "name": "Zak McKracken and the Alien Mindbenders",
+    "imgId": "346",
+    "filenameBase": "346_S3"
+  },
+  {
+    "serie": 3,
+    "number": "347",
+    "name": "Shredders",
+    "imgId": "347",
+    "filenameBase": "347_S3"
+  },
+  {
+    "serie": 3,
+    "number": "348",
+    "name": "Shredders",
+    "imgId": "348",
+    "filenameBase": "348_S3"
+  },
+  {
+    "serie": 3,
+    "number": "349",
+    "name": "D: THE GAME",
+    "imgId": "349",
+    "filenameBase": "349_S3"
+  },
+  {
+    "serie": 3,
+    "number": "350",
+    "name": "D: THE GAME",
+    "imgId": "350",
+    "filenameBase": "350_S3"
+  },
+  {
+    "serie": 3,
+    "number": "351",
+    "name": "Deathwish Enforcers",
+    "imgId": "351",
+    "filenameBase": "351_S3"
+  },
+  {
+    "serie": 3,
+    "number": "352",
+    "name": "Deathwish Enforcers",
+    "imgId": "352",
+    "filenameBase": "352_S3"
+  },
+  {
+    "serie": "C",
+    "number": "71",
+    "name": "Ghost Blade HD",
+    "imgId": "071",
+    "filenameBase": "629_S1",
+    "description": "Action game with combat and challenges."
+  },
+  {
+    "serie": "C",
+    "number": "72",
+    "name": "Ghost Blade HD",
+    "imgId": "072",
+    "filenameBase": "630_S1",
+    "description": "Action game with combat and challenges."
+  },
+  {
+    "serie": "C",
+    "number": "110",
+    "name": "Unreleased Game",
+    "imgId": "110",
+    "filenameBase": "110_SC",
+    "description": "Female astronaut artwork for a Limited Run title that was never released."
+  },
+  {
+    "serie": "C",
+    "number": "111",
+    "name": "Unreleased Game",
+    "imgId": "111",
+    "filenameBase": "111_SC",
+    "description": "Female astronaut artwork for a Limited Run title that was never released."
+  },
+  {
+    "serie": "C",
+    "number": "162",
+    "name": "Ultratron",
+    "imgId": "162",
+    "filenameBase": "162_SC",
+    "description": "Fast Robotron-style arena shooter: last battle droid vs killer robot hordes."
+  },
+  {
+    "serie": "C",
+    "number": "163",
+    "name": "Ultratron",
+    "imgId": "163",
+    "filenameBase": "163_SC",
+    "description": "Fast Robotron-style arena shooter: last battle droid vs killer robot hordes."
+  },
+  {
+    "serie": "C",
+    "number": "164",
+    "name": "Titan Attacks!",
+    "imgId": "164",
+    "filenameBase": "164_SC",
+    "description": "Retro Space Invaders-style shmup with mothership bosses across the solar system."
+  },
+  {
+    "serie": "C",
+    "number": "165",
+    "name": "Titan Attacks!",
+    "imgId": "165",
+    "filenameBase": "165_SC",
+    "description": "Retro Space Invaders-style shmup with mothership bosses across the solar system."
+  },
+  {
+    "serie": "C",
+    "number": "142",
+    "name": "Shantae and the Seven Sirens",
+    "imgId": "142",
+    "filenameBase": "142_SC",
+    "description": "Half-genie Shantae explores Paradise Island to rescue friends from seven sirens."
+  },
+  {
+    "serie": "C",
+    "number": "119",
+    "name": "Transcripted",
+    "imgId": "119",
+    "filenameBase": "119_SC",
+    "description": "Twin-stick shooter set inside a computer system fighting digital threats."
+  },
+  {
+    "serie": "C",
+    "number": "120",
+    "name": "Transcripted",
+    "imgId": "120",
+    "filenameBase": "120_SC",
+    "description": "Twin-stick shooter set inside a computer system fighting digital threats."
+  }
+]

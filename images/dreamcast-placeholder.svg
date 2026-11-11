@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 710 1000" width="710" height="1000">
+  <defs>
+    <linearGradient id="swirl" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff9a00"/>
+      <stop offset=".55" stop-color="#ff3b00"/>
+      <stop offset="1" stop-color="#b30000"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".7" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f4f4f6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="710" height="1000" fill="url(#bg)"/>
+
+  <!-- Stylised Dreamcast swirl -->
+  <g transform="translate(355 372)">
+    <path d="M 0 0
+             C 55 0 95 38 95 90
+             C 95 152 45 195 -20 195
+             C -95 195 -150 138 -150 60
+             C -150 -30 -85 -105 5 -105
+             C 105 -105 185 -30 185 70"
+          fill="none" stroke="url(#swirl)" stroke-width="44"
+          stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="355" y="700" text-anchor="middle"
+        font-family="'Arial Black','Helvetica Neue',Arial,sans-serif"
+        font-size="92" font-weight="900" fill="#1b1b1f" letter-spacing="-2">Dreamcast</text>
+
+  <text x="355" y="752" text-anchor="middle"
+        font-family="'Helvetica Neue',Arial,sans-serif"
+        font-size="21" letter-spacing="7" fill="#9a9aa4">GENERIC IMAGE</text>
+</svg>
