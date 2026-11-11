@@ -432,13 +432,14 @@ main{
   display:flex;
   flex-direction:column;
   background:var(--panel);
-  /* Thin fixed pink frame; selection adds a thick metallic ring outside */
-  border:1.5px solid var(--pink);
+  /* Thin black frame by default; pink while selecting; metallic ring marks selection */
+  border:1.5px solid #15151b;
   border-radius:0;
   overflow:hidden;
   cursor:pointer;
   transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease;
 }
+body.select-mode .card{ border-color:var(--pink); }
 .card:hover{
   transform:translateY(-4px);
   box-shadow:var(--shadow);
