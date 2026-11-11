@@ -219,8 +219,8 @@ main{
   background:var(--panel);
   color:var(--pink-deep);
   font-weight:800;
-  font-size:13.5px;
-  padding:9px 20px;
+  font-size:12px;
+  padding:6px 12px;
   border-radius:999px;
   cursor:pointer;
   transition:background .15s ease,color .15s ease,border-color .15s ease,transform .1s ease;
