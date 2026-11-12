@@ -310,7 +310,7 @@
     return s === '1' ? 1 : s === '2' ? 2 : s === '3' ? 3 : s === 'Dreamcast' ? 4 : 99;
   }
   function finishOrder(f) {
-    return f === 'gold' ? 0 : f === 'silver' ? 1 : 2;
+    return f === 'silver' ? 0 : f === 'gold' ? 1 : 2;
   }
   function serieLabel(s) {
     s = String(s);

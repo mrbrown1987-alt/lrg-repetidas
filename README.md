@@ -8,7 +8,7 @@ Web estática (HTML/CSS/JS, sin build ni dependencias) con un **catálogo solo d
   - Serie 1: 318 · Serie 2: 254 · Serie 3: 139 · **Dreamcast: 115**.
 - **Una entrada por carta y acabado**: si una carta existe en oro y plata, aparecen las dos; si hay varias unidades del mismo color, solo una.
 - **Título y marco negros** por defecto; al seleccionar una carta se añade un **anillo metálico** plateado o dorado según el acabado, con globo **GOLD/SILVER**. Las Dreamcast llevan imagen genérica (logo sobre fondo blanco) y globo DREAMCAST hasta que hagas las fotos.
-- **Globo de precio** arriba a la derecha de cada carta: precio final en **$**, convertido desde € (×1,10) y redondeado hacia arriba a múltiplos de 5. Las **doradas** llevan recargo por rareza: **+5 $ common, +10 $ uncommon, +15 $ rare, +25 $ ultra rare**.
+- **Globo de precio** arriba a la derecha de cada carta: precio final en **$**, convertido desde € (×1,10) y redondeado hacia arriba a múltiplos de 5. Las **doradas** llevan recargo en € sobre el base: **+5 € common, +10 € uncommon, +15 € rare, +100 € ultra rare**.
 - **Tema**: catálogo normal en negro/gris, con las pestañas de serie en rosa; el modo **Seleccionar cartas** y la vista **Selected** recuperan el rosa.
 - **Orientación**: TC Manager marca 400 cartas apaisadas en `orientation.js`; 197 están en esta lista. El zoom las gira (`cw`/`ccw`) y las muestra en horizontal; el catálogo las mantiene verticales, como la app original.
 - **Filtros**: serie (Todas / Serie 1 / 2 / 3 / **Dreamcast**), acabado (Todos / Oro / Plata), buscador y columnas.
