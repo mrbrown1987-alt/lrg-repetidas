@@ -298,6 +298,7 @@
   var emailBusy = false;
   var selectionMode = false;
   var lbIndex = -1;
+  var lbList = null;
   var toastTimer = null;
   var confirmAction = null;
 
@@ -539,7 +540,7 @@
     openLightbox(key);
   }
 
-  function cardHTML(c) {
+  function cardHTML(c, withToggle) {
     var sel = isSelected(c.key);
     var finishClass = c.finish === 'gold' ? 'finish-gold' : c.finish === 'silver' ? 'finish-silver' : 'finish-dreamcast';
     var badgeClass = c.finish === 'gold' ? 'gold' : c.finish === 'silver' ? 'silver' : 'none';
@@ -553,6 +554,7 @@
         priceBadge = '<span class="price-badge">' + priceTxt + '</span>';
       }
     }
+    var toggle = withToggle ? '<button type="button" class="card-toggle is-on" data-toggle="' + esc(c.key) + '" aria-label="Remove">×</button>' : '';
     var numLabel = displayNumber(c);
     return (
       '<article class="card ' + finishClass + (sel ? ' is-selected' : '') + '" data-key="' + esc(c.key) + '" tabindex="0" role="button" aria-label="' + esc(c.name + ' ' + numLabel + ' ' + finishLabel(c.finish)) + '">' +
@@ -562,6 +564,7 @@
           '<div class="card-placeholder" hidden><div class="cb-inner"><span class="cb-mark">LRG</span><small>' + esc(t('noImage')) + '</small></div></div>' +
           badge +
           priceBadge +
+          toggle +
         '</div>' +
       '</article>'
     );
@@ -576,7 +579,7 @@
     var start = (page - 1) * PAGE_SIZE;
     var slice = catalogList.slice(start, start + PAGE_SIZE);
 
-    cardGrid.innerHTML = slice.map(cardHTML).join('');
+    cardGrid.innerHTML = slice.map(function (c) { return cardHTML(c); }).join('');
     attachImageLoaders(cardGrid);
 
     emptyState.hidden = total !== 0;
@@ -605,14 +608,16 @@
     if (selectModeLabel) selectModeLabel.textContent = t(selectionMode ? 'doneSelecting' : 'selectCards');
   }
 
-  function openLightbox(key) {
+  function openLightbox(key, list) {
+    var src = list || catalogList;
     var idx = -1;
-    for (var i = 0; i < catalogList.length; i++) {
-      if (catalogList[i].key === key) { idx = i; break; }
+    for (var i = 0; i < src.length; i++) {
+      if (src[i].key === key) { idx = i; break; }
     }
     if (idx < 0) return;
+    lbList = list || null;
     lbIndex = idx;
-    showLightboxCard(catalogList[idx]);
+    showLightboxCard(src[idx]);
     lightbox.hidden = false;
     document.body.classList.add('lb-open');
     lbClose.focus();
@@ -648,11 +653,13 @@
     lightbox.hidden = true;
     document.body.classList.remove('lb-open');
     lbIndex = -1;
+    lbList = null;
   }
   function lbStep(delta) {
-    if (!catalogList.length || lbIndex < 0) return;
-    lbIndex = (lbIndex + delta + catalogList.length) % catalogList.length;
-    showLightboxCard(catalogList[lbIndex]);
+    var list = lbList || catalogList;
+    if (!list.length || lbIndex < 0) return;
+    lbIndex = (lbIndex + delta + list.length) % list.length;
+    showLightboxCard(list[lbIndex]);
   }
 
   function pageNumbers(cur, total) {
@@ -737,7 +744,7 @@
     cartList = getCartInOrder();
     var n = cartList.length;
     selectedTotal.textContent = fmtNum(n);
-    selectedGrid.innerHTML = cartList.map(cardHTML).join('');
+    selectedGrid.innerHTML = cartList.map(function (c) { return cardHTML(c, true); }).join('');
     attachImageLoaders(selectedGrid);
     selectedEmpty.hidden = n > 0;
     selectedGrid.hidden = n === 0;
@@ -1185,16 +1192,20 @@
       var cardEl = e.target.closest('.card');
       if (!cardEl) return;
       e.preventDefault();
-      toggleSelected(cardEl.getAttribute('data-key'));
-      renderSelected();
+      if (e.target.closest('.card-toggle')) {
+        toggleSelected(cardEl.getAttribute('data-key'));
+        renderSelected();
+        return;
+      }
+      openLightbox(cardEl.getAttribute('data-key'), cartList);
     });
     selectedGrid.addEventListener('keydown', function (e) {
       if (e.key !== 'Enter' && e.key !== ' ') return;
       var cardEl = e.target.closest('.card');
       if (!cardEl) return;
+      if (e.target.closest('.card-toggle')) return;
       e.preventDefault();
-      toggleSelected(cardEl.getAttribute('data-key'));
-      renderSelected();
+      openLightbox(cardEl.getAttribute('data-key'), cartList);
     });
 
     selectPageBtn.addEventListener('click', function () {
