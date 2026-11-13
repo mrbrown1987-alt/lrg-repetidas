@@ -41,6 +41,9 @@
       finishDreamcast: 'Dreamcast',
       selectCards: 'Select cards',
       doneSelecting: 'Done selecting',
+      selectSelected: 'Select',
+      cancelSelect: 'Cancel',
+      removeSelected: 'Remove selected',
       nSelected: '{n} selected',
       selectPage: 'Select page',
       clear: 'Clear',
@@ -122,6 +125,9 @@
       finishDreamcast: 'Dreamcast',
       selectCards: 'Seleccionar cartas',
       doneSelecting: 'Listo',
+      selectSelected: 'Seleccionar',
+      cancelSelect: 'Cancelar',
+      removeSelected: 'Quitar seleccionadas',
       nSelected: '{n} seleccionadas',
       selectPage: 'Seleccionar página',
       clear: 'Vaciar',
@@ -230,6 +236,8 @@
   var requestPricesBtn = $('requestPricesBtn');
   var exportCsvBtn = $('exportCsvBtn');
   var clearSelectedBtn = $('clearSelectedBtn');
+  var selectedPickBtn = $('selectedPickBtn');
+  var selectedRemoveBtn = $('selectedRemoveBtn');
   var backToCatalog = $('backToCatalog');
   var selectedEmpty = $('selectedEmpty');
   var emptySelTitle = $('emptySelTitle');
@@ -773,12 +781,52 @@
     selectBarCount.textContent = t('nSelected', { n: fmtNum(n) });
   }
 
+  /* ---------------- selected-view pick mode ---------------- */
+  var pickMode = false;
+  var pickMarks = {};
+  function updatePickUI() {
+    if (selectedPickBtn) {
+      selectedPickBtn.textContent = t(pickMode ? 'cancelSelect' : 'selectSelected');
+      selectedPickBtn.setAttribute('aria-pressed', pickMode ? 'true' : 'false');
+    }
+    if (selectedRemoveBtn) {
+      var n = Object.keys(pickMarks).length;
+      selectedRemoveBtn.hidden = !pickMode;
+      selectedRemoveBtn.textContent = t('removeSelected') + (n ? ' (' + n + ')' : '');
+      selectedRemoveBtn.disabled = n === 0;
+    }
+  }
+  function setPickMode(on) {
+    pickMode = !!on;
+    pickMarks = {};
+    if (selectedGrid) {
+      selectedGrid.querySelectorAll('.card.is-marked').forEach(function (el) { el.classList.remove('is-marked'); });
+    }
+    document.body.classList.toggle('selected-pick', pickMode);
+    updatePickUI();
+  }
+  function toggleMark(key, el) {
+    if (pickMarks[key]) delete pickMarks[key];
+    else pickMarks[key] = 1;
+    if (el) el.classList.toggle('is-marked', !!pickMarks[key]);
+    updatePickUI();
+  }
+  function removeMarked() {
+    var keys = Object.keys(pickMarks);
+    if (!keys.length) return;
+    keys.forEach(function (k) { toggleSelected(k); });
+    pickMarks = {};
+    setPickMode(false);
+    renderSelected();
+  }
+
   /* ---------------- navigation ---------------- */
   function goToView(v, updateHash) {
     if (v !== 'catalog') {
       setSelectionMode(false);
       if (!lightbox.hidden) closeLightbox();
     }
+    setPickMode(false);
     view = v;
     document.body.classList.toggle('selected-mode', v === 'selected');
     catalogView.hidden = v !== 'catalog';
@@ -1014,6 +1062,7 @@
     requestPricesBtn.textContent = t('requestPrices');
     exportCsvBtn.textContent = t('exportCsv');
     clearSelectedBtn.textContent = t('clearAll');
+    updatePickUI();
     backToCatalog.textContent = t('backToCatalog');
     emptySelTitle.textContent = t('emptySelTitle');
     emptySelText.textContent = t('emptySelText');
@@ -1213,17 +1262,27 @@
       var cardEl = e.target.closest('.card');
       if (!cardEl) return;
       e.preventDefault();
+      var key = cardEl.getAttribute('data-key');
+      if (pickMode) {
+        toggleMark(key, cardEl);
+        return;
+      }
       if (e.target.closest('.card-toggle')) {
-        toggleSelected(cardEl.getAttribute('data-key'));
+        toggleSelected(key);
         renderSelected();
         return;
       }
-      openLightbox(cardEl.getAttribute('data-key'), cartList);
+      openLightbox(key, cartList);
     });
     selectedGrid.addEventListener('keydown', function (e) {
       if (e.key !== 'Enter' && e.key !== ' ') return;
       var cardEl = e.target.closest('.card');
       if (!cardEl) return;
+      if (pickMode) {
+        e.preventDefault();
+        toggleMark(cardEl.getAttribute('data-key'), cardEl);
+        return;
+      }
       if (e.target.closest('.card-toggle')) return;
       e.preventDefault();
       openLightbox(cardEl.getAttribute('data-key'), cartList);
@@ -1259,6 +1318,12 @@
         showToast(t('cleared'));
       });
     });
+    if (selectedPickBtn) {
+      selectedPickBtn.addEventListener('click', function () { setPickMode(!pickMode); });
+    }
+    if (selectedRemoveBtn) {
+      selectedRemoveBtn.addEventListener('click', function () { removeMarked(); });
+    }
 
     document.addEventListener('keydown', function (e) {
       if (e.key === 'Escape') {

@@ -666,6 +666,10 @@ body.select-mode .card{ border-color:var(--pink); }
 body.select-mode .card-toggle{ opacity:1; transform:none; }
 .card-toggle:hover{ background:var(--pink-deep); }
 .card-toggle.is-on{ background:var(--pink-deep); border-color:#fff; }
+.card.is-marked{
+  box-shadow:0 0 0 3px #ff5b5b, 0 0 0 6px #a51d1d !important;
+}
+#selectedRemoveBtn:disabled{ opacity:.5; cursor:not-allowed; }
 
 /* ---------------- card title bars ---------------- */
 .card-name-bar{
