@@ -776,7 +776,7 @@
   function updateCatalogTotal() {
     if (!catalogTotal || !catalogTotalPrice) return;
     var t = cartTotals();
-    catalogTotal.hidden = t.n === 0;
+    catalogTotal.hidden = false;
     catalogTotalPrice.innerHTML = totalHTML(t);
   }
 
@@ -1402,6 +1402,7 @@
     loadLang();
     loadCart();
     buildCards();
+    updateSummary();
     if (location.search.indexOf('preview=iphone') !== -1) {
       document.body.classList.add('iphone-preview');
     }
