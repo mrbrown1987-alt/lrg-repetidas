@@ -609,6 +609,7 @@ body.select-mode .card-toggle{ opacity:1; transform:none; }
 }
 .card-name{
   margin:0;
+  padding:0 max(36px,12cqw);
   font-size:max(11.5px,4.4cqw);
   font-weight:800;
   line-height:1.2;
@@ -619,10 +620,15 @@ body.select-mode .card-toggle{ opacity:1; transform:none; }
   text-overflow:ellipsis;
 }
 .card-name-num{
+  position:absolute;
+  left:max(8px,3.1cqw);
+  top:50%;
+  transform:translateY(-50%);
   font-family:var(--font-mono);
   font-weight:700;
   font-size:max(10px,3.8cqw);
   opacity:.85;
+  pointer-events:none;
 }
 
 /* Gold: brushed metallic */

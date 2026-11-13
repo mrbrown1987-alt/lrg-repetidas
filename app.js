@@ -491,7 +491,7 @@
     var numLabel = displayNumber(c);
     return (
       '<article class="card ' + finishClass + (sel ? ' is-selected' : '') + '" data-key="' + esc(c.key) + '" tabindex="0" role="button" aria-label="' + esc(c.name + ' ' + numLabel + ' ' + finishLabel(c.finish)) + '">' +
-        '<div class="card-name-bar"><p class="card-name"><span class="card-name-num">' + esc(numLabel) + '</span> ' + esc(c.name) + '</p></div>' +
+        '<div class="card-name-bar"><span class="card-name-num">' + esc(numLabel) + '</span><p class="card-name">' + esc(c.name) + '</p></div>' +
         '<div class="card-media">' +
           '<img loading="lazy" alt="" data-file="' + esc(c.file) + '">' +
           '<div class="card-placeholder" hidden><div class="cb-inner"><span class="cb-mark">LRG</span><small>' + esc(t('noImage')) + '</small></div></div>' +
