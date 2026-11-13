@@ -206,6 +206,8 @@
   var seriesTabs = $('seriesTabs');
   var finishFilter = $('finishFilter');
   var searchInput = $('searchInput');
+  var searchBox = $('searchBox');
+  var searchSuggest = $('searchSuggest');
   var searchClear = $('searchClear');
   var colsToggle = $('colsToggle');
   var resultsSummary = $('resultsSummary');
@@ -472,6 +474,69 @@
     });
     list.sort(cmpNumber);
     return list;
+  }
+
+  /* ---------------- search suggestions ---------------- */
+  var suggestIndex = -1;
+  var SUGGEST_MAX = 10;
+  function searchMatches() {
+    var q = searchInput.value.trim().toLowerCase();
+    if (!q) return [];
+    var s = activeSerie;
+    var f = activeFinish;
+    return cards.filter(function (c) {
+      if (s !== 'all' && c.serie !== s) return false;
+      if (f !== 'all' && c.finish !== f) return false;
+      var hay = (c.name + ' ' + c.number + ' ' + serieLabel(c.serie) + ' ' + finishLabel(c.finish) + ' ' + (c.rarity || '')).toLowerCase();
+      return hay.indexOf(q) !== -1;
+    }).sort(cmpNumber);
+  }
+  function hideSuggest() {
+    if (!searchSuggest) return;
+    searchSuggest.hidden = true;
+    searchSuggest.innerHTML = '';
+    suggestIndex = -1;
+    if (searchInput) searchInput.setAttribute('aria-expanded', 'false');
+  }
+  function renderSuggestions() {
+    if (!searchSuggest) return;
+    var q = searchInput.value.trim();
+    if (!q) { hideSuggest(); return; }
+    var list = searchMatches();
+    if (!list.length) { hideSuggest(); return; }
+    var slice = list.slice(0, SUGGEST_MAX);
+    var html = slice.map(function (c) {
+      var fin = c.finish === 'gold' ? 'gold' : c.finish === 'silver' ? 'silver' : 'none';
+      var price = (c.price != null) ? '$' + fmtPrice(c.price) : '';
+      return '<button type="button" class="s-item" role="option" data-key="' + esc(c.key) + '">' +
+        '<span class="s-num">' + esc(displayNumber(c)) + '</span>' +
+        '<span class="s-name">' + esc(c.name) + '</span>' +
+        '<span class="s-fin ' + fin + '">' + esc(finishLabel(c.finish)) + '</span>' +
+        (price ? '<span class="s-price">' + esc(price) + '</span>' : '') +
+      '</button>';
+    }).join('');
+    if (list.length > SUGGEST_MAX) {
+      html += '<div class="s-more">+' + (list.length - SUGGEST_MAX) + ' más en el grid</div>';
+    }
+    searchSuggest.innerHTML = html;
+    searchSuggest.hidden = false;
+    suggestIndex = -1;
+    searchInput.setAttribute('aria-expanded', 'true');
+  }
+  function moveSuggest(dir) {
+    if (!searchSuggest || searchSuggest.hidden) return;
+    var items = searchSuggest.querySelectorAll('.s-item');
+    if (!items.length) return;
+    if (suggestIndex >= 0 && items[suggestIndex]) items[suggestIndex].classList.remove('active');
+    suggestIndex = (suggestIndex + dir + items.length) % items.length;
+    items[suggestIndex].classList.add('active');
+    items[suggestIndex].scrollIntoView({ block: 'nearest' });
+  }
+  function openSuggest(key) {
+    hideSuggest();
+    page = 1;
+    renderCatalog();
+    openLightbox(key);
   }
 
   function cardHTML(c) {
@@ -1000,18 +1065,59 @@
     var searchTimer = null;
     searchInput.addEventListener('input', function () {
       searchClear.hidden = !searchInput.value;
+      renderSuggestions();
       clearTimeout(searchTimer);
       searchTimer = setTimeout(function () { page = 1; renderCatalog(); }, 120);
     });
     searchInput.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape') { searchInput.value = ''; searchClear.hidden = true; page = 1; renderCatalog(); }
+      if (e.key === 'Escape') {
+        hideSuggest();
+        searchInput.value = '';
+        searchClear.hidden = true;
+        page = 1;
+        renderCatalog();
+        return;
+      }
+      if (e.key === 'ArrowDown') {
+        if (searchSuggest && searchSuggest.hidden) renderSuggestions();
+        e.preventDefault();
+        moveSuggest(1);
+        return;
+      }
+      if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        moveSuggest(-1);
+        return;
+      }
+      if (e.key === 'Enter') {
+        if (searchSuggest && !searchSuggest.hidden) {
+          var items = searchSuggest.querySelectorAll('.s-item');
+          var target = suggestIndex >= 0 ? items[suggestIndex] : items[0];
+          if (target) {
+            e.preventDefault();
+            openSuggest(target.getAttribute('data-key'));
+          }
+        }
+      }
     });
     searchClear.addEventListener('click', function () {
       searchInput.value = '';
       searchClear.hidden = true;
+      hideSuggest();
       page = 1;
       renderCatalog();
       searchInput.focus();
+    });
+    if (searchSuggest) {
+      searchSuggest.addEventListener('mousedown', function (e) { e.preventDefault(); });
+      searchSuggest.addEventListener('click', function (e) {
+        var item = e.target.closest('.s-item');
+        if (!item) return;
+        openSuggest(item.getAttribute('data-key'));
+      });
+    }
+    document.addEventListener('click', function (e) {
+      if (searchBox && !searchBox.contains(e.target)) hideSuggest();
     });
 
     colsToggle.addEventListener('click', function (e) {
