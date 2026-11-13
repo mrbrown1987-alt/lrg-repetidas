@@ -971,11 +971,11 @@ body.select-mode .card .card-media::after{
   color:var(--ink);
 }
 .selected-title #selectedPickBtn{
-  margin-left:10px;
+  margin-left:12px;
   vertical-align:middle;
-  padding:7px 13px;
-  font-size:12px;
-  border-radius:9px;
+  padding:10px 20px;
+  font-size:14px;
+  border-radius:10px;
 }
 body.selected-mode .total-label{ color:#c9a8bd; }
 body.selected-mode .total-price b{ color:#fff; }
