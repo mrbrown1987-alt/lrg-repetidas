@@ -556,6 +556,18 @@ body.select-mode .card{ border-color:var(--pink); }
   border:1px solid rgba(255,255,255,.65);
   box-shadow:0 2px 6px rgba(0,0,0,.3);
   pointer-events:none;
+  white-space:nowrap;
+}
+.price-badge s{
+  opacity:.55;
+  margin-right:1px;
+  font-weight:600;
+}
+.price-off{
+  color:var(--brand-pink);
+  font-weight:800;
+  font-size:9px;
+  margin-left:2px;
 }
 
 .card-toggle{

@@ -322,6 +322,11 @@
   function displayNumber(c) {
     return /^\d+$/.test(String(c.number)) ? '#' + c.number : String(c.number);
   }
+  function fmtPrice(n) {
+    n = Number(n);
+    if (!isFinite(n)) return '';
+    return (n % 1 === 0) ? String(n) : n.toFixed(2);
+  }
   function numKey(n) {
     n = String(n);
     return /^\d+$/.test(n) ? [0, parseInt(n, 10), ''] : [1, 0, n];
@@ -365,6 +370,8 @@
         file: r.file || '',
         desc: r.desc || '',
         price: (typeof r.price === 'number') ? r.price : null,
+        oldPrice: (typeof r.oldPrice === 'number') ? r.oldPrice : null,
+        discount: (typeof r.discount === 'number') ? r.discount : 0,
         priceBase: (typeof r.priceBase === 'number') ? r.priceBase : null,
         rotation: (r.rotation === 'cw' || r.rotation === 'ccw') ? r.rotation : null,
         key: r.key || (serie + '-' + number + '-' + (r.finish || 'none'))
@@ -472,7 +479,15 @@
     var finishClass = c.finish === 'gold' ? 'finish-gold' : c.finish === 'silver' ? 'finish-silver' : 'finish-dreamcast';
     var badgeClass = c.finish === 'gold' ? 'gold' : c.finish === 'silver' ? 'silver' : 'none';
     var badge = '<span class="finish-badge ' + badgeClass + '">' + esc(finishLabel(c.finish)) + '</span>';
-    var priceBadge = (c.price != null) ? '<span class="price-badge">$' + esc(c.price) + '</span>' : '';
+    var priceBadge = '';
+    if (c.price != null) {
+      var priceTxt = '$' + fmtPrice(c.price);
+      if (c.oldPrice != null && c.oldPrice !== c.price) {
+        priceBadge = '<span class="price-badge"><s>$' + fmtPrice(c.oldPrice) + '</s> ' + priceTxt + (c.discount ? ' <span class="price-off">-' + esc(c.discount) + '%</span>' : '') + '</span>';
+      } else {
+        priceBadge = '<span class="price-badge">' + priceTxt + '</span>';
+      }
+    }
     var numLabel = displayNumber(c);
     return (
       '<article class="card ' + finishClass + (sel ? ' is-selected' : '') + '" data-key="' + esc(c.key) + '" tabindex="0" role="button" aria-label="' + esc(c.name + ' ' + numLabel + ' ' + finishLabel(c.finish)) + '">' +
