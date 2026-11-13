@@ -966,7 +966,7 @@ body.select-mode .card .card-media::after{
 }
 .total-price b{
   font-family:var(--font-mono);
-  font-size:16px;
+  font-size:26px;
   font-weight:800;
   color:var(--ink);
 }
@@ -982,11 +982,12 @@ body.selected-mode .total-price b{ color:#fff; }
 .total-price s{
   opacity:.55;
   font-weight:600;
+  font-size:15px;
 }
 .total-off{
   color:var(--brand-pink);
   font-weight:800;
-  font-size:11px;
+  font-size:12px;
   margin-left:2px;
 }
 .selected-sub{ margin:0; font-size:13px; color:var(--mute); }
