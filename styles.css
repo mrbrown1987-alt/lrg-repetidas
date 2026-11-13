@@ -684,7 +684,7 @@ body.select-mode .card-toggle{ opacity:1; transform:none; }
 .card-name{
   margin:0;
   padding:0 max(46px,16cqw);
-  font-size:max(11.5px,4.4cqw);
+  font-size:max(16px,5.6cqw);
   font-weight:800;
   line-height:1.2;
   color:inherit;
