@@ -299,6 +299,27 @@ main{
   flex-wrap:wrap;
   margin-top:12px;
 }
+.select-mode-wrap{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-end;
+  gap:6px;
+  flex:0 0 auto;
+}
+.catalog-total{
+  font-size:12px;
+  color:var(--ink-soft);
+  font-weight:600;
+  white-space:nowrap;
+}
+.catalog-total b{
+  font-family:var(--font-mono);
+  font-size:14px;
+  color:var(--ink);
+  font-weight:800;
+}
+.catalog-total s{ opacity:.55; font-weight:600; }
+.catalog-total .total-off{ font-size:11px; }
 .select-mode-btn{
   margin-left:auto;
   display:inline-flex;

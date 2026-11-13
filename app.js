@@ -232,6 +232,8 @@
   var selectedTitle = $('selectedTitle');
   var selectedTotal = $('selectedTotal');
   var selectedTotalPrice = $('selectedTotalPrice');
+  var catalogTotal = $('catalogTotal');
+  var catalogTotalPrice = $('catalogTotalPrice');
   var selectedSub = $('selectedSub');
   var requestPricesBtn = $('requestPricesBtn');
   var exportCsvBtn = $('exportCsvBtn');
@@ -461,6 +463,7 @@
     var n = computeSelection().length;
     navSelectedCount.textContent = fmtNum(n);
     selectBarCount.textContent = t('nSelected', { n: fmtNum(n) });
+    updateCatalogTotal();
   }
   function clearAllCart() {
     cart = {};
@@ -756,6 +759,26 @@
     if (n > 10) return 5;
     return 0;
   }
+  function cartTotals() {
+    var list = getCartInOrder();
+    var n = list.length;
+    var sum = 0;
+    list.forEach(function (c) { if (c.price != null) sum += c.price; });
+    sum = Math.round(sum * 100) / 100;
+    var pct = volumeDiscountPct(n);
+    var total = pct ? Math.round(sum * (1 - pct / 100) * 100) / 100 : sum;
+    return { n: n, sum: sum, pct: pct, total: total };
+  }
+  function totalHTML(t) {
+    if (t.pct) return '<s>$' + fmtPrice(t.sum) + '</s> $' + fmtPrice(t.total) + ' <span class="total-off">-' + t.pct + '%</span>';
+    return '$' + fmtPrice(t.total);
+  }
+  function updateCatalogTotal() {
+    if (!catalogTotal || !catalogTotalPrice) return;
+    var t = cartTotals();
+    catalogTotal.hidden = t.n === 0;
+    catalogTotalPrice.innerHTML = totalHTML(t);
+  }
 
   function renderSelected() {
     cartList = getCartInOrder();
@@ -773,6 +796,7 @@
         selectedTotalPrice.textContent = '$' + fmtPrice(total);
       }
     }
+    updateCatalogTotal();
     selectedGrid.innerHTML = cartList.map(function (c) { return cardHTML(c, true); }).join('');
     attachImageLoaders(selectedGrid);
     selectedEmpty.hidden = n > 0;
