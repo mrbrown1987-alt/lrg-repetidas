@@ -968,6 +968,16 @@ body.select-mode .card .card-media::after{
 }
 body.selected-mode .total-label{ color:#c9a8bd; }
 body.selected-mode .total-price b{ color:#fff; }
+.total-price s{
+  opacity:.55;
+  font-weight:600;
+}
+.total-off{
+  color:var(--brand-pink);
+  font-weight:800;
+  font-size:11px;
+  margin-left:2px;
+}
 .selected-sub{ margin:0; font-size:13px; color:var(--mute); }
 .selected-actions{
   display:flex;

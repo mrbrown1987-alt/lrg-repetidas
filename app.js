@@ -741,6 +741,14 @@
   }
 
   /* ---------------- selected view ---------------- */
+  function volumeDiscountPct(n) {
+    if (n > 100) return 20;
+    if (n > 50) return 15;
+    if (n > 20) return 10;
+    if (n > 10) return 5;
+    return 0;
+  }
+
   function renderSelected() {
     cartList = getCartInOrder();
     var n = cartList.length;
@@ -748,7 +756,15 @@
     var sum = 0;
     cartList.forEach(function (c) { if (c.price != null) sum += c.price; });
     sum = Math.round(sum * 100) / 100;
-    if (selectedTotalPrice) selectedTotalPrice.textContent = '$' + fmtPrice(sum);
+    var pct = volumeDiscountPct(n);
+    var total = pct ? Math.round(sum * (1 - pct / 100) * 100) / 100 : sum;
+    if (selectedTotalPrice) {
+      if (pct) {
+        selectedTotalPrice.innerHTML = '<s>$' + fmtPrice(sum) + '</s> $' + fmtPrice(total) + ' <span class="total-off">-' + pct + '%</span>';
+      } else {
+        selectedTotalPrice.textContent = '$' + fmtPrice(total);
+      }
+    }
     selectedGrid.innerHTML = cartList.map(function (c) { return cardHTML(c, true); }).join('');
     attachImageLoaders(selectedGrid);
     selectedEmpty.hidden = n > 0;
