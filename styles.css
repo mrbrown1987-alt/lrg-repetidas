@@ -527,7 +527,7 @@ main{
   cursor:pointer;
   transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease;
 }
-body.select-mode .card{ border-color:var(--pink); }
+body.select-mode .card{ border-color:#15151b; }
 .card:hover{
   transform:translateY(-4px);
   box-shadow:var(--shadow);
@@ -755,6 +755,16 @@ body.select-mode .card-name-bar,
 body.select-mode .card-name-bar.finish-gold,
 body.select-mode .card-name-bar.finish-silver,
 body.select-mode .card-name-bar.finish-dreamcast{
+  background:#fff;
+  background-image:none;
+  color:var(--pink);
+  border-color:#ececf1;
+  text-shadow:none;
+}
+body.select-mode .card.is-selected .card-name-bar,
+body.select-mode .card.is-selected .card-name-bar.finish-gold,
+body.select-mode .card.is-selected .card-name-bar.finish-silver,
+body.select-mode .card.is-selected .card-name-bar.finish-dreamcast{
   background:var(--pink);
   background-image:none;
   color:#fff;
@@ -907,7 +917,7 @@ body.select-mode .card{ cursor:crosshair; }
 }
 
 body.select-mode .card{ cursor:copy; }
-body.select-mode .card:hover{ border-color:var(--pink-deep); }
+body.select-mode .card:hover{ border-color:#15151b; }
 body.select-mode .card .card-media::after{
   content:"";
   position:absolute; inset:0;
