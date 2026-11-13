@@ -946,6 +946,28 @@ body.select-mode .card .card-media::after{
   vertical-align:middle;
   margin-left:8px;
 }
+.total-price{
+  display:inline-flex;
+  align-items:baseline;
+  gap:5px;
+  margin-left:10px;
+  vertical-align:middle;
+}
+.total-label{
+  font-size:9px;
+  font-weight:800;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--ink-soft);
+}
+.total-price b{
+  font-family:var(--font-mono);
+  font-size:16px;
+  font-weight:800;
+  color:var(--ink);
+}
+body.selected-mode .total-label{ color:#c9a8bd; }
+body.selected-mode .total-price b{ color:#fff; }
 .selected-sub{ margin:0; font-size:13px; color:var(--mute); }
 .selected-actions{
   display:flex;

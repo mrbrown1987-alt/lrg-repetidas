@@ -225,6 +225,7 @@
   var selectedView = $('selectedView');
   var selectedTitle = $('selectedTitle');
   var selectedTotal = $('selectedTotal');
+  var selectedTotalPrice = $('selectedTotalPrice');
   var selectedSub = $('selectedSub');
   var requestPricesBtn = $('requestPricesBtn');
   var exportCsvBtn = $('exportCsvBtn');
@@ -744,6 +745,10 @@
     cartList = getCartInOrder();
     var n = cartList.length;
     selectedTotal.textContent = fmtNum(n);
+    var sum = 0;
+    cartList.forEach(function (c) { if (c.price != null) sum += c.price; });
+    sum = Math.round(sum * 100) / 100;
+    if (selectedTotalPrice) selectedTotalPrice.textContent = '$' + fmtPrice(sum);
     selectedGrid.innerHTML = cartList.map(function (c) { return cardHTML(c, true); }).join('');
     attachImageLoaders(selectedGrid);
     selectedEmpty.hidden = n > 0;
