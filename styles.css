@@ -970,6 +970,13 @@ body.select-mode .card .card-media::after{
   font-weight:800;
   color:var(--ink);
 }
+.selected-title #selectedPickBtn{
+  margin-left:10px;
+  vertical-align:middle;
+  padding:7px 13px;
+  font-size:12px;
+  border-radius:9px;
+}
 body.selected-mode .total-label{ color:#c9a8bd; }
 body.selected-mode .total-price b{ color:#fff; }
 .total-price s{
