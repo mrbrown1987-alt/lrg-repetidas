@@ -453,6 +453,7 @@ main{
   border:1.5px solid #15151b;
   border-radius:0;
   overflow:hidden;
+  container-type:inline-size;
   cursor:pointer;
   transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease;
 }
@@ -516,12 +517,12 @@ body.select-mode .card{ border-color:var(--pink); }
 /* finish badge (top-left) */
 .finish-badge{
   position:absolute;
-  top:8px; left:8px;
+  top:max(8px,3.1cqw); left:max(8px,3.1cqw);
   z-index:3;
-  padding:4px 9px;
+  padding:max(4px,1.6cqw) max(9px,3.5cqw);
   border-radius:999px;
   font-family:var(--font-body);
-  font-size:8.5px;
+  font-size:max(8.5px,3.3cqw);
   font-weight:800;
   letter-spacing:.1em;
   text-transform:uppercase;
@@ -543,12 +544,12 @@ body.select-mode .card{ border-color:var(--pink); }
 }
 .price-badge{
   position:absolute;
-  top:8px; right:8px;
+  top:max(8px,3.1cqw); right:max(8px,3.1cqw);
   z-index:3;
-  padding:4px 9px;
+  padding:max(4px,1.6cqw) max(9px,3.5cqw);
   border-radius:999px;
   font-family:var(--font-mono);
-  font-size:10.5px;
+  font-size:max(10.5px,4.1cqw);
   font-weight:700;
   letter-spacing:.02em;
   background:#15151b;
@@ -566,7 +567,7 @@ body.select-mode .card{ border-color:var(--pink); }
 .price-off{
   color:var(--brand-pink);
   font-weight:800;
-  font-size:9px;
+  font-size:max(9px,3.6cqw);
   margin-left:2px;
 }
 
@@ -602,13 +603,13 @@ body.select-mode .card-toggle{ opacity:1; transform:none; }
   overflow:hidden;
   background:var(--pink);
   /* Thin single-line bar, like the original TC Manager app */
-  padding:5px 8px 4px;
+  padding:max(5px,1.9cqw) max(8px,3.1cqw) max(4px,1.5cqw);
   border-bottom:1.5px solid rgba(21,21,27,.72);
   color:#fff;
 }
 .card-name{
   margin:0;
-  font-size:11.5px;
+  font-size:max(11.5px,4.4cqw);
   font-weight:800;
   line-height:1.2;
   color:inherit;
@@ -620,7 +621,7 @@ body.select-mode .card-toggle{ opacity:1; transform:none; }
 .card-name-num{
   font-family:var(--font-mono);
   font-weight:700;
-  font-size:10px;
+  font-size:max(10px,3.8cqw);
   opacity:.85;
 }
 
