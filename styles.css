@@ -1431,73 +1431,75 @@ body.lb-open{ overflow:hidden; }
 }
 
 /* ---------------- Selected view theme ---------------- */
-/* Deliberately different palette (dark plum + pink) so the screen change is obvious. */
+/* Light rosé theme: clearly different from the black catalog. */
 body.selected-mode{
   background:
-    radial-gradient(1200px 520px at 12% -10%, rgba(255,46,126,.20), transparent 60%),
-    radial-gradient(1000px 480px at 92% 0%, rgba(168,85,247,.18), transparent 55%),
-    #1a0f1f;
-  color:#f3e8f2;
+    radial-gradient(1200px 520px at 12% -10%, rgba(255,46,126,.14), transparent 60%),
+    radial-gradient(1000px 480px at 92% 0%, rgba(255,91,152,.12), transparent 55%),
+    #fff7fa;
+  color:#15151b;
 }
 body.selected-mode .site-header{
-  background:#211424;
-  border-bottom-color:#3a2440;
+  background:rgba(255,255,255,.94);
+  border-bottom-color:#f0dfe6;
 }
-body.selected-mode .brand-title{ color:#fff; }
-body.selected-mode .brand-sub{ color:#c9a8bd; }
+body.selected-mode .brand-title{ color:#15151b; }
+body.selected-mode .brand-sub{ color:#8b8b98; }
 body.selected-mode .view-nav{
-  background:#2a182e;
-  border-color:#4a2a52;
+  background:#fff;
+  border-color:#f0dfe6;
 }
-body.selected-mode .nav-btn{ color:#e8cfe0; }
-body.selected-mode .nav-btn:hover{ background:#3a2240; }
+body.selected-mode .nav-btn{ color:#4a4a54; }
+body.selected-mode .nav-btn:hover{ background:#ffe3ef; }
 body.selected-mode .nav-btn.active{
   background:#ff2e7e;
   color:#fff;
-  box-shadow:0 6px 16px -8px rgba(255,46,126,.8);
+  box-shadow:0 6px 16px -8px rgba(255,46,126,.55);
 }
 body.selected-mode .nav-btn:not(.active) .nav-count{
   background:#ff2e7e;
   color:#fff;
 }
 body.selected-mode .lang-btn{
-  background:#2a182e;
-  border-color:#5a3360;
-  color:#ffb3d1;
+  background:#fff;
+  border-color:#f0dfe6;
+  color:#c2185b;
 }
 body.selected-mode .lang-menu{
-  background:#241528;
-  border-color:#3a2440;
+  background:#fff;
+  border-color:#f0dfe6;
 }
-body.selected-mode .lang-option{ color:#f3e8f2; }
-body.selected-mode .lang-option:hover{ background:#3a2240; color:#ffb3d1; }
-body.selected-mode .lang-option.active{ background:#3a2240; color:#ffb3d1; }
+body.selected-mode .lang-option{ color:#15151b; }
+body.selected-mode .lang-option:hover{ background:#ffe3ef; color:#c2185b; }
+body.selected-mode .lang-option.active{ background:#ffe3ef; color:#c2185b; }
 
-body.selected-mode .selected-head{ border-bottom-color:#3a2440; }
-body.selected-mode .selected-title{ color:#fff; }
-body.selected-mode .selected-sub{ color:#c9a8bd; }
+body.selected-mode .selected-head{ border-bottom-color:#f0dfe6; }
+body.selected-mode .selected-title{ color:#15151b; }
+body.selected-mode .selected-sub{ color:#8b8b98; }
 body.selected-mode .total-badge{ background:#ff2e7e; }
-body.selected-mode .link-btn{ color:#ff8ab8; }
+body.selected-mode .total-label{ color:#8b8b98; }
+body.selected-mode .total-price b{ color:#15151b; }
+body.selected-mode .link-btn{ color:#c2185b; }
 body.selected-mode .link-btn:hover{ color:#ff2e7e; }
 body.selected-mode .secondary-btn{
-  background:#2a182e;
-  border-color:#6a3a72;
-  color:#ffb3d1;
+  background:#fff;
+  border-color:#f0dfe6;
+  color:#c2185b;
 }
 body.selected-mode .secondary-btn:hover{
-  background:#3a2240;
+  background:#ffe3ef;
   border-color:#ff2e7e;
-  color:#fff;
+  color:#15151b;
 }
 body.selected-mode .danger-btn{
-  background:#2a182e;
-  border-color:#7a3030;
-  color:#ff9a9a;
+  background:#fff;
+  border-color:#f0c8d4;
+  color:#c2185b;
 }
 body.selected-mode .danger-btn:hover{
-  background:#3a1f1f;
+  background:#ffe3ef;
   border-color:#ff5b5b;
-  color:#fff;
+  color:#c2185b;
 }
 body.selected-mode .primary-btn{
   background:linear-gradient(135deg,#ff2e7e,#ff5b98);
@@ -1508,11 +1510,11 @@ body.selected-mode .primary-btn:hover{
   background:linear-gradient(135deg,#e0246f,#ff2e7e);
   border-color:#e0246f;
 }
-body.selected-mode .selected-empty .empty-title{ color:#fff; }
-body.selected-mode .selected-empty .empty-text{ color:#c9a8bd; }
-body.selected-mode .site-footer{ border-top-color:#3a2440; }
-body.selected-mode .site-footer p{ color:#9a7f92; }
-body.selected-mode .footer-preview-link a{ color:#ff8ab8; }
+body.selected-mode .selected-empty .empty-title{ color:#15151b; }
+body.selected-mode .selected-empty .empty-text{ color:#8b8b98; }
+body.selected-mode .site-footer{ border-top-color:#f0dfe6; }
+body.selected-mode .site-footer p{ color:#8b8b98; }
+body.selected-mode .footer-preview-link a{ color:#c2185b; }
 
 /* ---------------- iPhone preview mode ---------------- */
 /* Applied by app.js when the page is loaded inside preview-iphone.html
